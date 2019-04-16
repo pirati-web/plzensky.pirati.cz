@@ -1,9 +1,6 @@
 ---
-layout: communal-elections
-title: Komunální volby v Praze
-campaignCategoryUid: praha2018
-candidateListUid: radnice # uid z `_candidates/radnice.md`
----
+layout: european-elections
+title: Evropské volby
 
 Úvodní text např. vysvětlení koalice, podpory.
 
