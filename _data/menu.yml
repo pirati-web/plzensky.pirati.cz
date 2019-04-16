@@ -16,16 +16,9 @@ main:
   - link: /lide/
     name: O nás
     match: lide
-  - link: /tabulka/
-    name: Tabulka
-    match: tabulka
-  - link: /komunalni-volby/
-    name: Komunální volby
-    match: komunalni-volby
-    submenu:
-      - link: /komunalni-volby/mapa-zameru/
-        name: Mapa záměrů
-        match: mapa-zameru
+  - link: https://evropapotrebuje.cz/
+    name: Evropské volby
+    match: evropske-volby
   - link: /kontakt/
     name: Kontakt
     match: kontakt
