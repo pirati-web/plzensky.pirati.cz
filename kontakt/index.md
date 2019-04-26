@@ -13,14 +13,12 @@ contentSize: default
   <h1 class="t-h2-alt">Přidejte se</h1>
 </div>
 
-Zajámá vás co piráti dělají? Ozvěte se Jakubu Pirátovy nebo přijďte k nám
-na schůzi kterou pořádáme v XY.
+Zajámá vás co Piráti v Plzeňském kraji dělají? Ozvěte se našemu koordinátorovi Janu Poustkovi nebo k nám přijďte
+na nejbližší schůzi, o jejímž datu konání Vás bude náš koordinátor rád informovat.
 
-Chcete přístup k pirátskym systémum? Regitrujte se na nalodění. TODO odkaz.
+  Chcete přístup k pirátskym systémum? Regitrujte se na [nalodění](httoa://nalodeni.pirati.cz).
 
-Financí dary můžete posílat na [dary](https://dary.pirati.cz).
-Pokud chcete darovat přimo naší MS poradtě se s XY
+Finanční dary můžete posílat na [dary](https://dary.pirati.cz).
+Pokud chcete darovat přimo našemu Kraskému sdružení poradtě se s naším koordinátorem.
 
-
-Strany našeho kraje jsou TODO.
 
