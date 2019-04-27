@@ -23,7 +23,7 @@ profiles:
 office:
   - address: U Zvonu 4/9, 301 00  Plzeň
     name: Poslanecká kancelář
-    opening: "Pondělí 14:00 - 17:00, objednání návštěvy: jan.poustka@pirati.cz nebo tel.: 778 111 465. 
+    opening: "Pondělí 14:00 - 17:00, objednání návštěvy: jan.poustka@pirati.cz nebo tel.: 778 111 465"
 ---
 
 Ing. Lukáš Bartoň (30. 1. 1981 v Českých Budějovicích) je předsedou krajského sdružení Plzeňský kraj. Povoláním jsem strojař, výzkumník.
