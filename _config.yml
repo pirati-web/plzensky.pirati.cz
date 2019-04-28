@@ -24,8 +24,7 @@ organization:
      U Zvonu 4/9
     301 00 Plzeň 3
   residenceImg:
-  mapLink: https://mapy.cz/zakladni?vlastni-body&x=14.4418976&y=50.0863156&z=18&ut=PiCe&uc=9h2F.xXwtn&ud=ulice%20%C5%98eho%C5%99ova%20943%2F19%2C%20Praha%2C%20130%2000%2C%20okres%20Hlavn%C3%AD%20m%C4%9Bsto%20Praha
-  redmineLink: https://redmine.pirati.cz/projects
+  mapLink: https://en.mapy.cz/zakladni?x=13.3809683&y=49.7462704&z=17&source=addr&id=9071829
   dataBoxId: b2i4r6j
   transparentAccount: 2100048174/2010
 
@@ -35,16 +34,7 @@ organization:
 # 2) vlastní řádky - zde je nutné jako type dát `custom` a vyplnit `label` a `body`
 contactSummaryItems:
   - type: organizationEmail
-  - type: organizationRedmineLink
   - type: organizationPhone
-  - type: organizationTransparentAccount
-    includeMoreLink: true
-  - type: organizationDataBox
-  - type: piratiRootWebsite
-  - type: custom
-    iconClass: fa fa-envelope
-    label: Vlastní řádek tabulky
-    body: <a href="http://example.com">link</a>
 
 calendar:
   # For nice look of the calendar, make sure you get Google Calendar API key
@@ -67,9 +57,6 @@ twitter:
 
 instagram:
   profilePage: https://www.instagram.com/pirati.cz/
-
-gplus:
-  profilePage: https://plus.google.com/u/0/+piratskastrana
 
 flicker:
   profilePage: https://www.flickr.com/photos/pirati/

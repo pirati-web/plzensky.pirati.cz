@@ -19,6 +19,6 @@ na nejbližší schůzi, o jejímž datu konání Vás bude náš koordinátor r
   Chcete přístup k pirátskym systémum? Regitrujte se na [nalodění](httoa://nalodeni.pirati.cz).
 
 Finanční dary můžete posílat na [dary](https://dary.pirati.cz).
-Pokud chcete darovat přimo našemu Kraskému sdružení poradtě se s naším koordinátorem.
+Pokud chcete darovat přimo našemu Kraskému sdružení poradte se s naším koordinátorem.
 
 

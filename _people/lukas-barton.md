@@ -6,7 +6,9 @@ titles:
   after: Ph.D.
 category:
   - poslanci
-  - předseda krajského sdružení Plzeňský kraj, poslanec poslanecké sněmovny parlamentu ČR
+  - clenove
+ordpms: 1
+ordclenove: 3
 description: poslanec poslanecné sněmovny parlamentu ČR # zobrazuje se v lide
 #img: people/aktivni-priznivec.jpg # zakomentuj radek dokud není fotka
 asistenti:

@@ -13,9 +13,9 @@ main:
   - link: /aktuality/
     name: Aktuality
     match: aktuality
-  - link: /lide/
-    name: O nás
-    match: lide
+#  - link: /lide/
+#    name: O nás
+#    match: lide
   - link: https://evropapotrebuje.cz/
     name: Evropské volby
     match: evropske-volby
