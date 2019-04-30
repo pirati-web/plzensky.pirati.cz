@@ -7,13 +7,12 @@ author: Josef Kubát, Olga Richterová
 image: posts/navsteva-olgy-richterove.jpg
 ---
 
-#NÁVŠTĚVA OLGY RICHTEROVÉ V REGIONU, PIRÁTI A SOCIÁLNÍ SLUŽBY
-Ve středu 27. února, v průběhu takzvaného poslaneckého týdne, jsme s 1. místopředsedkyní České pirátské strany a poslankyní Olgou Richterovou navštívili sedm zařízení poskytující sociální služby v plzeňském kraji a zjišťovali od jejich provozovatelů, s jakými problémy se potýkají a co naopak mají za dobrou praxi. Jako místopředsedkyně výboru pro sociální politiku chce mít celorepublikové srovnání 
-a představu o rozmanitosti dobré praxe.
+## NÁVŠTĚVA OLGY RICHTEROVÉ V REGIONU, PIRÁTI A SOCIÁLNÍ SLUŽBY
+# Ve středu 27. února, v průběhu takzvaného poslaneckého týdne, jsme s 1. místopředsedkyní České pirátské strany a poslankyní Olgou Richterovou navštívili sedm zařízení poskytující sociální služby v plzeňském kraji a zjišťovali od jejich provozovatelů, s jakými problémy se potýkají a co naopak mají za dobrou praxi. Jako místopředsedkyně výboru pro sociální politiku chce mít celorepublikové srovnání a představu o rozmanitosti dobré praxe.
 
-#JAKÝ KRAJ NAVŠTÍVILA OLGA RICHTEROVÁ?
+## JAKÝ KRAJ NAVŠTÍVILA OLGA RICHTEROVÁ?
 Cestu popisujeme jako seriál o několika podstatných tématech sociální politiky v kraji. Jednotlivé díly přicházejí ve stejné časové souslednosti jako probíhala návštěva:
-1. díl se věnuje problémům spojeným s provozováním domovů se zvláštním režimem, které pečují o lidi, většinou seniory, kteří mají sníženou soběstačnost z důvodu chronického duševního onemocnění, demence nebo závislosti na návykových látkách. Jeden takový máme i v Domažlicích, co se v něm asi skrýv
+1. díl se věnuje problémům spojeným s provozováním domovů se zvláštním režimem, které pečují o lidi, většinou seniory, kteří mají sníženou soběstačnost z důvodu chronického duševního onemocnění, demence nebo závislosti na návykových látkách. Jeden takový máme i v Domažlicích, co se v něm asi skrývá?
 Další návštěva v Domažlicích (“malý bonus”) nám připomene, že v pohraničí stále funguje sexuální turistika i 30 let od uvolnění hranic, ale síť zajišťující prevenci proti HIV naopak řídne. Co v kraji přetrvalo, co zmizelo a jak s tím bojovat?
 Druhý bonus nám dá nahlédnout nejen do kuchyňky zaměstnanců, ale vůbec pod pokličku celého Úřadu práce v Klatovech. Jaký má s odstupem času na chod úřadu vliv přesun do nové budovy. Trápí zde něco klienty nebo pracovníky?
 
