@@ -4,7 +4,7 @@ category: blog
 tags: ekologie
 title: Tuny betonu už dávno neznamenají pokrok
 author: Pavel Bosák
-image: posts/ekologie-plzen-magistrat.jpg
+image: posts/ekologie-plzen- magistrat.jpg
 ---
 
 ## Tuny betonu už dávno neznamenají pokrok
