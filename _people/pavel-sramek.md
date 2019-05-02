@@ -2,7 +2,7 @@
 uid: pavel.sramek
 name:     Pavel Šrámek  	# běžně používáné jméno
 titles:
-  before: Bc.
+  before: 
   after:
 category:
 - predsedove
