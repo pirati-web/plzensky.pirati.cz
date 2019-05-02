@@ -124,31 +124,31 @@ V kanceláři nám paní ředitelka načrtla problém tabulkových platů: „Na
 3 (zdravotnický personál poskytující zdravotní služby podle § 2 odst. 2 a 3 zákona o zdravotních službách a dále pracovníci v sociálních službách).
 
 
-Praxe         Platová třída 10 (příloha 2)      Platová třída 10 (příloha 3)
+Praxe_________Platová třída 10 (příloha 2)______Patová třída 10 (příloha 3)
 
-do 1 roku     19 760                            22 800
+do 1 roku_____19 760____________________________22 800
 
-do 2 let      20 510                            23 650
+do 2 let______20 510____________________________23 650
 
-do 4 let      21 300                            24 570
+do 4 let______21 300____________________________24 570
 
-do 6 let      22 110                            25 500
+do 6 let______22 110____________________________25 500
 
-do 9 let      22 940                            26 470
+do 9 let______22 940____________________________26 470
 
-do 12 let     23 790                            27 450
+do 12 let_____23 790____________________________27 450
 
-do 15 let     24 700                            28 490
+do 15 let_____24 700____________________________28 490
 
-do 19 let     25 620                            29 570
+do 19 let_____25 620____________________________29 570
 
-do 23 let     26 600                            30 680      
+do 23 let_____26 600____________________________30 680      
 
-do 27 let     27 590                            31 850
+do 27 let_____27 590____________________________31 850
 
-do 32 let     28 650                            33 060
+do 32 let_____28 650____________________________33 060
 
-nad 32 let    29 740                            34 320                          
+nad 32 let____29 740____________________________34 320                          
 
 Olga okamžitě ocenila podnět, který méně naléhavě slyšela už i od jiných vedoucích pracovníků, jimž vzniká nerovné odměňování v týmu, a bude se ptát ministerstva, zda na tom skutečně takto trvá. Piráti dlohodobě prosazují docenění sociální péče a s tím související srovnání mezd.
 
