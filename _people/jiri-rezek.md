@@ -10,7 +10,6 @@ category:
   - clenove
 description: Kandidát na magistrát a ÚMO 1, člen MS Plzeň, místopředseda KS Plzeňský kraj
 img: people/rezek.jpg # zakomentuj radek dokud není fotka
-ordclenove: 2
 mail:
 - jiri.rezek@pirati.cz
 profiles:
