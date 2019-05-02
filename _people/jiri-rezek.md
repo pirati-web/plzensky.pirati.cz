@@ -11,7 +11,7 @@ category:
 ordpms: 1
 ordclenove: 1
 description: Kandidát na magistrát a ÚMO 1, člen MS Plzeň, místopředseda KS Plzeňský kraj
-#img: people/rezek.jpg # zakomentuj radek dokud není fotka
+img: people/rezek.jpg # zakomentuj radek dokud není fotka
 mail:
   - jiri.rezek@pirati.cz
 profiles:
