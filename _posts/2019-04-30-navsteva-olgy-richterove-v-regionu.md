@@ -4,7 +4,7 @@ category: blog
 tags: sociální-služby
 title: NÁVŠTĚVA OLGY RICHTEROVÉ V REGIONU, PIRÁTI A SOCIÁLNÍ SLUŽBY
 author: Josef Kubát, Olga Richterová
-image: posts/navsteva-olgy-richterove.jpg
+image: posts/olga.jpg
 ---
 
 ## NÁVŠTĚVA OLGY RICHTEROVÉ V REGIONU, PIRÁTI A SOCIÁLNÍ SLUŽBY
