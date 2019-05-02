@@ -1,27 +1,28 @@
 ---
-uid: jakub.pirat
-name:     Jakub Pirát  	# běžně používáné jméno
+uid: pavel.sramek
+name:     Pavel Šrámek  	# běžně používáné jméno
 titles:
   before: Bc.
   after:
 category:
+- predsedove
+- zastupitele
 - clenove
-description: mistr světa ve skoku pro něco # zobrazuje se v lide
-img: people/jakub-pirat.jpg # zakomentuj radek dokud není fotka
+description: Předseda zastupitelského klubu Pirátů na ÚMO 3, zastupitel na magistrátu, předseda MS Plzeň
+img: people/sramek.jpg # zakomentuj radek dokud není fotka
 ordclenove: 2
 mail:
-- jakub.pirat@pirati.cz
+- pavel.sramek@pirati.cz
 profiles:
-  facebook: https://www.facebook.com/uzivatel.na.fb  # pokud nema, staci smazat tuto radku
-  googleplus: https://plus.google.com/+uzivatel.na.googleplus
-  twitter: https://twitter.com/uzivatel.na.twitteru
+  facebook: https://www.facebook.com/Pavel.Sram3k 
+  github: https://github.com/PavelSramek
+  
 ---
 
-Jméno Příjmení (*1. ledna 1900) je to a to, a tak dál. Sem patří představení člověka, několik odstavců.
-
-**Vzdělání/práce:** Studoval něco, teď dělá něco.
-
-**Politik:** Třeba čemu se věnuje.
-
-**Osobní:** Něco dalšího, měnit dle libosti, tady může být cokoliv. Není nutné, aby byly nadpisy tučně. Fakt jak chcete.
-
+## Pavel Šrámek
+Pavel Šrámek (* 8. května 1991) je od roku 2016 členem Pirátské strany. Pavel pochází z Plzně a mimo 5 let, které strávil v Hradci Králové, ve svém rodném městě žije a podniká.
+Studoval na Lékařské fakultě v Hradci Králové UK a zároveň na Fakultě vojenského lékařství Univerzity Obrany. Studium nedokončil, po pěti letech jej na obou školách ukončil. V průběhu studia medicíny se aktivně zapojoval do organizování studentských aktivit, zejména činnosti v mezinárodní asociaci mediků IFMSA. Nyní studuje na Právnické fakultě Západočeské univerzity v Plzni.
+Snažil se cestovat a poznávat svět, protože ho fascinuje střet kultur a rád se učí o lidských zvycích z různých částí světa, k čemuž mu pomohla jeho výborná znalost anglického jazyka. Např. navštívil při výměnném pobytu Spojené státy, ale procestoval i Palestinu, Izrael a Jordánsko v době jedné Izraelsko-Palestinské války, která mu pomohla otevřít oči v problematice mezinárodních vztahů.
+Zbožňuje svou nynější práci, i když je někdy náročná, protože při ní má příležitost poznávat nové lidi, přátelsky s nimi komunikovat a případně jim pomáhat v oblasti pojištění, hypoték a financí. Pracuje jako výhradní pojišťovací zprostředkovatel Allianz pojišťovny a.s. a realitní makléř pro společnost INES Reality s.r.o.
+Členem Pirátů je od sprna 2016. V září 2017 před volbami do PSP začal být koordinátorem České pirátské strany v Plzeňském kraji a spolupracoval na volební kampani. Jako koordinátor skončil v lednu 2018, aby se věnoval politické činnosti. Nyní je předsedou místního sdružení Plzeň České pirátské strany.
+Rád plave, jezdí na kole, lyžích a dovádí na snowboardu. Z dalších volnočasových aktivit Pavel nikdy nepohrdne zajímavou diskuzí na jakékoliv téma. :)
