@@ -10,7 +10,7 @@ category:
 ordpms: 1
 ordclenove: 3
 description: poslanec poslanecné sněmovny parlamentu ČR # zobrazuje se v lide
-#img: people/aktivni-priznivec.jpg # zakomentuj radek dokud není fotka
+#img: people/barton.jpg # zakomentuj radek dokud není fotka
 asistenti:
   - name: Jan Poustka
     position: Asitent
