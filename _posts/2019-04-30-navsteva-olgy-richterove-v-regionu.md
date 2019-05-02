@@ -102,7 +102,7 @@ V kanceláři nám paní ředitelka načrtla problém tabulkových platů: „Na
 3 (zdravotnický personál poskytující zdravotní služby podle § 2 odst. 2 a 3 zákona o zdravotních službách a dále pracovníci v sociálních službách).
 
 
-Praxe_________Platová třída 10 (příloha 2)______Patová třída 10 (příloha 3)
+^Praxe  ^Platová třída 10 (příloha 2)  ^Patová třída 10 (příloha 3)
 
 do 1 roku_____19 760____________________________22 800
 
