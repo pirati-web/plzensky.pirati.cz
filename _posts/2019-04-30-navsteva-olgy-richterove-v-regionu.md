@@ -11,7 +11,7 @@ image: posts/olga.jpg
 ### Ve středu 27. února, v průběhu takzvaného poslaneckého týdne, jsme s 1. místopředsedkyní České pirátské strany a poslankyní Olgou Richterovou navštívili sedm zařízení poskytující sociální služby v plzeňském kraji a zjišťovali od jejich provozovatelů, s jakými problémy se potýkají a co naopak mají za dobrou praxi. Jako místopředsedkyně výboru pro sociální politiku chce mít celorepublikové srovnání a představu o rozmanitosti dobré praxe.
 
 
-Článek je převzatý z [webu Klatovských Pirátů](http://piratiklatovy.cz/2239). 
+Článek je převzatý z [webu Klatovských Pirátů](http://piratiklatovy.cz/2239), kde najdete i videoreportáž z cesty. 
 
 ## JAKÝ KRAJ NAVŠTÍVILA OLGA RICHTEROVÁ?
 Cestu popisujeme jako seriál o několika podstatných tématech sociální politiky v kraji. Jednotlivé díly přicházejí ve stejné časové souslednosti jako probíhala návštěva:
