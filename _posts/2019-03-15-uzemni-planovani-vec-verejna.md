@@ -4,7 +4,7 @@ category: blog
 tags: územní-rozvoj
 title: Územní plánování – věc veřejná!
 author: Rudolf Špoták
-image: posts/rudolf-spotak.jpg
+image: posts/san.jpg
 ---
 
 ## Územní plánování – věc veřejná!
