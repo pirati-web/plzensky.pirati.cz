@@ -12,7 +12,7 @@ description: zastupitel v obci Holíšov, místopředseda KS Plzeňský kraj, č
 img: people/ertl.jpg # zakomentuj radek dokud není fotka
 ordclenove: 2
 mail:
-- michal.ertlk@pirati.cz
+- michal.ertl@pirati.cz
 profiles:
   facebook: https://www.facebook.com/jiri.rezek.1 
 ---
