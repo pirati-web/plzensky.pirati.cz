@@ -2,7 +2,7 @@
 uid: michal.ertl
 name:     Michal Ertl  	# běžně používáné jméno
 titles:
-  before: Ing 
+  before: Ing. 
   after: 
 category:
 - mistopredsedove
@@ -15,8 +15,7 @@ mail:
 - michal.ertlk@pirati.cz
 profiles:
   facebook: https://www.facebook.com/jiri.rezek.1 
-  
-  ---
+---
   
   Michal Ertl (1963) Odjakživa jsem liberální demokrat s pravicovým myšlením a sociálním cítěním pro potřebné. Narozen na druhý svátek vánoční LP 1963 v Přerově Studoval SPŠ automatizačni Přerov, VA Brno obor vyzbrojně technicky a UP Olomouc obor pedagogika a psychologie.
   
