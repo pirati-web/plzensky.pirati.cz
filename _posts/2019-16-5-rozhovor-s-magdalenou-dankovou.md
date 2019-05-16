@@ -16,6 +16,7 @@ image: posts/2.kampan.jpg
 ### Jaká byla tvá cesta k Pirátům a jak se na své působení zpětně díváš? Kam jako člen směřuješ?
 V České pirátské straně působím od června 2015 a sympatizantem jsem byla již pár let předtím. Má cesta vedla přes příznivce, řadového člena, post místopředsedkyně Plzně a kraje až po nynější pozici městského zastupitele. Věřím, že zkratky neexistují. Ráda bych postupně prohlubovala své znalosti systému a pomohla k jeho zjednodušení a zefektivnění. Ať už na úrovni obvodu, města či dokonce v europarlamentu.
 
+
 ### Čím se v každodenním životě zabýváš? Jak bys chtěla představit sama sebe voličům, kteří přemýšlejí, komu dát svůj hlas? 
 Vystudovala jsem pedagogickou fakultu, obor matematika a chemie, posledních 6 let učím. Zastupitelem jsem se stala po komunálních volbách v říjnu 2018. A dále bych se chtěla v obou odvětvích nějakých způsobem rozvíjet a být aktivní. 
 
