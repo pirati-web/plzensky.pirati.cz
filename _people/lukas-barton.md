@@ -9,7 +9,7 @@ category:
   - clenove
 ordpms: 1
 ordclenove: 3
-description: poslanec poslanecné sněmovny parlamentu ČR # zobrazuje se v lide
+description: předseda KS Plzeňského kraje # zobrazuje se v lide
 img: people/barton.jpg # zakomentuj radek dokud není fotka
 asistenti:
   - name: Jan Poustka
