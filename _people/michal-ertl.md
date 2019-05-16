@@ -6,9 +6,8 @@ titles:
   after: 
 category:
 - mistopredsedove
-- zastupitele
 - clenove
-description: zastupitel v obci Holíšov, místopředseda KS Plzeňský kraj, člen MS Holíšov,
+description: třetí místopředseda KS Plzeňský kraj
 img: people/ertl.jpg # zakomentuj radek dokud není fotka
 ordclenove: 2
 mail:
