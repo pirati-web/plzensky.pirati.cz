@@ -7,7 +7,7 @@ titles:
 category:
 - mistopredsedove
 - clenove
-description: třetí místopředseda KS Plzeňský kraj
+description: 3. místopředseda KS Plzeňský kraj
 img: people/ertl.jpg # zakomentuj radek dokud není fotka
 ordclenove: 2
 mail:
