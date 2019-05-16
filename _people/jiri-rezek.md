@@ -8,7 +8,7 @@ category:
 - mistopredsedove
 - zastupitele
 - clenove
-description: druhý místopředseda KS Plzeňského kraje
+description: 2. místopředseda KS Plzeňského kraje
 img: people/rezek.jpg # zakomentuj radek dokud není fotka
 ordclenove: 2
 mail:
