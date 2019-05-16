@@ -43,10 +43,3 @@ Díky svému vystudovanému oboru a zájmům bych se ráda stala členkou někte
 Myslím si, že svoboda je v dnešní moderní době klíčová. Jakmile pochopíme hloubku a význam hodnot, jako je svoboda, sdílení informací a ochranu občana mnohdy před šikanou státu, pak naše společnost udělá obrovský pokrok.
 
 Za stěžejní body proto považuji protikorupční tématikou: důsledně otevřená výběrová řízení na všechny pozice ve firmě ovládané státem a tím zamezení potenciální protekce. Úpravy týkající se stopnutí hromadění exekucí. Velmi se mi také líbí založení firmy za jeden den a tím podpoření malých českých podnikatelů. A jako učitel považuji vzdělanou společnost za nejlepší záruku svobody, a proto mimo jiné souhlasím se zvýšením platů učitelů o 20 %.
-
-
-
-
-
-
-
