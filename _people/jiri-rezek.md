@@ -8,7 +8,7 @@ category:
 - mistopredsedove
 - zastupitele
 - clenove
-description: Kandidát na magistrát a ÚMO 1, člen MS Plzeň, místopředseda KS Plzeňský kraj
+description: druhý místopředseda KS Plzeňského kraje
 img: people/rezek.jpg # zakomentuj radek dokud není fotka
 ordclenove: 2
 mail:
