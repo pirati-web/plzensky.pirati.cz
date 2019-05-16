@@ -8,7 +8,7 @@ category:
 - predsedove
 - zastupitele
 - clenove
-description: Předseda zastupitelského klubu Pirátů na ÚMO 3, zastupitel na magistrátu, předseda MS Plzeň
+description: Místopředseda KS Plzeňského kraje
 img: people/sramek.jpg # zakomentuj radek dokud není fotka
 ordclenove: 2
 mail:
