@@ -11,7 +11,7 @@ image: posts/2.kampan.jpg
 
 ## Budoucnost Evropy má v rukou Evropský parlament, Piráti budou aktivně hájit zájmy ČR
 
-### Mgr. Magdaléna Daňková (*1982) je pedagožka a plzeňská zastupitelka. Vystudovala matematiku a chemii na Západočeské univerzitě. V Evropském parlamentu by se ráda věnovala oblasti kultury a školství, kde se chce soustředit na jazykovou vybavenost studentů a učitelů a podpořit jejich zahraniční výměny. Jejími dalšími doménami jsou životní prostředí a migrační politika.
+### Mgr. Magdaléna Daňková je pedagožka a plzeňská zastupitelka. Vystudovala matematiku a chemii na Západočeské univerzitě. V Evropském parlamentu by se ráda věnovala oblasti kultury a školství, kde se chce soustředit na jazykovou vybavenost studentů a učitelů a podpořit jejich zahraniční výměny. Jejími dalšími doménami jsou životní prostředí a migrační politika.
 
 ### Jaká byla tvá cesta k Pirátům a jak se na své působení zpětně díváš? Kam jako člen směřuješ?
 V České pirátské straně působím od června 2015 a sympatizantem jsem byla již pár let předtím. Má cesta vedla přes příznivce, řadového člena, post místopředsedkyně Plzně a kraje až po nynější pozici městského zastupitele. Věřím, že zkratky neexistují. Ráda bych postupně prohlubovala své znalosti systému a pomohla k jeho zjednodušení a zefektivnění. Ať už na úrovni obvodu, města či dokonce v europarlamentu.
