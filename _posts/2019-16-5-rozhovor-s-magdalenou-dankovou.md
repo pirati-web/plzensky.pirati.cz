@@ -1,5 +1,5 @@
 ---
-date: 2019-16-05
+date: 2019-16-05T08:00:00.000Z
 category: blog
 tags: rozhovor
 title: Rozhovor s kandidátkou do Evropského parlamentu za Plzeňský kraj Magdalenou Daňkovou
