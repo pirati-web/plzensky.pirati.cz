@@ -7,7 +7,7 @@ author: Pavel Šrámek
 inamge: posts/Plzeň magistrát - Pavel Šrámek2 - předseda MS Plzeň.jpg
 ---
 
-##CITYVIZOR
+## CITYVIZOR
 Rezavá kola veřejné správy jsou čím dál více postupně promazávána důležitým olejem transparence. Dnes je již zcela běžné, že si můžete dohledat, jak vaše obec hospodaří a jaké platí faktury. Nicméně uživatelská přívětivost je o to menší, čím větší je roztroušenost po různých webových stránkách. Systém Cityvizor, který plzeňští Piráti představili, toto všechno umožňuje v jedné přehledné aplikaci.
 
 „Rozklikávací rozpočet na úroveň faktur jsme voličům slíbili v našem programu, proto jsem se ihned po volbách zaměřil na projekt Cityvizor, který umožní Plzeňákům na jedné stránce ukázat údaje o rozpočtu města, plnění rozpočtu, smlouvy uveřejněné v registru smluv a přehlednou elektronickou úřední desku“, říká předseda Plzeňských Pirátů, Pavel Šrámek.
