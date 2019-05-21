@@ -9,10 +9,6 @@ image: posts/jiri_zavrel.jpg
 
 ## I na komunální politiky musí být vidět
 
-### Piráti v kraji se zasazují o přehledné zveřejňování jednání zastupitelstev a dohledatelné hlasování jednotlivých zastupitelů.
-
-### Komentář Ing. Jiřího Zavřela, zastupitele Města Klatovy.
-
 V komunální politice aktivně působím teprve od voleb v roce 2018, avšak i za těch pár měsíců jsem nemile překvapen zejména tím, že na mnohých místech nejsou občané dostatečně informování o práci svých zastupitelů. Ať už se jedná o opožděné zveřejňování zápisů ze zastupitelstva, či dokonce nezveřejňování usnesení a zápisů rady města, jako kdyby šlo o přísně tajné dokumenty. I díky těmto ‚detailům‘ občané ztrácejí zájem o místní politiku, protože dobrat se informací je buďto namáhavé, zdlouhavé nebo obojí.
 
 Základním stavebním prvkem důvěry voliče ve své zastupitele je možnost jasně vidět, jak zvolený politik pracuje a hlasuje. Alespoň druhá část, tedy o tom, jak zastupitel hlasuje, lze realizovat přehledně a transparentně vhodnou formou hlasování. Zákon nestanoví přesnou formu hlasování, je na zastupitelstvech měst a obcí, jakou formu si upraví v jejich jednacím řádu. Nejprůhlednější variantou je adresné (jmenovité) hlasování. Takové hlasování, kdy je zřejmé a dohledatelné, jak jimi který zastupitel hájí zájmy svých voličů a dodržuje svůj předvolební program. Bohužel je v současnosti na mnohých místech preferované neadresné hlasování, tedy takové, kdy jste v zápisu zastupitelstva informováni pouze o tom, kolik bylo hlasů pro návrh, proti návrhu a kolik hlasujících se zdrželo. Myslíte, že je to dostačující?
