@@ -4,7 +4,7 @@ category: blog
 tags: citivizor
 title: Systém Cityvizor
 author: Pavel Šrámek
-inamge: posts/Plzeň magistrát - Pavel Šrámek2 - předseda MS Plzeň.jpg
+image: posts/Plzeň magistrát - Pavel Šrámek2 - předseda MS Plzeň.jpg
 ---
 
 ## CITYVIZOR
