@@ -21,6 +21,6 @@ Chceme se pochlubit i prvním streamovaným zastupitelstvem obce. Jedinou možno
 
 V následujícím období se chceme zaměřit na problematiku kroužků pro děti. Není nám jasné, proč ve Vejprnicích stojí kroužek cca 1000Kč na 4 měsíce (navíc kroužky nenabízí škola, ale privátní subjekt) a v Nýřanech na celý školní rok cca 500Kč (tedy 4x levněji). Také budeme chtít více medializovat problémy obce.
 
-Primární zdroj je [FB Vejprnických Pirátů](http://www.facebook.com/pirativejprnice/)
+Primární zdroj je [FB Vejprnických Pirátů](http://www.facebook.com/pirativejprnice)
 
 Sekundární zdroj je [web Vejprnických Pirátů](http://www.pirativejprnice.cz) (tady máme stále rezervy)
