@@ -7,7 +7,9 @@ author: Jiří Pek
 image: posts/Vejprnice - Mgr. Jiří Pek - Pirátský zastupitel.jpg
 ---
 
-Vejprničtí Piráti rozbouřili stojaté vody místní politické scény. Jak jsme to dokázali? Na dvou proběhlých zastupitelstvech jsme představili rovnou šest návrhů usnesení. V minulosti nebylo obvyklé, aby se opozice zapojovala takto konstruktivně do činnosti správy obce. Hlavní důraz klademe na otevření a zprůhlednění hospodaření obce i na činnost obecního úřadu. Navrhli jsme rozklikávací rozpočet až na úroveň jednotlivých faktur. Dlouhodobě požadujeme jmenné hlasování. To znamená, že by byl jasný záznam toho, jak který zastupitel v dané věci hlasoval. Starosta to odmítl s výkladem, že se obává byrokratické náročnosti. Hlasování tedy zaznamenáváme sami ;-). Lidé by například jasně viděli, že za výstavbou obrovských hal stojí právě vládnoucí koalice, ačkoliv tvrdí, že jsou proti nim. Mezi další konstruktivní návrhy můžeme zařadit otevření „pískovny“ lidem ke koupání nebo zřízení obecní wifi v centru obce zcela zdarma s využitím dotace od Evropské komise, či žádost o domluvu se zemědělci, aby informovali o plánovaném postřiku pesticidy.
+Vejprničtí Piráti rozbouřili stojaté vody místní politické scény. Jak jsme to dokázali? Na dvou proběhlých zastupitelstvech jsme představili rovnou šest návrhů usnesení. V minulosti nebylo obvyklé, aby se opozice zapojovala takto konstruktivně do činnosti správy obce. Hlavní důraz klademe na otevření a zprůhlednění hospodaření obce i na činnost obecního úřadu. Navrhli jsme rozklikávací rozpočet až na úroveň jednotlivých faktur. Dlouhodobě požadujeme jmenné hlasování. To znamená, že by byl jasný záznam toho, jak který zastupitel v dané věci hlasoval. Starosta to odmítl s výkladem, že se obává byrokratické náročnosti. Hlasování tedy zaznamenáváme sami ;-). 
+
+Lidé by například jasně viděli, že za výstavbou obrovských hal stojí právě vládnoucí koalice, ačkoliv tvrdí, že jsou proti nim. Mezi další konstruktivní návrhy můžeme zařadit otevření „pískovny“ lidem ke koupání nebo zřízení obecní wifi v centru obce zcela zdarma s využitím dotace od Evropské komise, či žádost o domluvu se zemědělci, aby informovali o plánovaném postřiku pesticidy.
 
 Obecní úřad má veliké mezery v poskytování informací. Nejnověji se jedna z občanek dokonce obrátila hromadným e-mailem na své zastupitele, aby kritickou situaci řešili. Pirátům byl odepřen audiovizuální záznam ze zastupitelstva ve formátu, ve kterém o něj zažádali. Krajský úřad oznámil, že obec nemůže „omezit žadatelovo ústavně zaručené právo na informace“ a nařídil obci záznam poskytnout. Starosta na kontrolním výboru oznámil, že videozáznam již neexistuje... 
 
@@ -19,6 +21,6 @@ Chceme se pochlubit i prvním streamovaným zastupitelstvem obce. Jedinou možno
 
 V následujícím období se chceme zaměřit na problematiku kroužků pro děti. Není nám jasné, proč ve Vejprnicích stojí kroužek cca 1000Kč na 4 měsíce (navíc kroužky nenabízí škola, ale privátní subjekt) a v Nýřanech na celý školní rok cca 500Kč (tedy 4x levněji). Také budeme chtít více medializovat problémy obce.
 
-Primární zdroj je [FB Vejprnických Pirátů](http://www.facebook.com/pirativejprnice/).
+Primární zdroj je [FB Vejprnických Pirátů](http://www.facebook.com/pirativejprnice/)
 
-Sekundární zdroj je [web Vejprnických Pirátů](http://www.pirativejprnice.cz) (tady máme stále rezervy).
+Sekundární zdroj je [web Vejprnických Pirátů](http://www.pirativejprnice.cz) (tady máme stále rezervy)
