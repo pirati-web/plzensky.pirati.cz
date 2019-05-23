@@ -6,6 +6,7 @@ title: "Zdravotnictví: Potřebujeme restart"
 author: Pavel Hais
 image: posts/nem-susice.jpg
 ---
+
 České zdravotnictví se hroutí pod tíhou nesystémových opatření provedených v posledních 20 letech. Ministři zdravotnictví se mění tak rychle, že není šance vypracovat dlouhodobě udržitelnou vizi a směr. Demografická křivka však hovoří jasně, kolem roku 2050 bude třetina občanů ČR starší 65 let, což znamená více než 3 miliony obyvatel. Politici politikaří a handlují místo toho, aby se chovali zodpovědně a domluvili se napříč politickým spektrem. Ano, změna systému bude bolet, pokud se zdravotnictví ještě před tím nezhroutí jako domeček z karet. Velká část personálu odešla a odchází za kariérou do zahraničí, kde je lepší finanční ohodnocení, zbytek do zaslouženého důchodu.
 
 Ti, co zůstali, se drží zuby nehty a bohužel nevidí světlo na konci tunelu.
