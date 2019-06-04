@@ -1,7 +1,7 @@
 ---
 date: 2019-04-30
 category: blog
-tags: sociální-služby
+tags: sociální služby
 title: NÁVŠTĚVA OLGY RICHTEROVÉ V REGIONU, PIRÁTI A SOCIÁLNÍ SLUŽBY
 author: Josef Kubát, Olga Richterová
 image: posts/olga.jpg
