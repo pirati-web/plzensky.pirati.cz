@@ -1,7 +1,7 @@
 ---
 date: 2019-06-04    
 category: blog
-tags: kumunální politka
+tags: komunální politka
 title: Vejprnický ombudsman – český unikát
 author: Jiří Pek
 image: posts/vejprnice.jpg
