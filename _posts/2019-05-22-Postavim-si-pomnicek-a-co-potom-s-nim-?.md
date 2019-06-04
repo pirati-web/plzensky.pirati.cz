@@ -3,7 +3,7 @@ date: 2019-05-22
 category: blog
 tags: glosa
 title: Postavím si pomníček a co potom s ním?
-author: RUdolf Špoták
+author: Rudolf Špoták
 image: posts/san.jpg
 ---
 
