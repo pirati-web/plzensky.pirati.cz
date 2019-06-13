@@ -12,7 +12,7 @@ ordclenove: 3
 description: předseda KS Plzeňského kraje # zobrazuje se v lide
 img: people/barton.jpg # zakomentuj radek dokud není fotka
 asistenti:
-  - name: Jan Poustka
+    name: Jan Poustka
     position: Asitent
     mail: jan.poustka@pirati.cz
 mail:
