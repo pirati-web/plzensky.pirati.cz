@@ -25,6 +25,9 @@ main:
   - link: /bunky/
     name: Místní sdružení a buňky
     match: bunky
+    links:
+      - link: https:plzen.pirati.cz
+        name: Plzeň
 
 bottom:
   - class: small-12 medium-4
