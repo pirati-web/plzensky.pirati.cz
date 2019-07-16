@@ -22,9 +22,9 @@ main:
   - link: /kontakt/
     name: Kontakt
     match: kontakt
-  - link: /bunky/
-    name: Místní sdružení a buňky
-    match: bunky
+#  - link: /bunky/
+#    name: Místní sdružení a buňky
+#    match: bunky
 
 bottom:
   - class: small-12 medium-4
