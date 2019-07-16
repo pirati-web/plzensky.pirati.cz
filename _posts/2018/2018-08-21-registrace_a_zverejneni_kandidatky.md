@@ -1,7 +1,7 @@
 ---
 date:         2018-08-21
 category:     blog
-tags:         
+tags:         susice
 layout:       post
 title:        "Představení kandidátů pro komunální volby" 
 image:        registrace_kandidatky.png

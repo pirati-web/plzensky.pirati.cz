@@ -1,7 +1,7 @@
 ---
 date:         2018-08-21
 category:     blog
-tags:         
+tags:         susice
 layout:       post
 title:        "Představení programu pro komunální volby" 
 image:        logo_pustte_nas_na_ne.png

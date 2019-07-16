@@ -1,7 +1,7 @@
 ---
 date:         2018-06-25
 category:     blog
-tags:         
+tags:         susice
 layout:       post
 title:        "Podporujeme petici za záchranu a obnovu provozu Nemocnice Sušice o.p.s. a dalších malých nemocnic." 
 image:        nemocnice.jpg
