@@ -4,7 +4,7 @@ category:     blog
 tags:         susice
 layout:       post
 title:        "Náš postoj k připravovanému developerskému projektu v bývalém areálu Sola" 
-image:        201809-megatovarna.png
+image:        posts/201809-megatovarna.png
 author:       Pavel Hais
 ---
 

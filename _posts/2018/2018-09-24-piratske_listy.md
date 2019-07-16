@@ -4,7 +4,7 @@ category:     blog
 tags:         susice
 layout:       post
 title:        "Vycházejí Pirátské listy" 
-image:        201809-piratske_listy_podzim.png
+image:        posts/201809-piratske_listy_podzim.png
 author:       Pavel Hais
 ---
 

@@ -4,7 +4,7 @@ category:     blog
 tags:         susice
 layout:       post
 title:        "Představení kandidátů pro komunální volby" 
-image:        registrace_kandidatky.png
+image:        posts/registrace_kandidatky.png
 author:       Pavel Hais
 ---
 

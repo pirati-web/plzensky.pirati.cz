@@ -4,7 +4,7 @@ category:     blog
 tags:         susice
 layout:       post
 title:        "Meeting na podporu nemocnice Sušice" 
-image:        radnice.png
+image:        posts/radnice.png
 author:       Pavel Hais
 ---
 

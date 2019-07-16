@@ -4,7 +4,7 @@ category:     blog
 tags:         susice
 layout:       post
 title:        "Vznik Sušických Pirátů" 
-image:        pirati_susice_logo_small.png
+image:        posts/pirati_susice_logo_small.png
 author:       Pavel Hais
 ---
 

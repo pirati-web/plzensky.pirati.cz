@@ -4,7 +4,7 @@ category:     blog
 tags:         susice
 layout:       post
 title:        "Podporujeme petici za záchranu a obnovu provozu Nemocnice Sušice o.p.s. a dalších malých nemocnic." 
-image:        nemocnice.jpg
+image:        posts/nemocnice.jpg
 author:       Pavel Hais
 ---
 
