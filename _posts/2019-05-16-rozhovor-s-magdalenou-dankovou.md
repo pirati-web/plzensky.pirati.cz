@@ -3,7 +3,7 @@ date: 2019-05-16
 category: blog
 tags: rozhovor
 title: Rozhovor s kandidátkou do Evropského parlamentu za Plzeňský kraj Magdalenou Daňkovou
-author: Josef Kubát
+author: Michal Chalupa
 image: posts/2.kampan.jpg
 ---
 
