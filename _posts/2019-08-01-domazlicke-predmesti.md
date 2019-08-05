@@ -4,7 +4,7 @@ category: blog
 tags: Domažlice
 title: DOMAŽLICKÉ PŘEDMĚSTÍ BY SE MOHLO DOČKAT VÍCEÚČELOVÉHO DĚTSKÉHO HŘIŠTĚ
 author: Piráti Klatovy
-image: img_20190801_133924417.jpg
+image: posts/img_20190801_133924417.jpg
 ---
 
 V současné době probíhá anketa Odboru rozvoje města Klatovy, ve které mohou někteří místní obyvatelé hlasovat o tom, kde by bylo možné umístit dětské hřiště na Domažlickém předměstí v Klatovech. Vše se odehrává na základě dubnové žádosti zastupitele města Jiřího Zavřela (nestraník za Piráty). „Na tomto sídlišti v současnosti žije téměř 200 dětí ve věku do 12-ti let. Nemají zde prakticky žádné herní využití. 
