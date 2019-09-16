@@ -17,7 +17,7 @@ main:
 #    name: O nás
 #    match: lide
   - link: /mssdruzeni/
-    name: Místní sduzeni
+    name: Místní sdružení
     match: mssdruzeni
   - link: /krajske/
     name: Krajské volby
