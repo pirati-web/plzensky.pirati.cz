@@ -16,9 +16,9 @@ main:
 #  - link: /lide/
 #    name: O nás
 #    match: lide
-  - link: https://evropapotrebuje.cz/
-    name: Evropské volby
-    match: evropske-volby
+  - link: /krajske/
+    name: Krajske volby
+    match: krajske
   - link: /kontakt/
     name: Kontakt
     match: kontakt
