@@ -17,7 +17,7 @@ main:
 #    name: O nás
 #    match: lide
   - link: /krajske/
-    name: Krajske volby
+    name: Krajské volby
     match: krajske
   - link: /kontakt/
     name: Kontakt
