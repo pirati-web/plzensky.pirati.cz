@@ -16,7 +16,7 @@ contentSize: default
             <div>
               <div>
                 <a href="/plzen/">
-                  <!--{% asset 'img/plzen.jpg' alt='Plzeň' %}--> </a>
+               
               </div>
               <div>
                 <h3>
