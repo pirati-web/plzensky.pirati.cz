@@ -27,7 +27,7 @@ V neposlední řadě je třeba se zamyslet i nad tím, že doteď dodávala slu�
 
 ## V pondělí 23.9.2019 od 19.00 hodin proběhne v malém sále KD v Klatovech zastupitelstvo, kde se o celé věci bude rozhodovat.
 
-###NÁZORY
+### NÁZORY
 ## J. ZAVŘEL, ZASTUPITEL MĚSTA, NESTRANNÝ ZA PIRÁTY
 Navrhovaná změna systému podle mě mnohé lidi odradí od třídění odpadu. Lze tak očekávat zvýšení objemu komunálního odpadu na úkor tříděného. Na tento systém doplatí zejména ti, kteří poctivě třídí, čímž rapidně snižují vlastní produkci zbytkového komunálního odpadu a postačí jim proto v současném systému zakoupení známek na vývoz popelnic 1x14 nebo 1x31 dní.
 
