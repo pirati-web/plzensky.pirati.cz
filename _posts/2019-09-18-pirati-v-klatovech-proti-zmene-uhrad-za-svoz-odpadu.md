@@ -3,7 +3,7 @@ date: 2019-09-18
 category: blog
 tags: Klatovy
 title: Piráti v Klatovech mají námitky proti změně úhrad za svoz odpadu prosazované vedením města
-author: Pirati Klatovy
+author: Piráti Klatovy
 image: posts/klatovy_popelnice.jpg
 ---
 
