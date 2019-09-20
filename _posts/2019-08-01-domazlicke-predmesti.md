@@ -8,7 +8,7 @@ image: posts/img_20190801_133924417.jpg
 ---
 
 V současné době probíhá anketa Odboru rozvoje města Klatovy, ve které mohou někteří místní obyvatelé hlasovat o tom, kde by bylo možné umístit dětské hřiště na Domažlickém předměstí v Klatovech. Vše se odehrává na základě dubnové žádosti zastupitele města Jiřího Zavřela (nestraník za Piráty). „Na tomto sídlišti v současnosti žije téměř 200 dětí ve věku do 12-ti let. Nemají zde prakticky žádné herní využití. 
-V současnosti je zde pětice pískovišť, dva houpací koníci a jedna skluzavka. osobně mi to přijde bez nápadu a koncepce.“ V žádosti je také myšleno na obnovu jednoho ze dvou hřišť pro míčové hry, která jsou aktuálně „nepoužitelná“. Žádost k náhledu v PDF.
+V současnosti je zde pětice pískovišť, dva houpací koníci a jedna skluzavka. osobně mi to přijde bez nápadu a koncepce.“ V žádosti je také myšleno na obnovu jednoho ze dvou hřišť pro míčové hry, která jsou aktuálně „nepoužitelná“.
 
 Anketa bude k 30.8.2019 ukončena. Věřme, že se obyvatelé Domažlického předměstí v Klatovech dočkají odpovídajícího dětského hřiště.
 
