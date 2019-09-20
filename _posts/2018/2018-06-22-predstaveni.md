@@ -1,7 +1,7 @@
 ---
 date:         2018-06-22
 category:     blog
-tags:         susice
+tags:         Sušice
 layout:       post
 title:        "Vznik Sušických Pirátů" 
 image:        posts/pirati_susice_logo_small.png
