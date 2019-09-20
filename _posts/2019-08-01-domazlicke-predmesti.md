@@ -1,7 +1,7 @@
 ---
 date: 2019-08-1
 category: blog
-tags: Domažlice
+tags: Klatovy
 title: DOMAŽLICKÉ PŘEDMĚSTÍ BY SE MOHLO DOČKAT VÍCEÚČELOVÉHO DĚTSKÉHO HŘIŠTĚ
 author: Piráti Klatovy
 image: posts/img_20190801_133924417.jpg
