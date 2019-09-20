@@ -1,7 +1,7 @@
 ---
 date:         2018-09-24
 category:     blog
-tags:         susice
+tags:         Sušice
 layout:       post
 title:        "Vycházejí Pirátské listy" 
 image:        posts/201809-piratske_listy_podzim.png
