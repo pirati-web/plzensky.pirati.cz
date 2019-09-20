@@ -1,7 +1,7 @@
 ---
 date:         2018-09-25
 category:     blog
-tags:         susice
+tags:         Sušice
 layout:       post
 title:        "Náš postoj k připravovanému developerskému projektu v bývalém areálu Sola" 
 image:        posts/201809-megatovarna.png
