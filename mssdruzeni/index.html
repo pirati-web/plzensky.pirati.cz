@@ -1,32 +1,15 @@
 ---
 layout: page
-# title: Místní sdružení ve Středočeském kraji
-description: Pirátská strana v XY je otevřená a ráda přivítá dobrovolníky a odpoví na dotazy kritiků.
+title: Místní sdružení v Plzeňském kraji
+description: Pirátská strana v Plzeňském kraji je otevřená a ráda přivítá dobrovolníky a odpoví na dotazy kritiků.
 keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
-# Pokud nechcete, aby se zobrazovalo kontaktní místo, můžete odkomentovat následující řádek:
-# noresidence: yes
-contentSize: default
-# Pokud chcete aby obsah a tabulka kontaktů měly stejné proporce, můžete použít:
-# contentSize: even
 ---
 
-
-<!-- zacatek MS -->
-      <div class="large-4 medium-6 small-12 columns end" style="padding-bottom: 2em;">
-        <div class="c-content-card">
-          <div class="c-content-card-img">
-            <a href="/plzen/">
-              {% asset 'plzen.jpg' alt='Plzeň' %} </a>
-          </div>
-          <div class="c-content-card-content-box">
-            <h3 class="c-content-card-title">
-              <a href="/plzen/">Plzeň</a>
-            </h3>
-            <ul>
-              <li>Působnost: Plzeň</li>
-              <li>Předseda: Pavel Šrámek</li>
-            </ul>
-          </div>
-        </div>
-      </div>
+{% include ms/item.html 
+    img='plzen.jpg'
+    name="Plzeň"
+    area="Plzeň"
+    link="/plzen/"
+    president="pavel.sramek"
+    %}
         
