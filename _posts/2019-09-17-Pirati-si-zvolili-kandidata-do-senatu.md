@@ -4,7 +4,7 @@ category: blog
 tags: Plzeň Senát
 title: Piráti si zvolili v primárkách kandidáta do senátu, obvod č. 9 - Plzeň-město
 author: Jindřich Čermák
-image: people/dan-uprava1.jpg
+image: people/daniel_kus.PNG
 ---
 
 Plzeň, 16. září - Členská základna Pirátů Plzeňského kraje zvolila jako svého kandidáta do Senátu Daniela Kůse. Ve volbách na internetovém fóru Pirátské strany se pro jeho nominaci vyslovilo 93 % hlasujících. Senátní volby se v plzeňském městském obvodě uskuteční příští rok.
