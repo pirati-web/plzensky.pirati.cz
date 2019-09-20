@@ -1,7 +1,7 @@
 ---
 date:         2018-06-25
 category:     blog
-tags:         susice
+tags:         Sušice
 layout:       post
 title:        "Meeting na podporu nemocnice Sušice" 
 image:        posts/radnice.png
