@@ -1,7 +1,7 @@
 ---
 date: 2019-05-22
 category: blog
-tags: Plzeň 4
+tags: Plzeň-4
 title: Může bežný občan ovlivnit veřejné plánování?
 author: Jiří Hanousek
 image: posts/Plzeň 4 - Ing. Jiří Hanousek - zastupitel.jpg
