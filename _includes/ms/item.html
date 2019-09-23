@@ -11,7 +11,11 @@
     <ul>
       <li>Působnost: {{ include.area }}</li>
       {% assign person = site.people | where_exp:"item","item.uid contains include.president" | first %}
-      <li>Předseda: <a href={{person.url}}> {{person.name}}</a> </li>
+      {% if person %}
+        <li>Předseda: <a href={{person.url}}> {{person.name}}</a> </li>
+      {% else %}
+        <li>Předseda: {{include.president}} </li>
+      {% endif %}
     </ul>
   </div>
 </div>
