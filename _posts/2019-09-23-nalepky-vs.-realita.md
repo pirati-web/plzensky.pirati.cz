@@ -4,7 +4,7 @@ category: blog
 tags: rozhovor kraj 
 title: Nálepky vs. realita
 author: Josef Kubát
-image: people/romansloup.jpg
+image: people/romansloup1.jpg
 ---
 
 Pirátská strana bývá komentátory i širokou veřejností často nálepkována. Nálepkována nejen svojí politickou orientací zprava doleva, ale i personálně. Ten, kdo žádného Piráta nikdy neviděl, si tak může často Piráty představovat jako mladé huliče, co v životě nic nedokázali, nic nevybudovali a jenom si stěžují a žalují na „úspěšné premiéry“. Těžko by se hledal obrázek vzdálenější pravdě. Stranu tvoří mnoho v profesním životě velice úspěšných lidí, co svým vyjadřováním (ať slovním, či vzhledovým) bojují proti zaběhlým stereotypům, které naši společnost jenom omezují a nic ji nepřináší.
