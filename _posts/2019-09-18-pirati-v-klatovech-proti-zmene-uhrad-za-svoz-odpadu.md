@@ -25,7 +25,8 @@ A tím se dostáváme k hlavní nevýhodě systému pomocí plošného poplatku.
 
 V neposlední řadě je třeba se zamyslet i nad tím, že doteď dodávala službu odvozu firma vlastně přímo občanům. Nyní bude přímo město platit tuny. Ze zkušenosti z některých měst tak dojde k navýšení počtu tun. Jestli je to realita (lidé přestanou třídit) nebo v těchto obcích dochází k „čachrování“ ze strany odpadových společností, nebo jsou čísla odhadnutá před přechodem na nový systém nepřesná, nelze říci.
 
-## V pondělí 23.9.2019 od 19.00 hodin proběhne v malém sále KD v Klatovech zastupitelstvo, kde se o celé věci bude rozhodovat.
+## (zrušeno) V pondělí 23.9.2019 od 19.00 hodin proběhne v malém sále KD v Klatovech zastupitelstvo, kde se o celé věci bude rozhodovat.
+Na programu zastupitelstva 23.9. projednávání zmiňované vyhlášky nakonec není. Předpokládáme, že se dostane na pořad dne při příštím zastupitelstvu. (aktualizace 30.9.)
 
 ### NÁZORY
 ## J. ZAVŘEL, ZASTUPITEL MĚSTA, NESTRANNÝ ZA PIRÁTY
