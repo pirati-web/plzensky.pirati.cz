@@ -19,14 +19,14 @@ Piráti trvají na tom, aby Plzeňská teplárenská předložila jasnou koncepc
 
 Použité citáty se zdroji:
 „Je to jednoznačně dobrá zpráva pro všechny spotřebitele tepla v Plzni, protože spojené podniky budou schopny dodávat teplo vždy za nižší cenu, než by uměl dodávat každý z obou podniků samostatně,“ řekl dnes Křetínský.
-Více na: https://www.euro.cz/byznys/plzen-schvalila-fuzi-mestske-teplarny-s-holdingem-eph-zaruci-tak-soucasne-ceny-az-do-roku-2021-1386726#utm_medium=selfpromo&utm_source=euro&utm_campaign=copylink
+Více na: <a href="https://www.euro.cz/byznys/plzen-schvalila-fuzi-mestske-teplarny-s-holdingem-eph-zaruci-tak-soucasne-ceny-az-do-roku-2021-1386726#utm_medium=selfpromo&utm_source=euro&utm_campaign=copylink">odkaz na zdroj</a>
 
 Obě firmy se podle Křetínského musejí připravit na dobu „po uhlí“, která přijde po dalších regulacích EU, a dále proto, že v roce 2035 v Česku hnědé uhlí dojde. „Spojení obou podniků nám umožní nalézt mnohem efektivnější budoucí řešení a ušetříme obrovské prostředky, které se opět projeví v ceně tepla. Stavět dvě nové neuhelné teplárny by bylo neekonomické,“ řekl.
-Více na: https://www.euro.cz/byznys/plzen-schvalila-fuzi-mestske-teplarny-s-holdingem-eph-zaruci-tak-soucasne-ceny-az-do-roku-2021-1386726#utm_medium=selfpromo&utm_source=euro&utm_campaign=copylink
+Více na: <a href="https://www.euro.cz/byznys/plzen-schvalila-fuzi-mestske-teplarny-s-holdingem-eph-zaruci-tak-soucasne-ceny-az-do-roku-2021-1386726#utm_medium=selfpromo&utm_source=euro&utm_campaign=copylink">odkaz na zdroj</a>
 
 „Pokud podporu nedostaneme, budou teplárny nuceny zdražovat teplo. A vzroste riziko rozpadu systému centrálního zásobování teplem,“ varuje výkonný šéf Teplárenského sdružení a ředitel Plzeňské teplárenské Tomáš Drápela.
-https://www.seznamzpravy.cz/clanek/velke-teplarny-bojuji-o-miliardovou-dotaci-bez-ni-zdrazime-teplo-a-rozpadne-se-system-varuji-82374?fbclid=IwAR1lPVb1uuLvmidLy-nhXCX_g1YrNjBSkRrqkeL_pXWZq7m7qTaM4KUXDeo
+<a href="https://www.seznamzpravy.cz/clanek/velke-teplarny-bojuji-o-miliardovou-dotaci-bez-ni-zdrazime-teplo-a-rozpadne-se-system-varuji-82374?fbclid=IwAR1lPVb1uuLvmidLy-nhXCX_g1YrNjBSkRrqkeL_pXWZq7m7qTaM4KUXDeo">odkaz na zdroj</a>
 
 
 Plzeňská teplárenská, jež patří do impéria EP Infrastructure miliardáře Daniela Křetínského, ještě loni vydělala téměř čtvrt miliardy korun čistého.
-https://www.seznamzpravy.cz/clanek/velke-teplarny-bojuji-o-miliardovou-dotaci-bez-ni-zdrazime-teplo-a-rozpadne-se-system-varuji-82374?fbclid=IwAR1lPVb1uuLvmidLy-nhXCX_g1YrNjBSkRrqkeL_pXWZq7m7qTaM4KUXDeo
+<a href="https://www.seznamzpravy.cz/clanek/velke-teplarny-bojuji-o-miliardovou-dotaci-bez-ni-zdrazime-teplo-a-rozpadne-se-system-varuji-82374?fbclid=IwAR1lPVb1uuLvmidLy-nhXCX_g1YrNjBSkRrqkeL_pXWZq7m7qTaM4KUXDeo">odkaz na zdroj</a>
