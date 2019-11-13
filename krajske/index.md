@@ -9,4 +9,7 @@ contentSize: default
 # contentSize: even
 ---
 
-Právě probíhá rozprava ke krajským volba 2020. Přihlašování kandidátů naleznete <a href="https://forum.pirati.cz/viewtopic.php?f=89&t=48995">odkaz na primární volby</a>
+<h3>Krajské volby</h3>
+<div>
+  Právě probíhá rozprava ke krajským volba 2020. Přihlašování kandidátů naleznete <a href="https://forum.pirati.cz/viewtopic.php?f=89&    t=48995">odkaz na primární volby</a>
+</div>
