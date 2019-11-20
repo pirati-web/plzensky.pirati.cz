@@ -12,9 +12,12 @@ ordclenove: 3
 description: předseda KS Plzeňského kraje # zobrazuje se v lide
 img: people/barton.jpg # zakomentuj radek dokud není fotka
 asistenti:
-  - name: Jan Poustka
+  - name: Miroslav Mašek
     position: Asitent
-    mail: jan.poustka@pirati.cz
+    mail: miroslav.masek@pirati.cz
+  - name: Martin Úlovec
+    position: odborný asistent pro školství v Praze
+    mail: martin.ulovec@pirati.cz
 mail:
   - lukas.barton@pirati.cz
 profiles:
@@ -25,13 +28,16 @@ profiles:
 office:
   - address: U Zvonu 4/9, 301 00  Plzeň
     name: Poslanecká kancelář
-    opening: "Pondělí 14:00 - 17:00, objednání návštěvy: jan.poustka@pirati.cz nebo tel.: 778 111 465"
+    opening: "Pondělí 14:00 - 17:00 (mimo 1. sněmovní týden), objednání návštěvy: miroslav.masek@pirati.cz nebo tel.: 778 111 465"
 ---
 
-Ing. Lukáš Bartoň (30. 1. 1981 v Českých Budějovicích) je předsedou krajského sdružení Plzeňský kraj. Povoláním jsem strojař, výzkumník.
+Ing. Lukáš Bartoň, Ph.D.  *1981
 
-V letech 2011-2013 byl externím konstruktérem pro několik soukromých firem na Plzeňsku, kdy se zabýval mimo jiné konstrukcí zařízení a strojů pro elektrárny. V letech 2005 až 2012 absolvoval doktorské studium na Fakultě strojní – Katedře konstruování strojů Západočeské univerzity, kde v roce 2012 získal doktorát v oboru Stavba strojů a zařízení svou dizertační prací „Znalostní podpora pro návrh systému aktivního magnetického ložiska“.
+Od roku 2017 jsem poslancem Parlamentu České republiky. Ve sněmovně je hlavním předmětem mého zájmu oblast školství na všech úrovních. Jsem místopředsedou Školského výboru a předsedou Podvýboru pro regionální školství. Zabývám se zejména tématy koncepce a rozvoj školské soustavy, strategickými dokumenty v oblasti školství a zvyšování kvality vzdělávání. Mezi má hlavní témata patří oblast maturitních zkoušek, kde jsem předložil novelu školského zákona, dále umožnění individuálního vzdělávání, důraz na růst platů učitelů a další témata, která vedou ke zvýšení kvality vzdělávání. Podrobně se věnuji i oblasti sportu, kde je mou vizí udělat sport i sportoviště dostupné pro volnočasové využití zejména dětem, ale i všem sportovním amatérům. V Poslanecké sněmovně jsem předložil novelu o dekriminalizaci nějakého toho piva u vodáku na vodě. Dále se zabývám tvorbou a prosazením zákona o eutanázii. V Plzeňském kraji jsem od roku 2013 předsedou krajského sdružení Pirátů.
 
-V Poslanecké sněmovně je členem Mandátového a imunitního výboru, a dále je členem a zároveň místopředsedou Výboru pro vědu, vzdělání, kulturu, mládež a tělovýchovu.
+Před zvolení do Poslanecké sněmovny jsem učil na Strojní fakultě v Plzni a vedl vědecké pracoviště. Na stejné fakultě jsem vystudoval obor Konstruktér a následně získal doktorát. Byl jsem lektorem dalšího vzdělávání pro podniky v Plzeňském kraji v oblasti technické dokumentace. Byl jsem byl externím konstruktérem, kdy jsem se zabýval mimo jiné konstrukcí zařízení pro elektrárny (JE Temelín) i konstrukcí výrobních strojů a zařízení. Poté jsem vedl Zkušebnu provozní pevnosti a únavové životnosti Regionálního technologického institutu.
 
+V rámci studia jsem vycestoval na 3 měsíce do USA a pak na půl roku do Velké Británie. Byl jsem dlouholetým členem akademických senátů univerzity i fakulty, delegátem v Radě vysokých škol. V rámci poznávání světa jsem pak procestoval mnoho států zejména v jižní Asii.
+
+Pokud chcete vědět o mě a mé práci více, navšitve webovou stránku www.plzenskypirat.cz
 
