@@ -13,7 +13,7 @@ description: předseda KS Plzeňského kraje # zobrazuje se v lide
 img: people/barton.jpg # zakomentuj radek dokud není fotka
 asistenti:
   - name: Miroslav Mašek
-    position: Asitent
+    position: Asistent
     mail: miroslav.masek@pirati.cz
 mail:
   - lukas.barton@pirati.cz
