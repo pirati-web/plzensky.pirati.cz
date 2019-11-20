@@ -13,10 +13,10 @@ description: předseda KS Plzeňského kraje # zobrazuje se v lide
 img: people/barton.jpg # zakomentuj radek dokud není fotka
 asistenti:
   - name: Miroslav Mašek
-    position: Asistent
+    position: Asistent v Plzni
     mail: miroslav.masek@pirati.cz
   - name: Martin Úlovec 
-    position: odborný asistent v Praze
+    position: Odborný asistent na školství v Praze
     mail: martin.ulovec@pirati.cz
 mail:
   - lukas.barton@pirati.cz
