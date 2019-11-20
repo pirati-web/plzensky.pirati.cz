@@ -15,6 +15,7 @@ asistenti:
   - name: Miroslav Mašek
     position: Asistent
     mail: miroslav.masek@pirati.cz
+    
     name: Martin Úlovec, odborný asistent v Praze
     mail: martin.ulovec@pirati.cz
 mail:
