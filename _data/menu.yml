@@ -18,7 +18,7 @@ main:
 #    match: lide
   - link: /pirativkraji/
     name: Piráti v kraji
-    match: mssdruzeni
+    match: pirativkraji
   - link: /krajske/
     name: Krajské volby
     match: krajske
