@@ -5,9 +5,7 @@ titles:
  before: Bc.
  after: 
 category:                 			# kategorie: plzen, pms, pos - každá na svůj řádek
-- mag
-- plk
-- plzen
+- zastupitele
 
 img: people/jan-hutter.jpg   # 165 x 220
 description: Zastupitel Městského obvodu Plzeň-4, člen Finančního výboru ZMO Plzeň-4, člen Komise kulturní RMO Plzeň-3, člen MS Plzeň   # kratký popis, max 160 znaků
