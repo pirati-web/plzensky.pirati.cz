@@ -5,9 +5,7 @@ titles:
  before: Bc.
  after: 
 category:                 	    # kategorie: rp, praha, vary, hradec, jmk, senat
-- mag
-- plzen
-- plk
+- zastupitele
 img: people/radek-krejci.jpg   # 165 x 220
 description: Kandidát na magistrát a ÚMO 2, člen MS Plzeň         	# kratký popis, max 160 znaků
 mail:
