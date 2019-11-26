@@ -6,7 +6,6 @@ titles:
   after:
 category:
 - predsedove
-- zastupitele
 - clenove
 description: Předseda MS Tachovsko
 img: people/ales_jakl3.jpg # zakomentuj radek dokud není fotka
