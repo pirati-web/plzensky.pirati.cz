@@ -5,10 +5,7 @@ titles:
  before: 
  after: 
 category:                 			# kategorie: plzen, pms, pos - každá na svůj řádek
-- mag
-- plk
-- plzen
-- umo1
+- zastupitele
 
 img: people/martin-holzman.jpg   # 165 x 220
 description: Kandidát na magistrát a ÚMO 1, člen MS Plzeň     # kratký popis, max 160 znaků
