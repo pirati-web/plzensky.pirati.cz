@@ -6,7 +6,7 @@ titles:
  after: 
 category:						# kategorie: rp, praha, vary, hradec, jmk, senat
 - zastupitele
-img: people/pavel-bosak.jpg           # 165 x 220
+img: people/Bosak_nove (1).jpg
 description: Předseda zastupitelského klubu na Magistrátu města Plzně # kratký popis, max 160 znaků
 mail:
 - pavel.bosak@pirati.cz
