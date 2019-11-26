@@ -7,7 +7,7 @@ titles:
 category:                 			# kategorie: plzen, pms, pos - každá na svůj řádek
 
 
-img: people/martin-holzman.jpg   # 165 x 220
+#img: people/martin-holzman.jpg 
 description: Kandidát na magistrát a ÚMO 1, člen MS Plzeň     # kratký popis, max 160 znaků
 mail: martin.holzman@pirati.cz
 mob: +420 733 488 720

@@ -6,7 +6,7 @@ titles:
  after: 
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - zastupitele
-img: people/jiri-hanousek.jpg           # 165 x 220
+#img: people/jiri-hanousek.jpg           # 165 x 220
 description: Kandidát na magistrát a ÚMO 4 # kratký popis, max 160 znaků
 ordplzen: 17
 ordplzen4: 3

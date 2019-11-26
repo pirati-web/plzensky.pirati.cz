@@ -7,7 +7,7 @@ titles:
 category:                 			# kategorie: plzen, pms, pos - každá na svůj řádek
 - zastupitele
 
-img: people/jan-hutter.jpg   # 165 x 220
+#img: people/jan-hutter.jpg   # 165 x 220
 description: Zastupitel Městského obvodu Plzeň-4, člen Finančního výboru ZMO Plzeň-4, člen Komise kulturní RMO Plzeň-3, člen MS Plzeň   # kratký popis, max 160 znaků
 mail:
 - jan.hutter@pirati.cz

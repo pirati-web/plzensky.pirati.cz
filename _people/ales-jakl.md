@@ -12,8 +12,6 @@ img: people/ales_jakl3.jpg # zakomentuj radek dokud není fotka
 ordclenove: 2
 mail:
 - ales@jakl@pirati.cz
-
-  
 ---
 
 ## Aleš Jakl
