@@ -16,7 +16,7 @@ predsednictvo:
 mandat-do: 01.02.2021
 volba: https://forum.pirati.cz/
 ---
-[{% asset 'Tachovsko1.jpg' alt='MS Tachovsko' %}](https://nalodeni.pirati.cz/)
+[{% asset 'Tachov1.jpg' alt='MS Tachovsko' %}](https://nalodeni.pirati.cz/)
 
 
 <!-- # Novinky
