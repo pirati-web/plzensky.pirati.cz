@@ -5,10 +5,7 @@ titles:
  before: 
  after: 
 category:                 	# kategorie: plzen, plk
-- mag
-- plk
-- plzen
-- pms
+- zastupitele
 img: people/petr-vileta.jpg   # 165 x 220
 description: Zastupitel města Plzně, zastupitel Městského obvodu Plzeň-2, člen finančních výborů obou zastupitelstev            	# kratký popis, max 160 znaků
 ordplzen: 5
