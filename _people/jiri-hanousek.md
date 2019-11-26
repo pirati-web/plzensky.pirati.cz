@@ -5,9 +5,7 @@ titles:
  before: Ing.
  after: 
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
- - plzen
- - mag
- - umo4
+- zastupitele
 img: people/jiri-hanousek.jpg           # 165 x 220
 description: Kandidát na magistrát a ÚMO 4 # kratký popis, max 160 znaků
 ordplzen: 17
