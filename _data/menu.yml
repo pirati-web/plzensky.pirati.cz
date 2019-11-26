@@ -16,9 +16,9 @@ main:
 #  - link: /lide/
 #    name: O nás
 #    match: lide
-  - link: /mssdruzeni/
-    name: Místní sdružení
-    match: mssdruzeni
+  - link: /pirativkraji/
+    name: Piráti v kraji
+    match: pirativkraji
   - link: /krajske/
     name: Krajské volby
     match: krajske
