@@ -5,13 +5,11 @@ titles:
  before: Mgr.
  after: 
 category:                 			# kategorie: plzen, pms, pos - každá na svůj řádek
-- mag
-- plk
-- plzen
 - zastupitele
 
+description: Zastupitel na magistrátu a ÚMO 3, Člen MS Plzeň
 img: people/daniel kus_pirati.jpg
-description: Zastupitel na magistrátu a ÚMO 3, Člen MS Plzeň # kratký popis, max 160 znaků
+ordclenove: 2
 mail:
 - daniel.kus@pirati.cz
 mob: 
@@ -19,8 +17,6 @@ profiles:
   github:                 #váš účet na githubu - pokud nemáte, napište před to #
   facebook: 		  #váš alias na facebooku - pokud nemáte, napište před to #
   
-ordplzen: 7		#pořadí na kandidátce
-
 --- 
 
 Mgr. Daniel Kůs (* 26. září 1974) je členem Pirátské strany od března 2018. Pochází z Plzně a zde i celý život žije.
