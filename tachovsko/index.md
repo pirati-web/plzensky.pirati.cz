@@ -1,5 +1,5 @@
 ---
-layout: ms
+layout: default
 title: Místní sdružení Tachovsko
 description: Místní sdružení Tachovsko
 keywords: piráti, místní sdružení, Tachov
