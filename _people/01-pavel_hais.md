@@ -7,7 +7,7 @@ titles:
 category:
 - zastupitele_susice
 description: Radní v Sušici
-img: people/01-pavel_hais.png # zakomentuj radek dokud není fotka
+img: people/pavel_hais.png # zakomentuj radek dokud není fotka
 ordclenove: 2
 mail:
 - pavel.hais@pirati.cz
