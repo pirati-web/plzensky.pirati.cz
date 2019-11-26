@@ -5,9 +5,7 @@ titles:
  before: 
  after: 
 category:                 			# kategorie: plzen, pms, pos - každá na svůj řádek
-- mag
-- plk
-- plzen
+- zastupitele
 
 img: people/frantisek-hagara.jpg   # 165 x 220
 description: Zastupitel MO Plzeň 1, člen finančního výboru ZMO Plzeň 1, člen bezpečnostní komise ZMO Plzeň 1 a Města Plzně, člen MS Plzeň   # kratký popis, max 160 znaků
