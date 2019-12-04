@@ -4,7 +4,7 @@ category: blog
 tags: Plzeň
 title:  Adventní odpoledne s Piráty
 author: Jindřich Čermák
-image: posts/adventni.jpg
+image: posts/adventni1.jpg
 ---
 
 Plzeň, 4.prosince - Během adventního času se můžete přijít vánočně naladit a ještě přispět na dobrou věc, pokud dorazíte do Pirátského centra v Plzni U Zvonu
