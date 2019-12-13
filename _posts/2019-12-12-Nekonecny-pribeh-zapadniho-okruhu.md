@@ -7,7 +7,6 @@ author: Jindřich Čermák
 image: posts/obchvat_plzne.jpg
 ---
 
-**Nekonečný příběh západního okruhu**
 
 Plzeň, 12. prosince - Stavba plzeňského západního okruhu, která by měla ulevit centru města i Severnímu předměstí, je opět odložena. Současné odsunutí termínu stavby ukazuje, jak je u nás zcela mizerná domluva mezi jednotlivými složkami veřejné správy.
 
