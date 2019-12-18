@@ -4,7 +4,7 @@ category: blog
 tags: Plzenskykraj krajskevolby 
 title:  Piráty do krajských voleb v Plzeňském kraji  povede Rudolf Špoták
 author: Jindřich Čermák
-image: people/R_Špoták.jpg
+image: people/spotak.jpg
 ---
 
 Piráty do krajských voleb v Plzeňském kraji  povede Rudolf Špoták
