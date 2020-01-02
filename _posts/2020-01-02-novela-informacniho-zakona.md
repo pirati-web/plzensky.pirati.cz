@@ -2,12 +2,12 @@
 date: 2020-01-02
 category: blog
 tags: Plzenskykraj krajskevolby piratipracuji
-title:  Vláda schválila návrh novely inforamčního příkazu. Piráti zavádí informační příkaz 
+title:  Vláda schválila návrh novely informačního příkazu. Piráti zavádí informační příkaz 
 author: Milan Chaloupka
 image: people/chaloupka.jpeg
 ---
 
-Vláda schválila návrh novely inforamčního příkazu. Piráti zavádí informační příkaz
+Vláda schválila návrh novely informačního příkazu. Piráti zavádí informační příkaz
 
 Novela zákona o svobodném přístupu k informacím vychází z praxe a fandí hlavně úřadům. Lépe je ochrání před zneužíváním žádostí o informace a umožňuje jim poskytnutí informací odmítnout v případě, že jejich vyhledávání bude nepřiměřeně náročné a naúčtovat úhradu nákladů spojených s vyhledáním informace. 
 
