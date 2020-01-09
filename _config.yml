@@ -11,6 +11,7 @@ description: >-
   Zde potří popis webu například stránka místního sdružení. Zobrází se například ve feed/rss nebo ve výsledcích googlu.
 # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
 keywords: piráti, česká pirátská strana, svoboda, demokracie, název města, zkratka města, místní združení,
+url: "https://plzensky.pirati.cz" 
 
 administrator:
   email: miroslav.masek@pirati.cz, martin.ptacek@pirati.cz, pavel.sramek@pirati.cz # mail(y), kam pujdou chybove vystupy; vice e-mailu oddelujte carkou
