@@ -37,4 +37,4 @@ Lídr Rudolf Špoták komentuje další pořadí: „Jsem rád, že máme silný
 <dd><a href="https://lide.pirati.cz/personProfile/541/">Filip Sequens</a></dd>
 <dd><a href="https://wiki.pirati.cz/lide/jiri_hanousek">Jiří Hanousek</a></dd>
 <dd><a href="https://lide.pirati.cz/personProfile/674/">Milan Chaloupka</a></dd>
-<dd><a href="https://wiki.pirati.cz/lide/magda_dankova">Magdaléna Daňková</a</dd>
+<dd><a href="https://wiki.pirati.cz/lide/magda_dankova">Magdaléna Daňková</a></dd>
