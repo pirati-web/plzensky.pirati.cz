@@ -29,12 +29,12 @@ Pro Magdalénu Daňkovou je zásadní prioritou školství: “Co školu trápí
 
 Lídr Rudolf Špoták komentuje další pořadí: „Jsem rád, že máme silný tým lidí, kteří ví, kde náš kraj tlačí bota a jsou připraveni napnout všechnu sílu proto, aby se nám všem žilo lépe. Je to tým, který prokázal v komunální politice své schopnosti. A pevně věřím, že jako tým také výrazně uspějeme.“
 
-      <dt><h6>Čelní kandidáti jsou:</h6></dt>
-      <br/>
-      <dd><a href="https://wiki.pirati.cz/lide/pavel_hais">Pavel Hais</a></dd>
-      <dd><a href="https://lide.pirati.cz/personProfile/219/">Martin Ptáček</a></dd>
-      <dd><a href="https://lide.pirati.cz/personProfile/201/">Jiří Pek</a></dd>
-      <dd><a href="https://lide.pirati.cz/personProfile/541/">Filip Sequens</a></dd>
-      <dd><a href="https://wiki.pirati.cz/lide/jiri_hanousek">Jiří Hanousek</a></dd>
-      <dd><a href="https://lide.pirati.cz/personProfile/674/">Milan Chaloupka</a></dd>
-     <dd><a href="https://wiki.pirati.cz/lide/magda_dankova">Magdaléna Daňková</a</dd>
+<dt><h6>Čelní kandidáti jsou:</h6></dt>
+<br/>
+<dd><a href="https://wiki.pirati.cz/lide/pavel_hais">Pavel Hais</a></dd>
+<dd><a href="https://lide.pirati.cz/personProfile/219/">Martin Ptáček</a></dd>
+<dd><a href="https://lide.pirati.cz/personProfile/201/">Jiří Pek</a></dd>
+<dd><a href="https://lide.pirati.cz/personProfile/541/">Filip Sequens</a></dd>
+<dd><a href="https://wiki.pirati.cz/lide/jiri_hanousek">Jiří Hanousek</a></dd>
+<dd><a href="https://lide.pirati.cz/personProfile/674/">Milan Chaloupka</a></dd>
+<dd><a href="https://wiki.pirati.cz/lide/magda_dankova">Magdaléna Daňková</a</dd>
