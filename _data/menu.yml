@@ -22,7 +22,7 @@ main:
   - link: /krajske/
     name: Krajské volby
     match: krajske
-  - link: https://nalodeni.pirati.cz
+  - link: /pripojse/
     name: Připoj se
    match: pripoj-se
   - link: /kontakt/
