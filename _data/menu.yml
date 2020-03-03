@@ -24,7 +24,7 @@ main:
     match: krajske
   - link: /pripojse/
     name: Připoj se
-   match: pripoj-se
+   match: pripojse
   - link: /kontakt/
     name: Kontakt
     match: kontakt
