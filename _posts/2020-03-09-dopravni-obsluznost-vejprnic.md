@@ -15,4 +15,4 @@ Jaké jsou tedy důvody k pochybám o legálnost smlouvy? Předně starosta Vepr
 
 ÚOHS již v jednou zakázku na dopravní obslužnost zrušil a udělil Vejprnicím pokutu. V rozhodnutí se konstatovalo, “že podle výkladové praxe Úřadu dosahuje nejzávažnějšího stupně intenzity porušení zákona postup objednatele spočívající v ignoraci ustanovení zákona, neboť tento postup vylučuje soutěžní prostředí“.
 
-Záznam zastupitelstva: https://youtu.be/cL6Q56-2SFY?t=589
+<dd><a href="https://youtu.be/cL6Q56-2SFY?t=589">Záznam zastupitelstva</a></dd>
