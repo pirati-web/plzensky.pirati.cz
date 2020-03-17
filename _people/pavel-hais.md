@@ -6,6 +6,7 @@ titles:
   after:
 category:
 - zastupitele_susice
+- kandidat_kraj
 description: Radní v Sušici
 img: people/pavel_hais.png # zakomentuj radek dokud není fotka
 ordclenove: 2
