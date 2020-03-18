@@ -6,6 +6,7 @@ titles:
  after: 
 category:                 	    # kategorie: rp, praha, vary, hradec, jmk, senat
 - zastupitele
+- kandidat_kraj
 img: people/martin-ptacek.jpg   # 165 x 220
 description: Zastupitel centrálního městského obvodu UMO 3, místopředseda MS Plzeň         	# kratký popis, max 160 znaků
 mail:
