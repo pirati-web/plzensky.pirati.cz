@@ -8,8 +8,8 @@ category:
 - zastupitele_susice
 - kandidat_kraj
 description: Radní v Sušici
+ordKraj: 1
 img: people/pavel_hais.png # zakomentuj radek dokud není fotka
-ordkandidatkraj: 1
 mail:
 - pavel.hais@pirati.cz
 profiles:
