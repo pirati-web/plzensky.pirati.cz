@@ -6,6 +6,7 @@ titles:
   after:
 category:
 - zastupitele_vejprnice
+- kandidat_kraj
 description: Zastupitel ve Vejprnicích
 img: people/jiri_pek.png # zakomentuj radek dokud není fotka
 ordclenove: 2
