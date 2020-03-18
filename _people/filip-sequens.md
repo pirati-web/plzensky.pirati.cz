@@ -6,6 +6,7 @@ titles:
  after: 
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
  - zastupitele
+ - kandidat_kraj
 img: people/filip-sequens.jpg           # 165 x 220
 description: zastupitel Městského obvodu Plzeň 2, místopředseda Kontrolního výboru Plzeň 2, člen komisí životního prostředí obou  zastupitelstev, člen MS Plzeň       
 mail:
