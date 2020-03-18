@@ -1,6 +1,6 @@
 ---
 title: Kandidátka do krajských voleb
-uid: kraj
+uid: radnice
 # number: 13 # číslo kandidátky odkomentujte až bude známé
 leader:
   uid: rudolf.spotak
