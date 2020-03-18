@@ -19,4 +19,9 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     profession: Radní v Sušici
     description: IT
     party: Piráti
+  - uid: martin.ptacek
+    age: 35
+    profession: Zastupitel na centrálním Plzeňském obvodě UMO 3
+    description: IT
+    party: Piráti
 ---
