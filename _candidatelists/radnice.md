@@ -24,4 +24,35 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     profession: Zastupitel na centrálním Plzeňském obvodě UMO 3
     description: IT
     party: Piráti
+  - uid: jiri.pek
+    age: 34
+    profession:  Zaměstnanec starající se o efektivitu výroby
+    description: IT
+    party: Piráti
+  - uid: filip.sequens
+    age: 37
+    profession:  Učitel
+    description: Příroda a sport
+    party: Piráti
+  - uid: jiri.hanousek
+    age: 46
+    profession:  Stavebnictví
+    description: Kuktura, věci veřejné
+    party: Piráti
+  - uid: jiri.hanousek
+    age: 46
+    profession:  Stavebnictví
+    description: Kuktura, věci veřejné
+    party: Piráti
+  - uid: milan.chaloupka
+    age: 31
+    profession:  Právník
+    description: Právo, GDPR, Transparence
+    party: Piráti
+  - uid: magda.dankova
+    age: 38
+    profession:  Učitelka
+    description: Zastupitelka na městském obvodu Plzeň 1
+    party: Piráti
+    
 ---
