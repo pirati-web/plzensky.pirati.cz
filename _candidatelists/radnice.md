@@ -44,7 +44,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     description: Právo, GDPR, Transparence
     party: Piráti
   - uid: magda.dankova
-    age: -
+    age: 0
     profession:  Učitelka
     description: Zastupitelka na městském obvodu Plzeň 1
     party: Piráti
