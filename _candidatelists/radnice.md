@@ -63,7 +63,7 @@ tail: # zbytek kandidatky
     uid: marek.habrun
     party: Piráti
   - name: Radek Krejčí
-    uid: radek.krejčí
+    uid: radek.krejci
     party: Piráti
   - name: Olga Sejrková
     party: Piráti
