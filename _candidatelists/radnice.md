@@ -8,7 +8,6 @@ leader:
   profession: personalista
   party: Piráti
   description: "<ul><li>absolvoval Gymnážium J.Š.Baara.</li>
- </li><li> po vystudování na lékařské fakultě v Praze se začal věnovat výzkumu kvality a efektivity veřejných služeb
  </li><li> V současné době jsem zastupitelem města Domažlice </li><li> věnuje se lidským zdrojům </li>
 </ul>
 "
@@ -25,7 +24,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     description: IT
     party: Piráti
   - uid: jiri.pek
-    age: 34
+    age: 33
     profession:  Zaměstnanec starající se o efektivitu výroby
     description: IT
     party: Piráti
@@ -40,12 +39,12 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     description: Kuktura, věci veřejné
     party: Piráti
   - uid: milan.chaloupka
-    age: 31
+    age: 36
     profession:  Právník
     description: Právo, GDPR, Transparence
     party: Piráti
   - uid: magda.dankova
-    age: 38
+    age: -
     profession:  Učitelka
     description: Zastupitelka na městském obvodu Plzeň 1
     party: Piráti
