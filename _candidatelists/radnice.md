@@ -39,11 +39,6 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     profession:  Stavebnictví
     description: Kuktura, věci veřejné
     party: Piráti
-  - uid: jiri.hanousek
-    age: 46
-    profession:  Stavebnictví
-    description: Kuktura, věci veřejné
-    party: Piráti
   - uid: milan.chaloupka
     age: 31
     profession:  Právník
