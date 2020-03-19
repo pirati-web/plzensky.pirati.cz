@@ -23,6 +23,6 @@ profiles:
 ---
 “Information is power. But like all power, there are those who want to keep it for themselves.” ― Aaron Swartz
 
-Magdaléna Daňková je členkou Pirátské strany od roku 2015, bývalá místopředsedkyně místního sdružení Pirátů Plzeň, zastupitelka městského obvodu 1 i města Plzně a zároveň kandidátka do evropského parlamentu za plzeňský kraj za piráty. Vystudovala matematiku a chemii na Západočeské univerzitě, což je obor, ve kterém posledních 6 let působí. Má ráda život a cestování po světě. Ráda poznává cizí exotické kultury a kraje. Bojové sporty, tanec a deskové hry jsou také její vášní. 
+Magdaléna Daňková je členkou Pirátské strany od roku 2015, bývalá místopředsedkyně místního sdružení Pirátů Plzeň, a současná zastupitelka městského obvodu 1 i města Plzně, bývalá kandidátka do evropského parlamentu za Plzeňský kraj za piráty. Vystudovala matematiku a chemii na Západočeské univerzitě v Plzni, což je obor, ve kterém posledních 7 let působí v rámci ZŠ i SŠ. Má ráda život a cestování po světě, poznávání cizích kultur a filmy.
 
 „Informace jsou cennější než peníze. Pirátský program si klade za cíl prosazovat sdílení informací. Jen v případě dostatku informací je možné si svobodně a vědomě vybrat tu nejlepší možnou alternativu. Transparence je obrana proti korupci a neobjektivnosti.“ 
