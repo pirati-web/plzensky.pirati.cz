@@ -50,7 +50,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     description: Zastupitelka na městském obvodu Plzeň 1
     party: Piráti
     
-    tail: # zbytek kandidatky
+tail: # zbytek kandidatky
       # jedinná povinná položka je name zbytek můžete vynechat
       # věk se uvádí k poslednímu dni voleb
   - name: Michal Ertl
