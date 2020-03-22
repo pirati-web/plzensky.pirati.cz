@@ -7,7 +7,7 @@ titles:
 category:                 	# kategorie: plzen, plk
 - zastupitele
 img: people/petr-vileta.jpg
-description: Zastupitel města Plzně a zastupitel Plzeň 2, člen místního sdružení Plzeň 	# kratký popis, max 160 znaků
+description: Zastupitel města Plzně a Plzeň 2, člen místního sdružení Plzeň 	# kratký popis, max 160 znaků
 ordplzen: 5
 ordpms : 4
 mail:
