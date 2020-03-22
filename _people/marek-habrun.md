@@ -8,7 +8,7 @@ category:                 			# kategorie: plzen, pms, pos - každá na svůj ř�
 - zastupitele
 
 img: people/marek-habrun.jpg   # 165 x 220
-description: Zastupitel Plzeň 3, 3. místopředseda a člen místního sdružení Plzeň # kratký popis, max 160 znaků
+description: zastupitel Plzeň 3, 3. místopředseda a člen místního sdružení Plzeň # kratký popis, max 160 znaků
 mail:
 - marek.habrun@pirati.cz
 mob: 
