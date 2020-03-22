@@ -10,7 +10,7 @@ img: people/magdalena-dankova.jpg           # 165 x 220
 description: zastupitelka města Plzně a Plzeň 1, členka místního sdružení Plzeň # kratký popis, max 160 znaků
 mail:
 - magda.dankova@pirati.cz
-mob: +420 778 501 029
+mob:
 ordplzen: 4
 ordcar : 4
 ordpms : 2
