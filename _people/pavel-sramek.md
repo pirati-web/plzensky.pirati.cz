@@ -8,7 +8,7 @@ category:
 - predsedove
 - zastupitele
 - clenove
-description: Zastupitel města Plzně a zastupitel Plzeň 3, předseda a člen místního sdružení Plzeň
+description: zastupitel města Plzně a zastupitel Plzeň 3, předseda a člen místního sdružení Plzeň
 img: people/sramek.jpg # zakomentuj radek dokud není fotka
 ordclenove: 2
 mail:
