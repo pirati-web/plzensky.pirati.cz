@@ -8,10 +8,10 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
  - zastupitele
  - kandidat_kraj
 img: people/filip-sequens.jpg           # 165 x 220
-description: zastupitel Plzeň 2, místopředseda kontrolního výboru Plzeň 2, , člen místního sdružení Plzeň       
+description: zastupitel Plzeň 2, člen místního sdružení Plzeň       
 mail:
 - filip.sequens@pirati.cz
-mob: +420 773 451 982
+mob: 
 profiles:
   github:
   facebook:	https://www.facebook.com/filippm		 #váš alias na facebooku - pokud nemáte, napište před to #	
