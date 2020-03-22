@@ -7,7 +7,7 @@ titles:
 category:                 			# kategorie: plzen, pms, pos - každá na svůj řádek
 - zastupitele
 
-description: zastupitel města Plzně, zastupitel Plzeň 3, 1. místopředseda a člen místní sdružení Plzeň
+description: zastupitel města Plzně, zastupitel Plzeň 3, 1. místopředseda a člen místního sdružení Plzeň
 img: people/daniel kus_pirati.jpg
 ordclenove: 2
 mail:
