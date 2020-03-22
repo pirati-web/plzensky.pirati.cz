@@ -8,7 +8,7 @@ category:                 			# kategorie: plzen, pms, pos - každá na svůj ř�
 - zastupitele
 
 img: people/marek-habrun.jpg   # 165 x 220
-description: Zastupitel na ÚMO 3, Člen MS Plzeň # kratký popis, max 160 znaků
+description: Zastupitel Plzeň 3, člen místního sdružení Plzeň # kratký popis, max 160 znaků
 mail:
 - marek.habrun@pirati.cz
 mob: 
