@@ -8,8 +8,8 @@ category:
 - mistopredsedove
 - zastupitele
 - clenove
-description: zastupitel města Plzně, zastupitel Plzeň 1, člen republikového výboru, 
-2. místopředseda krajského sdružení Plzeňského kraje
+description: zastupitel města Plzně a Plzeň 1, člen republikového výboru, 
+2. místopředseda krajského sdružení Plzeňský kraj
 člen místního sdružení Plzeň
 img: people/rezek.jpg # zakomentuj radek dokud není fotka
 ordclenove: 2
