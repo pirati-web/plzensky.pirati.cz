@@ -8,10 +8,10 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - zastupitele
 - kandidat_kraj
 img: people/jiri-hanousek.jpg
-description: Kandidát na magistrát a ÚMO 4 # kratký popis, max 160 znaků
+description: Zastupitel Plzeň, člen místního sdružení Plzeň # kratký popis, max 160 znaků
 ordplzen: 17
 ordplzen4: 3
-mail:
+mail: jiri.hanousek@pirati.cz
 mob: 
 profiles:
   github:
