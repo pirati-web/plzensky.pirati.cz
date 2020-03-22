@@ -1,6 +1,6 @@
 ---
 uid: jiri.rezek
-name:     Jiří Rezek  	# běžně používáné jméno
+name: Jiří Rezek  	# běžně používáné jméno
 titles:
   before: Ing 
   after: Ph.D.
@@ -8,8 +8,7 @@ category:
 - mistopredsedove
 - zastupitele
 - clenove
-description: zastupitel města Plzně a Plzeň 1, člen republikového výboru, 2. místopředseda krajského sdružení Plzeňský kraj
-člen místního sdružení Plzeň
+description: zastupitel města Plzně a Plzeň 1, 2. místopředseda krajského sdružení Plzeňský kraj, člen místního sdružení Plzeň
 img: people/rezek.jpg # zakomentuj radek dokud není fotka
 ordclenove: 2
 mail:
