@@ -8,10 +8,10 @@ category:                 			# kategorie: plzen, pms, pos - každá na svůj ř�
 - zastupitele
 
 img: people/frantisek-hagara.jpg   # 165 x 220
-description: Zastupitel MO Plzeň 1, člen finančního výboru ZMO Plzeň 1, člen bezpečnostní komise ZMO Plzeň 1 a Města Plzně, člen MS Plzeň   # kratký popis, max 160 znaků
+description: Zastupitel Plzeň 1, člen místního sdružení Plzeň   # kratký popis, max 160 znaků
 mail:
 - frantisek.hagara@pirati.cz
-mob: +420 604 665 097
+mob: 
 profiles:
   github:                 #váš účet na githubu - pokud nemáte, napište před to #
   facebook: https://www.facebook.com/frantisek.hagara		  #váš alias na facebooku - pokud nemáte, napište před to #
