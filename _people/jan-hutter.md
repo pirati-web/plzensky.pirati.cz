@@ -8,7 +8,7 @@ category:                 			# kategorie: plzen, pms, pos - každá na svůj ř�
 - zastupitele
 
 img: people/jan-hutter.jpg   # 165 x 220
-description: Zastupitel Plzeň 4, člen místního sdružení Plzeň   # kratký popis, max 160 znaků
+description: zastupitel Plzeň 4, člen místního sdružení Plzeň   # kratký popis, max 160 znaků
 mail:
 - jan.hutter@pirati.cz
 mob: 
