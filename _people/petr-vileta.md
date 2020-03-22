@@ -7,12 +7,12 @@ titles:
 category:                 	# kategorie: plzen, plk
 - zastupitele
 img: people/petr-vileta.jpg
-description: Zastupitel města Plzně, zastupitel Městského obvodu Plzeň-2, člen finančních výborů obou zastupitelstev            	# kratký popis, max 160 znaků
+description: Zastupitel města Plzně a zastupitel Plzeň 2, člen místního sdružení Plzeň 	# kratký popis, max 160 znaků
 ordplzen: 5
 ordpms : 4
 mail:
 - petr.vileta@pirati.cz
-mob: +420 608 445 655
+mob:
 profiles:
   github:                 
   facebook: 		  https://www.facebook.com/petr.vileta
