@@ -7,7 +7,7 @@ titles:
 category:                 	    # kategorie: rp, praha, vary, hradec, jmk, senat
 - zastupitele
 img: people/radek-krejci.jpg
-description: Kandidát na magistrát a ÚMO 2, člen MS Plzeň         	# kratký popis, max 160 znaků
+description: Zastupitel města Plzně, člen místního sdružení Plzeň # kratký popis, max 160 znaků
 mail:
 - radek.krejci@pirati.cz
 mob:
