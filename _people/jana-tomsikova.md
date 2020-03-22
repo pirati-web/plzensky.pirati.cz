@@ -8,10 +8,10 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - zastupitele
 
 img: people/jana-tomsikova.jpg           # 165 x 220
-description: Kandidátka na magistrát a ÚMO 4, členka MS Plzeň # kratký popis, max 160 znaků
+description: Zastupitelka Plzeň 4, členka místního sdružení Plzeň # kratký popis, max 160 znaků
 ordplzen: 11
 ordplzen4: 2
-mail:
+mail: jana.tomsikova@pirati.cz
 mob: 
 profiles:
   github:
