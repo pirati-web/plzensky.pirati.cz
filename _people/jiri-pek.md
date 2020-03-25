@@ -7,7 +7,7 @@ titles:
 category:
 - zastupitele_vejprnice
 - kandidat_kraj
-description: Zastupitel ve Vejprnicích
+description: zastupitel města Vejprnice
 img: people/jiri_pek.png # zakomentuj radek dokud není fotka
 ordclenove: 2
 mail:
