@@ -6,7 +6,7 @@ titles:
   after:
 category:
 - zastupitele_holysov
-description: Starosta v Holýšově
+description: starosta města Holýšov
 img: people/libor_schropfer.jpg # zakomentuj radek dokud není fotka
 ordclenove: 2
 mail:
