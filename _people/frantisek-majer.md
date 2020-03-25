@@ -6,7 +6,7 @@ titles:
   after:
 category:
 - zastupitele_susice
-description: Zastupitel v Sušici
+description: zastupitel města Sušice
 img: people/frantisek_majer.png # zakomentuj radek dokud není fotka
 ordclenove: 2
 mail:
