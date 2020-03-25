@@ -4,7 +4,7 @@ category: blog
 tags: Plzenskykraj Pandemie zdravotnictví
 title: Kdo uzdraví pacienty v době pandemie?
 author: Jindřich Čermák
-image: posts/chaloupka01.jpg
+image: people/chaloupka1.jpg
 ---
 **Naprostá nedostupnost ochranných prostředků, které měl Plzeňský kraj od pondělí dodávat nejen nemocnicím, ale zejména ambulantním specialistům, může způsobit, že pacienti, kteří sice nejsou nakaženi koronavirem, ale chtějí vyhledat lékařskou pomoc ambulantních specialistů, budou muset hledat pomoc jinde. Upozorňují na to Piráti Plzeňského kraje.**
 
