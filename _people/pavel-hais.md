@@ -7,7 +7,7 @@ titles:
 category:
 - zastupitele_susice
 - kandidat_kraj
-description: zastupitel města Sušice
+description: radní města Sušice
 ordKraj: 1
 img: people/pavel_hais.png # zakomentuj radek dokud není fotka
 mail:
