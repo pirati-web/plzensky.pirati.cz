@@ -6,7 +6,7 @@ titles:
   after:
 category:
 - zastupitele_domazlice
-description: Zastupitel v Domažlicích
+description: zastupitel města Domažlice
 img: people/rudolf_spotak.jpg # zakomentuj radek dokud není fotka
 ordclenove: 2
 mail:
