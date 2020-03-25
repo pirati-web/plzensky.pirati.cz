@@ -6,7 +6,7 @@ titles:
   after:
 category:
 - zastupitele_klatovy
-description: Zastupitel v Klatovech
+description: zastupitel města Klatovy
 img: people/zavreljiri.jpg # zakomentuj radek dokud není fotka
 ordclenove: 2
 mail:
