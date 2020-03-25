@@ -13,7 +13,7 @@ ordclenove: 2
 mail:
 - michal.ertl@pirati.cz
 profiles:
-  facebook: https://www.facebook.com/jiri.rezek.1 
+  facebook: https://www.facebook.com/profile.php?id=100011698575451 
 ---
   
   Michal Ertl (1963) Odjakživa jsem liberální demokrat s pravicovým myšlením a sociálním cítěním pro potřebné. Narozen na druhý svátek vánoční LP 1963 v Přerově Studoval SPŠ automatizačni Přerov, VA Brno obor vyzbrojně technicky a UP Olomouc obor pedagogika a psychologie.
