@@ -6,7 +6,7 @@ titles:
   after:
 category:
 - zastupitele_susice
-description: Radní města Sušice
+description: radní města Sušice
 img: people/vaclav_cerny.png # zakomentuj radek dokud není fotka
 ordclenove: 2
 mail:
