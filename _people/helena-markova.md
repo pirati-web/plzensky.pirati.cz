@@ -6,7 +6,7 @@ titles:
   after:
 category:
 - zastupitele_holysov
-description: Zastupitelka v Holýšově
+description: zastupitelka města Holýšov
 # img: people/libor_schropfer.jpg # zakomentuj radek dokud není fotka
 ordclenove: 2
 mail:
