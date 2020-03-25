@@ -10,7 +10,7 @@ category:
   - clenove
 ordpms: 1
 ordclenove: 3
-description: 4. místopředseda KS Plzeňského kraje, Krajský manažer pro volby do Evropského parlamentu 2019
+description: člen krajského sdružení Plzeňský kraj
 img: people/kubat.jpg # zakomentuj radek dokud není fotka
 mail:
   - josef.kubat@pirati.cz
