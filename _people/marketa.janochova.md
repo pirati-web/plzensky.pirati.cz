@@ -6,7 +6,7 @@ titles:
   after:
 category:
 - zastupitele_chodovaplana
-description: Zastupitelka v Chodové Plané
+description: zastupitelka města Chodová Planá
 # img: people/josef_janoch.jpg # zakomentuj radek dokud není fotka
 ordclenove: 2
 mail:
