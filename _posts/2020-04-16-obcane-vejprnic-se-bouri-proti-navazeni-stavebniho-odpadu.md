@@ -3,7 +3,7 @@ date: 2020-04-16
 category: blog
 tags: Plzenskykraj Vejprnice
 title: Občané Vejprnic se bouří proti navážení stavebního odpadu
-author: Jindřich Čermák
+author: Jiří Pek
 image: posts/skladka_vejprnice01.jpg
 ---
 **Na zvýšený provoz nákladních automobilů plných stavebního odpadu přes Vejprnice si začali stěžovat občané u obecního ombudsmana a zastupitele Jiřího Peka. Zjistilo se, že plně naložené vozy míří na pozemky podnikatele a politika Jana Michálka. Do lokality Na Mokřinách, patřící právě Michálkovi, ukládá stavební odpad firma Stavmonta.**
