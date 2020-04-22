@@ -2,7 +2,7 @@
 date: 2020-04-21
 category: blog
 tags: Plzenskykraj Pandemie
-title: První linie pod palbou
+title: Milan Chaloupka: První linie pod palbou
 author: Jindřich Čermák
 image: posts/chaloupka02.jpg
 ---
@@ -12,7 +12,7 @@ Ochrana těch nejdůležitějších přitom dlouhé dny vázla. A to nejen ze st
 
 *„Ignorování lékařské komory je trestuhodné. Prezident komory Kubek zoufale na všechny strany upozorňoval na nedostatečnou ochranu zdravotnického personálu a nyní neseme trpké plody této ignorace. To ovšem PR mašinérie premiéra Babiše bude takticky zamlčovat,“* komentuje situaci Milan Chaloupka, místopředseda Pirátů Plzeňského kraje, který na nedostatečnou distribuci poukazuje již měsíc.
 
-*„Jsme pochopitelně rádi, že můžeme pomoci. Do nemocnic, ordinací lékařů, zařízení sociálních služeb, jsme poslali tisíce roušek a distribuovali více než šest set ochranných štítů. Vděk všech se nedá popsat slovy. Bohužel mám pocit, že se vláda na ty tolik oceňované bojovníky z první linie poněkud vykašlala,“* doplnil Chaloupka.
+*„Jsme pochopitelně rádi, že můžeme pomoci. Do nemocnic, ordinací lékařů, zařízení sociálních služeb, jsme poslali tisíce roušek a distribuovali více než osm set ochranných štítů. Vděk všech se nedá popsat slovy. Bohužel mám pocit, že se vláda na ty tolik oceňované bojovníky z první linie poněkud vykašlala,“* doplnil Chaloupka.
 
 Česká lékařská komora vytrvale apeluje na odbornou diskusi ohledně pandemických opatření. Varuje před nebezpečnou frází o „promořování“ populace a dlouhodobě poukazuje na nedostatečnou vybavenost zdravotnického personálu ochrannými pomůckami. Vláda i ústřední krizový štáb tento odborný orgán zatím ignoruje.
 
