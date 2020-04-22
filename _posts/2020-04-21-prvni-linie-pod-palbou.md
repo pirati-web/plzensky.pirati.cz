@@ -2,7 +2,7 @@
 date: 2020-04-21
 category: blog
 tags: Plzenskykraj Pandemie
-title: Milan Chaloupka: První linie pod palbou
+title: Milan Chaloupka "První linie pod palbou"
 author: Jindřich Čermák
 image: posts/chaloupka02.jpg
 ---
