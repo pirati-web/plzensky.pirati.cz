@@ -17,4 +17,4 @@ Dalším tragikomickým prvkem celé aféry je také způsob, jakým místostaro
 Třešničkou na dortu je skutečnost, že pokud se nepodaří do dvou let zkolaudovat panu místostarostovi jeho rodinný dům, město jej odkoupí za aktuální cenu znaleckého posudku. Vzhledem k tomu, jak v posledních letech roste trh s nemovitostmi, by město koupilo dům za několikanásobnou cenu původní tržní ceny na začátku stavby.
 
 ![](/assets/img/posts/dom02.jpg)
-*Rudolf Špoták a Viktor Krutina*
+<br>*Rudolf Špoták a Viktor Krutina*
