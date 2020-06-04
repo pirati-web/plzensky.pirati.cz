@@ -5,7 +5,7 @@ tags: Plzenskykraj krajskevolby zaměstnanost
 title: Zaměstnanost v popandemické době
 author: Rudolf Špoták 
 authorId: rudolf.spotak 
-image: posts/rudolf_spotak01.jpg
+image: people/rudolf_spotak01.jpg
 ---
 **Už teď je jasné, že po zdravotní krizi se celková situace nejvíce dotkne ekonomických aspektů společnosti. Česko se dlouhodobě drží na nejnižší úrovni nezaměstnanosti z celé EU. Roustoucí ekonomika založená především na vysoko obrátkovém zboží a logistických službách jsou sice “steriody” na kterých lze dobře a rychle vyrůst, ale když vám začne trochu vynechávat srdíčko, tak to zdánlivě silné, ale ve skutečnosti křehké tělíčko to nemůže utáhnout.**
 
