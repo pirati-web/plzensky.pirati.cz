@@ -5,7 +5,7 @@ tags: Plzenskykraj Vejprnice kultura
 title: Vejprnická kultura za půl mega
 author: Jiří Pek
 authorId: jiri.pek
-image: posts/festival_vejprnice021.jpg
+image: posts/festival_vejprnice01.jpg
 ---
 **Že jsou Vejprnice vždy ve všem speciální už dlouho víme. Platí to i o kulturních akcích, konkrétně o festivalu Vejpfest. Ten má několik zásadních nedostatků oproti podobným festivalům. Rada obce má možnost rozdávat dotace až do výše půl milionu korun bez kontroly. Ve srovnání s vybranými festivaly obdobných obcí byl Vejpfest nejdražší s nejmenší účastí lidí.**
 
