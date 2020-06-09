@@ -25,7 +25,7 @@ Shrnutí praxe zákulisí festivalů:
    například 80 tisíc, ale pak se z těchto peněz část vrací objednateli.
  - Ozvučení akce – průměr je 1 kW výkonu/1 Kč, přitom se dá dostat až na
    0,5 Kč za kW výkonu. Například ve Valči si za 40.000 kW při Slavnosti
-   květů 40 000 kW účtuje 30 tisíc.
+   květů účtuje 30 tisíc.
  - Vysoutěžené festivaly mají cenu výrazně nižší, protože je na trhu
    přetlak pořádajících agentur.
  - Často se zneužívají v předvolebním boji.
