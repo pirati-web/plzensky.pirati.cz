@@ -13,7 +13,17 @@ keywords: 3D tisk
           <header class="c-page-header">
             <h1 itemprop="headline" class="c-page-title">Zde budou soubory ke stažení pro 3D tisk</h1>
             <div class="large-6 column">
-       <h5>Soubory ke stažení </h5>
+  <div class="media-object">
+      <div class="media-object-section">
+        <div class="thumbnail">
+          <img style="height: 65px;" src= "{{ '/assets/img/people/kosik.jpg' }}" alt="Mince do košíku">
+        </div>
+      </div>
+      <div class="media-object-section main-section">
+        <h6><a href="{{ '/lide/miroslav-masek/'}}">Odkaz</a></h6>
+        <p>výrobek je z 3D tiskárny</p>
+      </div>
+    </div>
     <div class="media-object">
       <div class="media-object-section">
         <div class="thumbnail" >
