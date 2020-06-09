@@ -33,8 +33,7 @@ keywords: 3D tisk
       <div class="media-object-section main-section">
         <h6><a href="{{ '/lide/lukas-barton/'  }}">Odkaz</a></h6>
         <p>výrobek je z 3D tiskárny</p>
-                 </header>
-          {% assign posts = site.posts | where_exp: "item", "item.tags contains 'susice'"%}
+             {% assign posts = site.posts | where_exp: "item", "item.tags contains 'susice'"%}
           {% include articles/list-responsive.html posts=posts %}
       </div>
     </div>
