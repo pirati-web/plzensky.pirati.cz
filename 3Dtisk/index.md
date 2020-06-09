@@ -12,7 +12,18 @@ keywords: 3D tisk
       <div class="o-section-inner">
           <header class="c-page-header">
             <h1 itemprop="headline" class="c-page-title">Zde budou soubory ke stažení pro 3D tisk</h1>
-          </header>
+            <div class="large-6 column">
+       <h5>Soubory ke stažení </h5>
+    <div class="media-object">
+      <div class="media-object-section">
+        <div class="thumbnail" >
+          <img style="height: 65px;" src= "{{ '/assets/img/pistalka.jpg' }}" alt="Píšťalka">
+        </div>
+       </div>
+      <div class="media-object-section main-section">
+        <h6><a href="{{ '/lide/lukas-barton/'  }}">Odkaz</a></h6>
+        <p>výrobek je z 3D tiskárny</p>
+                 </header>
           {% assign posts = site.posts | where_exp: "item", "item.tags contains 'susice'"%}
           {% include articles/list-responsive.html posts=posts %}
       </div>
