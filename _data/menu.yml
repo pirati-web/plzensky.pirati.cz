@@ -8,7 +8,10 @@ top:
   - link: "Pirátské listy"
     url:  "http://www.piratskelisty.cz"
     icon: "fa fa-newspaper-o"
-
+  - link: "3D tisk"
+    url:  "https://plzensky.pirati.cz/3Dtisk/"
+    icon: "fa fa-home"
+    
 main:
   - link: /aktuality/
     name: Aktuality
