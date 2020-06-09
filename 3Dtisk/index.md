@@ -11,7 +11,7 @@ keywords: 3D tisk
     <div class="o-section">
       <div class="o-section-inner">
           <header class="c-page-header">
-            <h1 itemprop="headline" class="c-page-title">Aktuality ze Sušice</h1>
+            <h1 itemprop="headline" class="c-page-title">Zde budou soubory ke stažení pro 3D tisk</h1>
           </header>
           {% assign posts = site.posts | where_exp: "item", "item.tags contains 'susice'"%}
           {% include articles/list-responsive.html posts=posts %}
