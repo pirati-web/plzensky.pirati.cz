@@ -16,7 +16,7 @@ keywords: 3D tisk
   <div class="media-object">
       <div class="media-object-section">
         <div class="thumbnail">
-          <img style="height: 65px;" src= "{{ '/assets/img/people/kosik.jpg' }}" alt="Mince do košíku">
+          <img style="height: 65px;" src= "{{ '/assets/img/kosik.jpg' }}" alt="Mince do košíku">
         </div>
       </div>
       <div class="media-object-section main-section">
