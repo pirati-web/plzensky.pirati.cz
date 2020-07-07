@@ -65,6 +65,7 @@ tail: # zbytek kandidatky
     uid: radek.krejci
     party: Piráti
   - name: Olga Sejrková
+    uid: olga.sejrkova
     party: Piráti
   - name: Petr Vileta
     uid: petr.vileta
