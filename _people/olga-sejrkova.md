@@ -3,7 +3,6 @@ uid: olga.sejrkova
 name: Olga Sejrková 	# běžně používáné jméno
 titles:
   before: Mgr. 
-  after: 
 category:
 - clenove
 description: členka místního sdružení Plzeň
