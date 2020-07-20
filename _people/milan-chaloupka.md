@@ -15,7 +15,6 @@ profiles: https://lide.pirati.cz/personProfile/674/
 
 ## Milan Chaloupka
 
-## JUDr. Milan Chaloupka, MBA, LL.M ##
 Právo a pořádek jsou mým denním chlebem. V zákonech, komunikaci i ve vztazích. Přesně to mi jde,
 protože vím, jak na to.
 
