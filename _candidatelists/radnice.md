@@ -91,4 +91,19 @@ tail: # zbytek kandidatky
     party: Piráti
   - name: Michal Hermann 
     party: Piráti
+  - name: Jan Hutter
+    uid: jan.hutter
+    party: Piráti
+  - name: František Hagara
+    uid: frantisek.hagara
+    party: Piráti
+  - name: Zuzana Černá
+    party: Piráti
+  - name: Josef Kubát
+    uid: josef.kubat
+    party: Piráti
+  - name: <a href="https://lide.pirati.cz/personProfile/1176/">Pavel Kašík</a>
+    party: Piráti
+  - name: Václav Bouček
+    party: Piráti
 ---
