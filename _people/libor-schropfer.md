@@ -14,7 +14,7 @@ mail:
 profiles:
 ---
 
-## Libor Schröpfer
+## Libor Schröpfer - starosta města Holýšov (od roku 2018)
 
 Jmenuji se Libor Schröpfer (14. 6. 1963), od svého narození bydlím v Holýšově. Od roku 1986 pracuji jako středoškolský učitel matematiky a chemie v Plzni. Jsem ženatý, mám dvě dospělé děti.
 
