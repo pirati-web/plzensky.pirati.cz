@@ -11,7 +11,9 @@ image: posts/prodana_01.jpg
 
 ![](/assets/img/posts/prodana_02.jpg)
 
-Štíty pomohly zejména zpěváčkům z dětského sboru opery DJKT Kajetán, kteří se tak po celý červen mohli připravovat pod vedením sbormistryně Anny-Marie Lahodové na srpnovou premiéru. „Za Piráty jsem velmi rád, že můžeme pomáhat všude tam, kde je potřeba. Tedy nejen v té obligátní první linii, ale i kulturním institucím. Živá kultura je důležitou součástí našeho života, na kterou nesmíme zapomínat. A osobně se na představení velmi těším,“ sdělil za Piráty Milan Chaloupka, kandidát do zastupitelstva Plzeňského kraje.
+Štíty pomohly zejména zpěváčkům z dětského sboru opery DJKT Kajetán, kteří se tak po celý červen mohli připravovat pod vedením sbormistryně Anny-Marie Lahodové na srpnovou premiéru. *"Děkujeme Milanu Chaloupkovi za Pirátské štíty. Díky nim jsme v červnu nazkoušeli celou Prodanou nevěstu,"* napsala nám sbormistryně Anna-Marie Lahodová. 
+
+Milan Chaloupka, kandidát do zastupitelstva Plzeňského kraje doplňuje: *„Za Piráty jsem velmi rád, že můžeme pomáhat všude tam, kde je potřeba. Tedy nejen v té obligátní první linii, ale i kulturním institucím. Živá kultura je důležitou součástí našeho života, na kterou nesmíme zapomínat. A osobně se na představení velmi těším.“* 
 
 V rámci pandemické krize Piráti zprovoznili deset 3D tiskáren, na kterých 20 dobrovolníků zkompletovalo přes tisíc štítů, které šly do čtyřicítky nejrůznějších institucí v Plzeňském kraji i přilehlého okolí.
 
