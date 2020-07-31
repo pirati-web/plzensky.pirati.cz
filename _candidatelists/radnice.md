@@ -139,7 +139,8 @@ tail: # zbytek kandidatky
     party: Bez politické příslušnosti
   - name: <a href="https://lide.pirati.cz/personProfile/1198/">Jiří Čapek</a>
     party: Bez politické příslušnosti 
-  - name: <a href="https://lide.pirati.cz/person/908/">Roland Martin</a>
+  - name: Roland Martin
+    uid: roland.martin
     party: Česká pirátská strana
   - name: <a href="https://lide.pirati.cz/personProfile/1179/">Miroslav Červený</a>
     party: Bez politické příslušnosti
