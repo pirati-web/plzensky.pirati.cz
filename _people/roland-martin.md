@@ -1,12 +1,8 @@
 ---
 uid: roland.martin
 name:     Roland Martin  	# běžně používáné jméno
-titles:
-  before:  
-  after: 
 category:
 - clenove
-description: 
 img: roland-martin.jpeg # zakomentuj radek dokud není fotka
 ordclenove: 2
 mail:
