@@ -1,19 +1,19 @@
 ---
 layout: default
-rbar: 
-   - fb
-   - calendar
-img: plzenksy_kraj.png
-
+title: Aktuality
+description: Novinky z města Plzně, pirátské kauzy a vše o Plzeňském kraji.
+keywords: aktuality, tiskové zprávy, press, blog
 ---
 
-{% include homepage/banner.html 
-   link='https://plzensky.pirati.cz/'
-   title='Krajské sdružení Plzeňskéo kraje'
-   default='koronavirus.png'
-   mobile='koronavirus.png'
-   breakpoint=640
-%}
+<div class="container container--default pt-8 lg:py-24">
+  <section>
+    <h1 class="head-alt-md md:head-alt-lg max-w-5xl mb-4">Aktuální témata</h1>
 
-{% include homepage/news-with-rbar.html %}
+    {% assign posts = paginator.posts %}
+    <main>
+      {% include articles/list-responsive.html posts=posts %}
+    </main>
 
+    {% include articles/pagination.html paginator=paginator %}
+  </section>
+</div>
