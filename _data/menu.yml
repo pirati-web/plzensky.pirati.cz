@@ -25,9 +25,6 @@ main:
   - link: /krajske/
     name: Krajské volby
     match: krajske
-  - link: /pripojse/
-    name: Připoj se
-    match: pripojse
   - link: /kontakt/
     name: Kontakt
     match: kontakt
