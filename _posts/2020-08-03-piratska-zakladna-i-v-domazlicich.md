@@ -5,6 +5,7 @@ tags: Plzenskykraj Domažlice
 title: Pirátská základna i v Domažlicích
 author: MS Domažlice
 image: posts/domazlice_zalozeni.jpg
+important: true
 ---
 **V pátek 31.7. bylo slavnostně založeno třetí Pirátské místní sdružení v Plzeňském kraji, a to v Domažlicích, v budoucím sídle tamního Pirátského centra.**
 
