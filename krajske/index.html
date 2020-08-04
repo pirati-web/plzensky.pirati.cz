@@ -1,10 +1,8 @@
 ---
 layout: communal-elections
 title: Krajské volby 2020
-heroBgImg: articles/2020/kampan20/zahajenikampan.jpg
-campaignGroupUid: volby-2020
 campaignCategoryUid: PlK2020
-candidateListUid: kraj2020
+candidateListUid: radnice # uid z `_candidates/radnice.md`
 customizeHeader: true
 ---
 
@@ -18,4 +16,3 @@ customizeHeader: true
   <h2 class="head-xs md:head-base mt-2 text-center">Šance <strong>změnit budoucnost</strong></h2>
 {% endcapture %}
 
-{% include elections-header.html img=page.img bgImg=page.heroBgImg mainContent=mainContent subContent=subContent candidateListNumber=candidates.number %}
