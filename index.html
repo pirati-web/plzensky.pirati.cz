@@ -1,19 +1,12 @@
 ---
 layout: default
-rbar: 
-   - fb
-   - calendar
-img: plzenksy_kraj.png
-
 ---
 
-{% include homepage/banner.html 
-   link='https://plzensky.pirati.cz/'
-   title='Krajské sdružení Plzeňskéo kraje'
-   default='koronavirus.png'
-   mobile='koronavirus.png'
-   breakpoint=640
-%}
+{% include homepage/banner.html href="/volby-2020/" cta="Volby" title="Piráti Plzeňského kraje" img="banner-default.jpg" %}
 
-{% include homepage/news-with-rbar.html %}
-
+<div class="container container--default lg:pb-24">
+  {% include homepage/news.html %}
+  {% include homepage/countdown.html deadline="2020-10-02 00:00:00" %}
+  {% include homepage/calendar.html %}
+  {% include homepage/social.html %}
+</div>
