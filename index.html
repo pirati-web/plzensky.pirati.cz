@@ -1,19 +1,13 @@
 ---
 layout: default
-title: Aktuality
-description: Novinky z města Plzně, pirátské kauzy a vše o Plzeňském kraji.
-keywords: aktuality, tiskové zprávy, press, blog
 ---
 
-<div class="container container--default pt-8 lg:py-24">
-  <section>
-    <h1 class="head-alt-md md:head-alt-lg max-w-5xl mb-4">Aktuální témata</h1>
+{% include homepage/banner.html href="/volby-2020/" cta="Volby" title="Piráti Plzeňského kraje" img="banner-default.jpg" %}
 
-    {% assign posts = paginator.posts %}
-    <main>
-      {% include articles/list-responsive.html posts=posts %}
-    </main>
-
-    {% include articles/pagination.html paginator=paginator %}
-  </section>
+<div class="container container--default lg:pb-24">
+  {% include homepage/news.html %}
+  {% include homepage/countdown.html deadline="2020-10-02 00:00:00" %}
+  {% include homepage/calendar.html %}
+  {% include homepage/social.html %}
 </div>
+
