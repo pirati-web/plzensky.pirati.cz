@@ -11,7 +11,6 @@ leader:
  </li><li> V současné době jsem zastupitelem města Domažlice </li><li> věnuje se lidským zdrojům </li>
 </ul>
 "
-
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
   - uid: pavel.hais
     age: 36
@@ -126,7 +125,7 @@ tail: # zbytek kandidatky
     party: Česká pirátská strana
   - name: Jan Pachl
     party: Česká pirátská strana
-  - name: >Milan Štrup
+  - name: Milan Štrup
     party: Česká pirátská strana
   - name: Petr Jakubíček
     party: Česká pirátská strana
