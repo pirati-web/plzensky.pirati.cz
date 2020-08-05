@@ -16,7 +16,6 @@ url: "https://plzensky.pirati.cz"
 administrator:
   email: miroslav.masek@pirati.cz, martin.ptacek@pirati.cz, pavel.sramek@pirati.cz # mail(y), kam pujdou chybove vystupy; vice e-mailu oddelujte carkou
 
-mediaStorage: plzensky
 
 organization:
   name: Piráti - Plzeňský kraj
@@ -162,11 +161,9 @@ assets:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.7.1/_sass
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.5.0/_sass
     - assets/css
     - assets/fonts
     - assets/video
     - assets/img
     - _sass
-
-styleguide_base_url: 'https://styleguide.pir-test.eu/latest/'
