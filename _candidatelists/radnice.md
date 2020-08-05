@@ -70,7 +70,7 @@ tail: # zbytek kandidatky
   - name: Petr Vileta
     uid: petr.vileta
     party: Česká pirátská strana
-  - name: <a href="https://lide.pirati.cz/personProfile/1186/">Jindřiška Šrámková</a>
+  - name: Jindřiška Šrámková
     party: Česká pirátská strana
   - name: Stanislav Haviar
     uid: stanislav.haviar
@@ -78,18 +78,18 @@ tail: # zbytek kandidatky
   - name: Aleš Jakl 
     uid: ales.jakl
     party: Česká pirátská strana
-  - name: <a href="https://lide.pirati.cz/personProfile/166/">Petr Planeta</a>
+  - name: Petr Planeta
     party: Česká pirátská strana
   - name: Vladimír Vápeník 
     party: Česká pirátská strana
   - name: Josef Janoch 
     uid: josef.janoch
     party: Česká pirátská strana
-  - name: <a href="https://lide.pirati.cz/personProfile/1171/">Miroslav Vaňáček</a> 
+  - name: Miroslav Vaňáček
     party: Česká pirátská strana
   - name: Tomáš Hraběta
     party: Česká pirátská strana
-  - name: <a href="https://lide.pirati.cz/personProfile/1177/">Michal Hermann</a>
+  - name: Michal Hermann
     party: Česká pirátská strana
   - name: Jan Hutter
     uid: jan.hutter
@@ -102,42 +102,42 @@ tail: # zbytek kandidatky
   - name: Josef Kubát
     uid: josef.kubat
     party: Česká pirátská strana
-  - name: <a href="https://lide.pirati.cz/personProfile/1176/">Pavel Kašík</a>
+  - name: Pavel Kašík
     party: Česká pirátská strana
-  - name: <a href="https://lide.pirati.cz/personProfile/1202/">Václav Bouček</a>
+  - name: Václav Bouček
     party: Česká pirátská strana
-  - name: <a href="https://lide.pirati.cz/personProfile/1209/">Vladimíra Janovcová</a>
+  - name: Vladimíra Janovcová
     party: Česká pirátská strana
-  - name: <a href="https://lide.pirati.cz/personProfile/1174/">Monika Soukupová</a>
+  - name: Monika Soukupová
     party: Česká pirátská strana
-  - name: <a href="https://lide.pirati.cz/personProfile/1175/">Martin Ouda</a>
+  - name: Martin Ouda
     party: Česká pirátská strana
-  - name: <a href="https://lide.pirati.cz/person/1449//">Helena Krutinová</a>
+  - name: Helena Krutinová
     party: Česká pirátská strana
-  - name: <a href="https://lide.pirati.cz/personProfile/1170/">Jurij Černopaščenko</a>
+  - name: Jurij Černopaščenko
     party: Česká pirátská strana
-  - name: <a href="https://lide.pirati.cz/personProfile/537/">Jiří Panuška</a>
+  - name: Jiří Panuška
     party: Česká pirátská strana
-  - name: <a href="https://lide.pirati.cz/personProfile/790/">Pavlína Vacková</a>
+  - name: Pavlína Vacková
     party: Česká pirátská strana
-  - name: <a href="https://lide.pirati.cz/personProfile/1185/">Vendula Polanová</a>
+  - name: Vendula Polanová
     party: Česká pirátská strana
-  - name: <a href="https://lide.pirati.cz/personProfile/218/">Roman Sloup</a>
+  - name: Roman Sloup
     party: Česká pirátská strana
-  - name: <a href="https://lide.pirati.cz/personProfile/684/">Jan Pachl</a>
+  - name: Jan Pachl
     party: Česká pirátská strana
-  - name: <a href="https://lide.pirati.cz/personProfile/1184/">Milan Štrup</a>
+  - name: Milan Štrup
     party: Česká pirátská strana
-  - name: <a href="https://lide.pirati.cz/person/1947/">Petr Jakubíček</a>
+  - name: Petr Jakubíček
     party: Česká pirátská strana
-  - name: <a href="https://lide.pirati.cz/person/912/">Michal Huml</a>
+  - name: Michal Huml
     party: Česká pirátská strana
-  - name: <a href="https://lide.pirati.cz/personProfile/1172/">Jakub Frühauf</a>
+  - name: Jakub Frühauf
     party: Česká pirátská strana
   - name: Libor Schöpfer
     uid: libor.schropfer
     party: Bez politické příslušnosti
-  - name: <a href="https://lide.pirati.cz/personProfile/1198/">Jiří Čapek</a>
+  - name: Jiří Čapek
     party: Bez politické příslušnosti 
   - name: Roland Martin
     uid: roland.martin
