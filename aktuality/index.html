@@ -1,20 +1,21 @@
 ---
 layout: default
 title: Aktuality
-description: Novinky z města XY, pirátské kauzy a vše o xy.
+description: Novinky z Plzeňského kraje, pirátské kauzy a vše o Plzeňsku.
 keywords: aktuality, tiskové zprávy, press, blog
 ---
 
 <div class="row">
-	<div class="columns">
-		<div class="o-section">
-			<div class="o-section-inner">
-				<header class="c-page-header">
-					<h1 itemprop="headline" class="c-page-title">Aktuality</h1>	
-					</header>
-					{% assign posts = paginator.posts %}
-					{% include articles/list-responsive.html posts=posts %}
-					{% include articles/pagination.html paginator=paginator %}	
-					</div>
-				</div>
-				</div></div></div>
+  <div class="columns">
+    <div class="o-section">
+      <div class="o-section-inner">
+          <header class="c-page-header">	
+            <h1 itemprop="headline" class="c-page-title">Aktuality</h1>	
+          </header>	
+          {% assign posts = paginator.posts %}	
+          {% include articles/list-responsive.html posts=posts %}	
+          {% include articles/pagination.html paginator=paginator %}	
+      </div>	
+    </div>	
+  </div>	
+</div>
