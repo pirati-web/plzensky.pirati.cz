@@ -1,7 +1,18 @@
 ---
 layout: communal-elections
 title: Krajské volby 2020
-campaignGroupUid: volby-2020
-campaignCategoryUid: radnice
+campaignCategoryUid: PlK2020
+candidateListUid: radnice # uid z `_candidates/radnice.md`
 customizeHeader: true
 ---
+
+{% assign candidates = site.candidatelists | where: "uid", page.candidateListUid | first %}
+
+{% capture mainContent %}
+  <h1 class="head-alt-lg md:head-alt-xl text-center">Krajské volby 2020</h1>
+{% endcapture %}
+
+{% capture subContent %}
+  <h2 class="head-xs md:head-base mt-2 text-center">Šance <strong>změnit budoucnost</strong></h2>
+{% endcapture %}
+
