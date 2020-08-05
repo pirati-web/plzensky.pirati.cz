@@ -17,7 +17,7 @@ administrator:
   email: miroslav.masek@pirati.cz, martin.ptacek@pirati.cz, pavel.sramek@pirati.cz # mail(y), kam pujdou chybove vystupy; vice e-mailu oddelujte carkou
 
 
-mediaStorage: plzensky
+#mediaStorage: plzensky
 
 organization:
   name: Piráti - Plzeňský kraj
