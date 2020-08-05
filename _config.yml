@@ -53,7 +53,7 @@ facebook:
   loadSDK: true
   #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
   profilePage: https://www.facebook.com/pirati.plzensky.kraj/
-  profilePageName: Česká pirátská strana - Plzeňský kraj
+  profilePageName: Piráti Plzeňský kraj
   appId: 1526197851008996
 
 twitter:
