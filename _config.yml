@@ -128,6 +128,7 @@ defaults:   # defaults values for collection scope
     scope:
       path: "_people"
     values:
+      heroImg: "img/posts/domazlice_zalozeni.jpg"
       layout: "person"
       rbar:
         - foto
