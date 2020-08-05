@@ -128,7 +128,7 @@ tail: # zbytek kandidatky
     party: Česká pirátská strana
   - name: >Milan Štrup
     party: Česká pirátská strana
-  - name: Petr Jakubíček</a>
+  - name: Petr Jakubíček
     party: Česká pirátská strana
   - name: Michal Huml
     party: Česká pirátská strana
@@ -142,9 +142,9 @@ tail: # zbytek kandidatky
   - name: Roland Martin
     uid: roland.martin
     party: Česká pirátská strana
-  - name: <a href="https://lide.pirati.cz/personProfile/1179/">Miroslav Červený</a>
+  - name: Miroslav Červený
     party: Bez politické příslušnosti
-  - name: <a href="https://lide.pirati.cz/personProfile/1169/">Daniel Horák</a>
+  - name: Daniel Horák
     party: Bez politické příslušnosti
   - name: Luděk Červený
     party: Bez politické příslušnosti
