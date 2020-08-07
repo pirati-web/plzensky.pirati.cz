@@ -14,6 +14,6 @@ Kandidát na hejtmana Rudolf Špoták na pondělní tiskové konferenci vyjádř
 
 ![](/assets/img/posts/TK030820_03.jpg)
 
-Milým hostem pondělního setkání byla 1. místopředsedkyně Pirátů Olga Richterová, která podpořila Piráty Plzeňského kraje. Přítomna byla také takřka kompletní první desítka – Martin Ptáček, Filip Sequens, Jiří Hanousek, Milan Chalupka, Michal Ertl a Jana Tomšíková. Nechyběl ani kandidát do Senátu Daniel Kůs.
+Milým hostem pondělního setkání byla 1. místopředsedkyně Pirátů Olga Richterová, která podpořila Piráty Plzeňského kraje. Přítomna byla také takřka kompletní první desítka – Martin Ptáček, Filip Sequens, Jiří Hanousek, Milan Chaloupka, Michal Ertl a Jana Tomšíková. Nechyběl ani kandidát do Senátu Daniel Kůs.
 
 ![](/assets/img/posts/TK030820_04.jpg)
