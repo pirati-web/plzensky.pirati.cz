@@ -133,6 +133,7 @@ tail: # zbytek kandidatky
   - name: Milan Štrup
     party: Česká pirátská strana
   - name: Petr Jakubíček
+    uid: petr.jakubicek
     party: Česká pirátská strana
   - name: Michal Huml
     party: Česká pirátská strana
