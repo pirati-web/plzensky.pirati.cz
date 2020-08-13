@@ -100,7 +100,8 @@ tail: # zbytek kandidatky
   - name: František Hagara
     uid: frantisek.hagara
     party: Piráti
-  - name: Zuzana Černá
+  - name: Zuzana Černá Macnerová
+    uid: zuzana.cerna
     party: Česká pirátská strana
   - name: Josef Kubát
     uid: josef.kubat
