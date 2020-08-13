@@ -125,6 +125,7 @@ tail: # zbytek kandidatky
   - name: Pavlína Vacková
     party: Česká pirátská strana
   - name: Vendula Polanová
+    uid: vendula.polanova
     party: Česká pirátská strana
   - name: Roman Sloup
     party: Česká pirátská strana
