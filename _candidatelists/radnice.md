@@ -92,6 +92,7 @@ tail: # zbytek kandidatky
     uid: tomas.hrabeta
     party: Česká pirátská strana
   - name: Michal Hermann
+    uid: michal.hermann
     party: Česká pirátská strana
   - name: Jan Hutter
     uid: jan.hutter
