@@ -136,6 +136,7 @@ tail: # zbytek kandidatky
     uid: petr.jakubicek
     party: Česká pirátská strana
   - name: Michal Huml
+    uid: michal.huml
     party: Česká pirátská strana
   - name: Jakub Frühauf
     party: Česká pirátská strana
