@@ -89,6 +89,7 @@ tail: # zbytek kandidatky
     uid: miroslav.vanacek
     party: Česká pirátská strana
   - name: Tomáš Hraběta
+    uid: tomas.hrabeta
     party: Česká pirátská strana
   - name: Michal Hermann
     party: Česká pirátská strana
