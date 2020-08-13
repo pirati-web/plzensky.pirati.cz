@@ -86,6 +86,7 @@ tail: # zbytek kandidatky
     uid: josef.janoch
     party: Česká pirátská strana
   - name: Miroslav Vaňáček
+    uid: miroslav.vanacek
     party: Česká pirátská strana
   - name: Tomáš Hraběta
     party: Česká pirátská strana
