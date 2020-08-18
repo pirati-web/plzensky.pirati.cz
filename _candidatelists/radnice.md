@@ -78,9 +78,9 @@ tail: # zbytek kandidatky
   - name: Aleš Jakl 
     uid: ales.jakl
     party: Česká pirátská strana
-  - name: Petr Planeta
+  - name: Petr Planeta <a href="<a href="https://lide.pirati.cz/personProfile/166/">Profil</a>
     party: Česká pirátská strana
-  - name: Vladimír Vápeník 
+  - name: Vladimír Vápeník <a href="https://lide.pirati.cz/personProfile/1220/">Profil</a>
     party: Česká pirátská strana
   - name: Josef Janoch 
     uid: josef.janoch
@@ -106,17 +106,17 @@ tail: # zbytek kandidatky
   - name: Josef Kubát
     uid: josef.kubat
     party: Česká pirátská strana
-  - name: Pavel Kašík
+  - name: Pavel Kašík <a href="https://lide.pirati.cz/personProfile/1176/">Profil</a>
     party: Česká pirátská strana
-  - name: Václav Bouček
+  - name: Václav Bouček <a href="https://lide.pirati.cz/personProfile/1202/">Profil</a>
     party: Česká pirátská strana
-  - name: Vladimíra Janovcová
+  - name: Vladimíra Janovcová <a href="https://lide.pirati.cz/personProfile/1209/">Profil</a>
     party: Česká pirátská strana
-  - name: Monika Soukupová
+  - name: Monika Soukupová <a href="https://lide.pirati.cz/personProfile/1174/">Profil</a>
     party: Česká pirátská strana
-  - name: Martin Ouda
+  - name: Martin Ouda <a href="https://lide.pirati.cz/personProfile/1175/">Profil</a>
     party: Česká pirátská strana
-  - name: Helena Krutinová
+  - name: Helena Krutinová 
     party: Česká pirátská strana
   - name: Jurij Černopaščenko
     party: Česká pirátská strana
