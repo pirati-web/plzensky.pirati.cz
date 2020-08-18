@@ -70,7 +70,7 @@ tail: # zbytek kandidatky
   - name: Petr Vileta
     uid: petr.vileta
     party: Česká pirátská strana
-  - name: Jindřiška Šrámková, prpfil: https://lide.pirati.cz/personProfile/1186/
+  - name: Jindřiška Šrámková https://lide.pirati.cz/personProfile/1186/
     party: Česká pirátská strana
   - name: Stanislav Haviar
     uid: stanislav.haviar
