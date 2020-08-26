@@ -36,7 +36,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
   - uid: jiri.hanousek
     age: 46
     profession:  Stavebnictví
-    description: Kuktura, věci veřejné
+    description: Kultura, věci veřejné
     party: Česká pirátská strana
   - uid: milan.chaloupka
     age: 36
