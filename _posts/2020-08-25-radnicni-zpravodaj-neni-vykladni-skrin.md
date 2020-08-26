@@ -20,3 +20,5 @@ Co má tedy dělat zastupitel, kterému vydavatel radničního tisku odmítne vy
 3. Žádost o zveřejnění doplňující informace musí zastupitel podat písemně včetně návrhu textu s doplňujícími informacemi nejpozději do tří měsíců ode dne, kdy vydavateli periodika vypršela lhůta pro zveřejnění článku. Vydavatel tedy má tři měsíce nebo více, když periodikum vychází méně často, na zveřejnění textu.
 
 4. Vyřešit to může i soud. Jestliže vydavatel neuveřejní doplňující informaci v zákonné lhůtě podle § 13 tiskového zákona, má zastupitel 15denní lhůtu na to, aby svůj nárok na zveřejnění doplňující informace uplatnil u soudu.
+
+![](/assets/img/posts/milan_chaloupka_2020.jpg)
