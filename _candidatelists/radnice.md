@@ -144,7 +144,7 @@ tail: # zbytek kandidatky
   - name: Libor Schöpfer
     uid: libor.schropfer
     party: Bez politické příslušnosti
-  - name: Jiří Čapek <a href="https://lide.pirati.cz/personProfile/1198/>Profil</a>
+  - name: Jiří Čapek <a href="https://lide.pirati.cz/personProfile/1198/">Profil</a>
     party: Bez politické příslušnosti 
   - name: Roland Martin
     uid: roland.martin
