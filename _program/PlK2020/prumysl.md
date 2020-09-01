@@ -5,7 +5,7 @@ uid: prumysl
 order: 6
 title: Průmysl, obchod, zaměstnanost
 #garant: pavel.hais
-perex:Průmysl, obchod a zaměstnanost jsou důležité
+perex: Průmysl, obchod a zaměstnanost jsou důležité
 ---
 
 **Víc přínosných projektů**
