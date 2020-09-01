@@ -5,7 +5,7 @@ uid: zivotniprostredi
 order: 4
 title: Životní prostředí
 garant: filip.sequens
-perex: Životní prostředí je důležité
+perex: Šance změnit životní prostředí
 ---
 
 **Odpovědnost k planetě**
