@@ -5,7 +5,7 @@ uid: socialni
 order: 5
 title: Sociální oblast
 garant: rudolf.spotak
-perex: Sociální oblat je důležitá
+perex: Šance změnit sociální oblast 
 ---
 
 **Sociální služby**
