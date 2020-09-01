@@ -2,7 +2,7 @@
 campaignCategoryUid: PlK2020
 campaignGroupUid: volby2020
 uid: bezpecnost
-order: 9
+order: 10
 title: Bezpečnost
 #garant: pavel.hais
 perex: Šance změnit bezpečnost
