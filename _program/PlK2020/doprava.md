@@ -2,7 +2,7 @@
 campaignCategoryUid: PlK2020
 campaignGroupUid: volby2020
 uid: doprava
-order: 12
+order: 2
 title: Doprava a infrastruktura
 garant: martin.ptacek
 perex: Doprava je důležitá
