@@ -5,7 +5,7 @@ uid: zdravotnictvi
 order: 1
 title: Zdravotnictví
 garant: pavel.hais
-perex: Zdravotnictví je důležité
+perex: Šance změnit zdravotnictví
 ---
 
 **Dostupná péče**
