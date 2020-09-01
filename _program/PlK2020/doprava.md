@@ -5,7 +5,7 @@ uid: doprava
 order: 2
 title: Doprava a infrastruktura
 garant: martin.ptacek
-perex: Doprava je důležitá
+perex: Šance změnit dopravu 
 ---
 
 **Dopravní obslužnost**
