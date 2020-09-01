@@ -1,5 +1,5 @@
 ---
-campaignCategoryUid: kraj2020
+campaignCategoryUid: PlK2020
 campaignGroupUid: volby2020
 uid: doprava
 order: 12
