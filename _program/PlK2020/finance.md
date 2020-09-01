@@ -2,7 +2,7 @@
 campaignCategoryUid: PlK2020
 campaignGroupUid: volby2020
 uid: finance
-order: 8
+order: 9
 title: Finance a investice
 #garant: pavel.hais
 perex: Šance změnit finance a investice
