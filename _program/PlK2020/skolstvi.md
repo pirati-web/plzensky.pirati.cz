@@ -5,7 +5,7 @@ uid: skolstvi
 order: 3
 title: Školství
 garant: magda.dankova
-perex: Školství je důležité
+perex: Šance změnit školství
 ---
 
 **Podpoříme výuku cizích jazyků**
