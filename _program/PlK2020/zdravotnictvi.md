@@ -3,7 +3,7 @@ campaignCategoryUid: PlK2020
 campaignGroupUid: volby2020
 uid: zdravotnictvi
 order: 1
-title: Doprava a infrastruktura
+title: Zdravotnictví
 garant: pavel.hais
 perex: Zdravotnictví je důležité
 ---
