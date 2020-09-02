@@ -1,16 +1,13 @@
 top:
   - link: "pirati.cz"
     url:  "https://www.pirati.cz"
-    icon: "fa fa-home"
-  - link: "wiki.pirati.cz"
-    url:  "https://wiki.pirati.cz"
-    icon: "fa fa-home"
+    icon: "ico--home"
+  - link: "piratskyobchod.cz"
+    url:  "https://piratskyobchod.cz"
+    icon: "ico--cart"
   - link: "Pirátské listy"
     url:  "http://www.piratskelisty.cz"
-    icon: "fa fa-newspaper-o"
-  - link: "3D tisk"
-    url:  "https://plzensky.pirati.cz/3Dtisk/"
-    icon: "fa fa-home"
+    icon: "ico--newspaper"
     
 main:
   - link: /aktuality/
