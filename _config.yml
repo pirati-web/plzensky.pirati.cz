@@ -125,6 +125,7 @@ defaults:   # defaults values for collection scope
     scope:
       path: "_people"
     values:
+      heroImg: https://a.pirati.cz/crop/1200x675/plzensky/img/posts/domazlice_zalozeni.jpg
       layout: "person"
       rbar:
         - profile
