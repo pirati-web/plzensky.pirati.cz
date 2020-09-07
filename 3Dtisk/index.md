@@ -17,6 +17,7 @@ keywords: 3D tisk
    <h1><a href="https://drive.google.com/drive/folders/1ZVz6FEQ7ZCo0UjMhws9fp3wZsGrDvTZt">Zdrojové kódy</a></h6>
    
    <h6>Tiskové zprávy:</h6> 
+   
    <a href="https://plzensky.pirati.cz/aktuality/pirati-tisknou-ochranne-stity.html">Piráti tisknou ochranné štíty pro zdravotnická zařízení</a>
    
    <a href="https://plzensky.pirati.cz/aktuality/prvni-varka-stitu-miri-do-Ctyrlistku.html">První várka štítů míří do Čtyřlístku</a>
