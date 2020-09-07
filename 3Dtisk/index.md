@@ -15,7 +15,9 @@ keywords: 3D tisk
 
 <dd>Po snížení poptávky ochraných pomůcek jsme se rozhodli, že začneme tisknout různé předměty s logem Pirátů. Pokud byste sami chtěli tyto předměty tisknout na Vaší 3D tiskárně, tak můžte kliknout na následující odkaz, na kterém naleznete zdrojové kódy.</dd>
         
+        
    <h6><a href="https://drive.google.com/drive/folders/1ZVz6FEQ7ZCo0UjMhws9fp3wZsGrDvTZt">Zdrojové kódy - STL a OBJ k tisku</a></h6>
+   
    
    <h6>Tiskové zprávy:</h6> 
    
