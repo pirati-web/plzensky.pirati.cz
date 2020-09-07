@@ -11,10 +11,11 @@ keywords: 3D tisk
       <h1>3D tisk u Pirátů v Plzeňském kraji</h1>
     </header>
       <div>
-      <h5>Piráti během Covid-krize zprovoznili v plzeňském Pirátském centru 3D tisk a vyráběli ochranné štíty pro zdravotnická zařízení. Zapojili jsme se tak do výroby ochranných pomůcek pro zdravotnická zařízení.  Články ohledně výroby ochraných pomůcek můžete nalézt v níže přiložených odkazech. 
-      Po snížení poptávky ochraných pomůcek jsme se rozhodli, že začneme tisknout různé předměty s logem Pirátů. Pokud byste sami chtěli tyto předměty tisknout na Vaší 3D tiskárně, tak můžte kliknout na následující odkaz, na kterém naleznete zdrojové kódy.</h5>
+Piráti během Covid-krize zprovoznili v plzeňském Pirátském centru 3D tisk a vyráběli ochranné štíty pro zdravotnická zařízení. Zapojili jsme se tak do výroby ochranných pomůcek pro zdravotnická zařízení.  Články ohledně výroby ochraných pomůcek můžete nalézt v níže přiložených odkazech.
+
+Po snížení poptávky ochraných pomůcek jsme se rozhodli, že začneme tisknout různé předměty s logem Pirátů. Pokud byste sami chtěli tyto předměty tisknout na Vaší 3D tiskárně, tak můžte kliknout na následující odkaz, na kterém naleznete zdrojové kódy.
         
-   <h1><a href="https://drive.google.com/drive/folders/1ZVz6FEQ7ZCo0UjMhws9fp3wZsGrDvTZt">Zdrojové kódy</a></h6>
+   <h6><a href="https://drive.google.com/drive/folders/1ZVz6FEQ7ZCo0UjMhws9fp3wZsGrDvTZt">Zdrojové kódy</a></h6>
    
    <h6>Tiskové zprávy:</h6> 
    
@@ -25,4 +26,5 @@ keywords: 3D tisk
    <a href="https://plzensky.pirati.cz/aktuality/piratska-manufaktura-v-cislech.html">Pirátská manufaktura v číslech aneb ohlédnutí za tiskem štítů</a>
    
    <a href="https://plzensky.pirati.cz/aktuality/jak-pirati-pomohli-prodat-nevestu.html">Jak Piráti pomohli prodat nevěstu</a>
+   
    </div>
