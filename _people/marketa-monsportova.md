@@ -8,6 +8,7 @@ category:
 
 description: kandidát do Senátu za Plzeňský kraj
 img: people/marketa-monsportova.png
+heroImg: banner-default.jpg
 mobile: 774224093
 mail:	marketa.monsportova@svihak.net
 profiles:

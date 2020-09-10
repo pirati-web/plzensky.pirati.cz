@@ -4,6 +4,7 @@ name:    Petr Jakubíček  	# běžně používáné jméno
 category:
 - clenove
 #img: people/petr_jakubicek.jpg # zakomentuj radek dokud není fotka
+heroImg: banner-default.jpg
 ordclenove: 2
 mail:
 - petr.jakubicek@pirati.cz

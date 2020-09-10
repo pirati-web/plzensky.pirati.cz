@@ -8,7 +8,7 @@ category:
 - kontaktni_osoba
 description: krajský koordinátor
 img: people/miroslav_masek.jpg
-img: people/miroslav_masek.jpg
+heroImg: banner-default.jpg
 mail:
 - miroslav.masek@pirati.cz
 

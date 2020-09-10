@@ -8,6 +8,7 @@ category:
 - zastupitele_chodovaplana
 description: zastupitelka města Chodová Planá
 # img: people/josef_janoch.jpg # zakomentuj radek dokud není fotka
+heroImg: banner-default.jpg
 ordclenove: 2
 mail:
 profiles:

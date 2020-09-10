@@ -7,6 +7,7 @@ titles:
 category: 
 description: Kandidát do krajského zastupitelstva
 img: people/chaloupka.jpeg
+heroImg: banner-default.jpg
 ordclenove: 2
 mail:
 - milan.chaloupka@pirati.cz

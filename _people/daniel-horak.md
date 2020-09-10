@@ -6,7 +6,7 @@ titles:
   after:
 category:
 img: people/daniel-horak.png
-
+heroImg: banner-default.jpg
 mail:
 
 ---

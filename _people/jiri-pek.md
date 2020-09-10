@@ -9,6 +9,7 @@ category:
 - kandidat_kraj
 description: zastupitel města Vejprnice
 img: people/jiri_pek.png # zakomentuj radek dokud není fotka
+heroImg: banner-default.jpg
 ordclenove: 2
 mail:
 - jiri.pek@pirati.cz

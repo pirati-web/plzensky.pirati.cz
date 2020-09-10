@@ -12,6 +12,7 @@ ordpms: 1
 ordclenove: 3
 description: člen krajského sdružení Plzeňský kraj
 img: people/kubat.jpg # zakomentuj radek dokud není fotka
+heroImg: banner-default.jpg
 mail:
   - josef.kubat@pirati.cz
 profiles:

@@ -8,6 +8,7 @@ category:
 - zastupitele_domazlice
 description: zastupitel města Domažlice
 img: people/rudolf_spotak.jpg # zakomentuj radek dokud není fotka
+heroImg: banner-default.jpg
 ordclenove: 2
 mail:
 - rudolf.spotak@pirati.cz

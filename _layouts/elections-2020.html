@@ -127,6 +127,10 @@ layout: default
                   {% capture img_alt %}{% include people/fullname.html person=candidatePage plain=true %}{% endcapture %}
 
                   <{% if candidatePage %}a href="{{ candidatePage.url }}"{% else %}div{% endif %} class="candidate-table-row">
+                  a
+                  </{% if candidatePage %}a{% else %}div{% endif %}>
+
+                  <{% if candidatePage %}a href="{{ candidatePage.url }}"{% else %}div{% endif %} class="candidate-table-row">
                     <div class="candidate-table-row__position head-allcaps-heavy-2xs text-right">{{ candidateRank }}</div>
                     {% include avatar.html class="avatar--sm candidate-table-row__avatar" src=img alt=candidate.name %}
                     <div class="candidate-table-row__name head-heavy-2xs font-bold">{% if candidatePage %}{% include people/fullname.html person=candidatePage plain=true %}{% else %}{{ candidate.name }}{% endif %}</div>
