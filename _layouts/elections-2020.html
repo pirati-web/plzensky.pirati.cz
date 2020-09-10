@@ -30,7 +30,8 @@ layout: default
         {% if programCategories.size > 0 %}
           <div class="text-center">
             <div class="switch">
-              <a @click="showView('kandidati')" class="switch__item" :class="{'switch__item--active': isCurrentView('kandidati')}">Kandidáti</a>
+              <a @click="showView('kandidati')" class="switch__item" :class="{'switch__item--active': isCurrentView('kandidati')}">Krajská kandidátka</a>
+              <a @click="showView('senat')" class="switch__item" :class="{'switch__item--active': isCurrentView('senat')}">Senátní kandidátka</a>
               <a @click="showView('program')" class="switch__item" :class="{'switch__item--active': isCurrentView('program')}">Program</a>
             </div>
           </div>
@@ -156,6 +157,22 @@ layout: default
 
           </ui-view-provider>
         </template>
+
+        <template v-if="isCurrentView('senat')">
+          <h1 class="head-alt-md text-center py-8 lg:pt-24 lg:pb-8">Kandidáti do senátu za Středočeský kraj</h1>
+
+          
+
+          <div class="candidate-card-list grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
+            {% assign candidatePage = site.people | where: "uid", "daniel.kus" | first %}
+            {% include candidate-badge.html candidate=candidate candidatePage=candidatePage leader=false rank=1 wrapperClass="candidate-card__wrapper sm:candidate-card-list__item-wrapper md:candidate-card-list__item-wrapper--border" hideSocialProfiles=page.hideCandidateSocialProfiles %}
+            {% assign candidatePage = site.people | where: "uid", "simona.luftova" | first %}
+            {% include candidate-badge.html candidate=candidate candidatePage=candidatePage leader=false rank=2 wrapperClass="candidate-card__wrapper sm:candidate-card-list__item-wrapper md:candidate-card-list__item-wrapper--border" hideSocialProfiles=page.hideCandidateSocialProfiles %}
+
+
+          </div>
+
+        </template>        
 
         {% if group.subLinks %}
           <div class="flex flex-col pt-8 lg:pt-24 lg:flex-row lg:space-x-8">
