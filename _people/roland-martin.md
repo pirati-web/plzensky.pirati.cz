@@ -3,7 +3,7 @@ uid: roland.martin
 name:     Roland Martin  	# běžně používáné jméno
 category:
 - clenove
-img: people/roland-martin.jpeg # zakomentuj radek dokud není fotka
+#img: people/roland-martin.jpeg # zakomentuj radek dokud není fotka
 ordclenove: 2
 mail:
 - roland.martin@pirati.cz

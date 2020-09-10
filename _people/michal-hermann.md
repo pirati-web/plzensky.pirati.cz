@@ -3,7 +3,7 @@ uid: michal.hermann
 name:     Michal Hermann  	# běžně používáné jméno
 category:
 - clenove
-img: people/michal_hermann.jpg # zakomentuj radek dokud není fotka
+#img: people/michal_hermann.jpg # zakomentuj radek dokud není fotka
 ordclenove: 2
 mail:
 - michal.hermann@pirati.cz

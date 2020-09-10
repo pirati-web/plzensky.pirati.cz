@@ -5,7 +5,7 @@ titles:
   before: 
   after:
 category:
-img: people/miroslav-cerny.jpg 
+#img: people/miroslav-cerny.jpg 
 
 mail:
 

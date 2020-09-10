@@ -10,7 +10,7 @@ top:
     icon: "ico--newspaper"
   - link: "3D tisk"
     url:  "https://plzensky.pirati.cz/3Dtisk/"
-    icon: "fa fa-home"
+    icon: "ico--home"
         
 main:
   - link: /aktuality/

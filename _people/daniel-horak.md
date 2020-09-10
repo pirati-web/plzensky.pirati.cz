@@ -5,7 +5,7 @@ titles:
   before: 
   after:
 category:
-img: people/daniel-horak.jpg 
+#img: people/daniel-horak.jpg 
 
 mail:
 
