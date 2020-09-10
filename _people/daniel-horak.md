@@ -2,12 +2,12 @@
 uid: daniel.horak
 name: Daniel Horák
 titles:
-  before: 
+  before: Ing.
   after:
 category:
-#img: people/daniel-horak.jpg 
+img: people/daniel-horak.png
 
 mail:
 
 ---
-
+Narozen na severu Čech. Nyní žijicí na Plzeňsku a pracující jako softwarový inženýr v plzeňské IT firmě.
