@@ -126,18 +126,11 @@ layout: default
 
                   {% capture img_alt %}{% include people/fullname.html person=candidatePage plain=true %}{% endcapture %}
 
-
-
-
-
-                  <{% if candidatePage %}a href="{{ candidatePage.url }}"{% else %}div{% endif %} class="candidate-table-row">
+                  <{% if candidatePage %}a href="{{ candidatePage.url }}"{% else if candidate.url %}a href="{{ candidate.url }}"{% else %}div{% endif %} class="candidate-table-row">
                     <div class="candidate-table-row__position head-allcaps-heavy-2xs text-right">{{ candidateRank }}</div>
                     {% include avatar.html class="avatar--sm candidate-table-row__avatar" src=img alt=candidate.name %}
                     <div class="candidate-table-row__name head-heavy-2xs font-bold">{% if candidatePage %}{% include people/fullname.html person=candidatePage plain=true %}{% else %}{{ candidate.name }}{% endif %}</div>
-                    <div class="candidate-table-row__bio font-condensed">
-                    {% if candidate.url %} <a href="{{ candidate.url }}">Profil</a> {% endif %}
-                    {% if candidate.age %}{{ candidate.age }} let{% endif %}{% if candidate.profession %}{% if candidate.age %}, {% endif %}{{ candidate.profession }}{% endif %}{% if candidate.city %}{% if candidate.profession or candidate.age %}, {% endif %}{{ candidate.city }}{% endif %}
-                  </div>
+                    <div class="candidate-table-row__bio font-condensed">{% if candidate.age %}{{ candidate.age }} let{% endif %}{% if candidate.profession %}{% if candidate.age %}, {% endif %}{{ candidate.profession }}{% endif %}{% if candidate.city %}{% if candidate.profession or candidate.age %}, {% endif %}{{ candidate.city }}{% endif %}</div>
                     {% if candidate.partyUid %}
                       <div class="candidate-table-row__affiliation">
                         {% include party.html uid=candidate.partyUid %}
