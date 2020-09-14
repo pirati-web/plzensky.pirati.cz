@@ -3,7 +3,8 @@ uid: zuzana.cerna
 name:     Zuzana Černá Macnerová  	# běžně používáné jméno
 category:
 - clenove
-img: people/zuzana_cerna.jpg # zakomentuj radek dokud není fotka
+#img: people/zuzana_cerna.jpg # zakomentuj radek dokud není fotka
+heroImg: banner-default.jpg
 ordclenove: 2
 mail:
 - zuzana.cerna@pirati.cz

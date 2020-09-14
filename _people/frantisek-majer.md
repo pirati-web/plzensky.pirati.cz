@@ -8,6 +8,7 @@ category:
 - zastupitele_susice
 description: zastupitel města Sušice
 img: people/frantisek_majer.png # zakomentuj radek dokud není fotka
+heroImg: banner-default.jpg
 ordclenove: 2
 mail:
 - frantisek.majer@u-n.cz 

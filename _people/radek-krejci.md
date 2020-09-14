@@ -7,6 +7,7 @@ titles:
 category:                 	    # kategorie: rp, praha, vary, hradec, jmk, senat
 - zastupitele
 img: people/radek-krejci.jpg
+heroImg: banner-default.jpg
 description: zastupitel města Plzně, člen místního sdružení Plzeň # kratký popis, max 160 znaků
 mail:
 - radek.krejci@pirati.cz

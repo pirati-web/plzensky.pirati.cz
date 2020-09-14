@@ -3,7 +3,8 @@ uid: tomas.hrabeta
 name:     Tomáš Hraběta 	# běžně používáné jméno
 category:
 - clenove
-img: people/tomas_hraběta.jpg # zakomentuj radek dokud není fotka
+#img: people/tomas_hraběta.jpg # zakomentuj radek dokud není fotka
+heroImg: banner-default.jpg
 ordclenove: 2
 mail:
 - tomas.hrabeta@pirati.cz

@@ -7,6 +7,7 @@ titles:
 category:						# kategorie: rp, praha, vary, hradec, jmk, senat
 - zastupitele
 img: people/magdalena-dankova.jpg           # 165 x 220
+heroImg: banner-default.jpg
 description: zastupitelka města Plzně a Plzeň 1, členka místního sdružení Plzeň # kratký popis, max 160 znaků
 mail:
 - magda.dankova@pirati.cz

@@ -11,6 +11,7 @@ ordpms: 1
 ordclenove: 3
 description: předseda KS Plzeňského kraje # zobrazuje se v lide
 img: people/barton.jpg # zakomentuj radek dokud není fotka
+heroImg: banner-default.jpg
 asistenti:
   - name: Miroslav Mašek
     position: Asistent v Plzni

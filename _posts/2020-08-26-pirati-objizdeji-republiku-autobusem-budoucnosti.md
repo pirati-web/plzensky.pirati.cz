@@ -5,6 +5,7 @@ tags: Plzenskykraj krajskevolby
 title: Piráti objíždějí republiku autobusem budoucnosti
 author: KS Plzeňský kraj
 image: posts/autobus2020.jpg
+important: true
 ---
 Pirátská předvolební tour s autobusem budoucnosti dorazí poprvé do Plzeňského kraje. Kromě představení programu pro krajské a senátní volby a prezentaci krajských kandidátů veřejnosti nabídne autobus také vhled do delší budoucnosti – ať už **VR brýlemi**, **elektrickou jednokolkou** nebo **holografickým projektorem**.
 

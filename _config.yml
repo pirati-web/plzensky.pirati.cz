@@ -16,6 +16,8 @@ url: "https://plzensky.pirati.cz"
 administrator:
   email: miroslav.masek@pirati.cz, martin.ptacek@pirati.cz, pavel.sramek@pirati.cz # mail(y), kam pujdou chybove vystupy; vice e-mailu oddelujte carkou
 
+mediaStorage: plzensky
+
 organization:
   name: Piráti - Plzeňský kraj
   shortName: Piráti Plzeňsko
@@ -51,7 +53,7 @@ facebook:
   loadSDK: true
   #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
   profilePage: https://www.facebook.com/pirati.plzensky.kraj/
-  profilePageName: Česká pirátská strana - Plzeňský kraj
+  profilePageName: Piráti Plzeňský kraj
   appId: 1526197851008996
 
 twitter:
@@ -112,7 +114,7 @@ collections:
 
   program:
     output: true
-    permalink: /komunalni-volby/program/:path/
+    permalink: /program/:path/
 
   # Sole purpose is to create candidate lists in separate files.
   candidatelists:
@@ -121,18 +123,18 @@ collections:
 defaults:   # defaults values for collection scope
   -
     scope:
+      path: "_people"
+    values:
+      heroImg: https://a.pirati.cz/plzensky/img/posts/domazlice_zalozeni.jpg
+      layout: "person"
+      rbar:
+        - profile
+        - people
+  -
+    scope:
       path: "_posts"
     values:
       layout: "post"
-  -
-    scope:
-      path: "_people"
-    values:
-      layout: "person"
-      rbar:
-        - foto
-        - personContact
-        - people
   -
     scope:
       path: "_program"
@@ -160,9 +162,11 @@ assets:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.5.0/_sass
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-7.7.1/_sass
     - assets/css
     - assets/fonts
     - assets/video
     - assets/img
     - _sass
+
+styleguide_base_url: 'https://styleguide.pir-test.eu/latest/'

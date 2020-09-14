@@ -8,6 +8,7 @@ category:
 - zastupitele_domazlice
 description: zastupitel města Domažlice
 # img: people/viktor_krutina.jpg # zakomentuj radek dokud není fotka
+heroImg: banner-default.jpg
 ordclenove: 2
 mail:
 profiles:

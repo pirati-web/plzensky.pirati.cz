@@ -8,6 +8,7 @@ category:
 - zastupitele_klatovy
 description: zastupitel města Klatovy
 img: people/zavreljiri.jpg # zakomentuj radek dokud není fotka
+heroImg: banner-default.jpg
 ordclenove: 2
 mail:
 - jiri.zavrel@pirati.cz
