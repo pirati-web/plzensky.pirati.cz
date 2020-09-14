@@ -8,7 +8,6 @@ category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - zastupitele
 - kandidat_kraj
 img: people/jiri-hanousek.jpg
-heroImg: banner-default.jpg
 description: zastupitel Plzeň 4, člen místního sdružení Plzeň # kratký popis, max 160 znaků
 ordplzen: 17
 ordplzen4: 3

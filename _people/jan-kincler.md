@@ -8,7 +8,6 @@ category:
 - zastupitele_domazlice
 description: zastupitel města Domažlice
 img: people/jan_kincler.jpg # zakomentuj radek dokud není fotka
-heroImg: banner-default.jpg
 ordclenove: 2
 mail:
 - j.kincler@seznam.cz 

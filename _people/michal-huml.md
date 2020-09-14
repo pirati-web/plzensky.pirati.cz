@@ -3,8 +3,7 @@ uid: michal.huml
 name:     Michal Huml  	# běžně používáné jméno
 category:
 - clenove
-#img: people/michal_huml.jpg # zakomentuj radek dokud není fotka
-heroImg: banner-default.jpg
+img: people/michal_huml.jpg # zakomentuj radek dokud není fotka
 ordclenove: 2
 mail:
 - michal.huml@pirati.cz

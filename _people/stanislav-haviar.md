@@ -8,7 +8,6 @@ category:
 - zastupitele_klatovy
 description: zastupitel města Klatovy
 img: people/haviarstanda.jpg # zakomentuj radek dokud není fotka
-heroImg: banner-default.jpg
 ordclenove: 2
 mail:
 - stanislav.haviar@pirati.cz

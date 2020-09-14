@@ -8,7 +8,6 @@ category:
 - zastupitele_susice
 description: radní města Sušice
 img: people/vaclav_cerny.png # zakomentuj radek dokud není fotka
-heroImg: banner-default.jpg
 ordclenove: 2
 mail:
 - vaclav.cerny@u-n.cz 

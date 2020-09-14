@@ -10,7 +10,6 @@ category:
 - clenove
 description: zastupitel města Plzně a zastupitel Plzeň 3, předseda a člen místního sdružení Plzeň
 img: people/sramek.jpg # zakomentuj radek dokud není fotka
-heroImg: banner-default.jpg
 ordclenove: 2
 mail:
 - pavel.sramek@pirati.cz

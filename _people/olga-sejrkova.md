@@ -7,7 +7,6 @@ category:
 - clenove
 description: členka místního sdružení Plzeň
 img: people/olga.sejrkova.jpg # zakomentuj radek dokud není fotka
-heroImg: banner-default.jpg
 mail:
 - olga.sejrkoval@pirati.cz
 profiles:

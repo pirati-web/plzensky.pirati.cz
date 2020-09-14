@@ -8,7 +8,6 @@ category:
 - zastupitele_holysov
 description: starosta města Holýšov
 img: people/libor_schropfer.jpg # zakomentuj radek dokud není fotka
-heroImg: banner-default.jpg
 ordclenove: 2
 mail:
 - starosta@mestoholysov.cz

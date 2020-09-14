@@ -1,4 +1,4 @@
-# example.pirati.cz
+# plzensky.pirati.cz
 
 [![Build Status](https://api.travis-ci.org/pirati-web/praha.pirati.cz.svg?branch=gh-pages)](https://travis-ci.org/pirati-web/praha.pirati.cz)
 

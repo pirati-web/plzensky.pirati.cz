@@ -10,7 +10,6 @@ category:
 description: radní města Sušice
 ordKraj: 1
 img: people/pavel_hais.png # zakomentuj radek dokud není fotka
-heroImg: banner-default.jpg
 mail:
 - pavel.hais@pirati.cz
 profiles:
