@@ -11,32 +11,6 @@ keywords: 3D tisk
     <div class="o-section">
       <div class="o-section-inner">
           <header class="c-page-header">
-            <h1 itemprop="headline" class="c-page-title">Zde budou soubory ke stažení pro 3D tisk</h1>
+            <h1 itemprop="headline" class="c-page-title">Zde si můžete stáhnout soubory k zadání tisku na 3D tiskárně: https://drive.google.com/drive/folders/1ZVz6FEQ7ZCo0UjMhws9fp3wZsGrDvTZt?usp=sharing </h1>
             <div class="large-6 column">
-  <div class="media-object">
-      <div class="media-object-section">
-        <div class="thumbnail">
-          <img style="height: 65px;" src= "{{ '/assets/img/kosik.jpg' }}" alt="Mince do košíku">
-        </div>
-      </div>
-      <div class="media-object-section main-section">
-        <h6><a href="{{ '/lide/miroslav-masek/'}}">Odkaz</a></h6>
-        <p>výrobek je z 3D tiskárny</p>
-      </div>
-    </div>
-    <div class="media-object">
-      <div class="media-object-section">
-        <div class="thumbnail" >
-          <img style="height: 65px;" src= "{{ '/assets/img/pistalka.jpg' }}" alt="Píšťalka">
-        </div>
-       </div>
-      <div class="media-object-section main-section">
-        <h6><a href="{{ '/lide/lukas-barton/'  }}">Odkaz</a></h6>
-        <p>výrobek je z 3D tiskárny</p>
-             {% assign posts = site.posts | where_exp: "item", "item.tags contains 'susice'"%}
-          {% include articles/list-responsive.html posts=posts %}
-      </div>
-    </div>
-  </div>
-</div>
 
