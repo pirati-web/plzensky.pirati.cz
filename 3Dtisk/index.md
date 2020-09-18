@@ -4,12 +4,13 @@ title: 3D tisk
 description: Vše o 3D tisku
 keywords: 3D tisk
 ---
-<div class="row">
-  <div class="large-12 column">
-    <header class="c-page-header">
-      <h1>3D tisk u Pirátů v Plzeňském kraji</h1>
-    </header>
-<div>
+
+<div class="container container--default pt-8 lg:py-24">
+ <section>
+<h1 class="head-alt-md md:head-alt-lg max-w-5xl mb-8">3D tisk u Pirátů v Plzeňském kraji</h1>
+  <main>
+   <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+
 <dd>Piráti během Covid-krize zprovoznili v plzeňském Pirátském centru 3D tisk a vyráběli ochranné štíty pro zdravotnická zařízení. Zapojili jsme se tak do výroby ochranných pomůcek pro zdravotnická zařízení.  Články ohledně výroby ochraných pomůcek můžete nalézt v níže přiložených odkazech.</dd>
 
 <dd>Po snížení poptávky ochraných pomůcek jsme se rozhodli, že začneme tisknout různé předměty s logem Pirátů. Pokud byste sami chtěli tyto předměty tisknout na Vaší 3D tiskárně, tak můžte kliknout na následující odkaz, na kterém naleznete zdrojové kódy.</dd>
@@ -27,4 +28,6 @@ keywords: 3D tisk
   <dd> <a href="https://plzensky.pirati.cz/aktuality/piratska-manufaktura-v-cislech.html">Pirátská manufaktura v číslech aneb ohlédnutí za tiskem štítů</a></dd>
    
  <dd>  <a href="https://plzensky.pirati.cz/aktuality/jak-pirati-pomohli-prodat-nevestu.html">Jak Piráti pomohli prodat nevěstu</a></dd>
+ </div>
+ </seciton>
  </div>
