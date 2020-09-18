@@ -3,6 +3,7 @@ layout: default
 title: 3D tisk
 description: Vše o 3D tisku
 keywords: 3D tisk
+important: true
 ---
 <div class="row">
   <div class="large-12 column">
