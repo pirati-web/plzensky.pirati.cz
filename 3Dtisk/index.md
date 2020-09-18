@@ -4,13 +4,28 @@ title: 3D tisk
 description: Vše o 3D tisku
 keywords: 3D tisk
 ---
-
-
 <div class="row">
-  <div class="columns">
-    <div class="o-section">
-      <div class="o-section-inner">
-          <header class="c-page-header">
-            <h1 itemprop="headline" class="c-page-title">Zde si můžete stáhnout soubory k zadání tisku na 3D tiskárně: https://drive.google.com/drive/folders/1ZVz6FEQ7ZCo0UjMhws9fp3wZsGrDvTZt?usp=sharing </h1>
-            <div class="large-6 column">
+  <div class="large-12 column">
+    <header class="c-page-header">
+      <h1>3D tisk u Pirátů v Plzeňském kraji</h1>
+    </header>
+      <div>
+<dd>Piráti během Covid-krize zprovoznili v plzeňském Pirátském centru 3D tisk a vyráběli ochranné štíty pro zdravotnická zařízení. Zapojili jsme se tak do výroby ochranných pomůcek pro zdravotnická zařízení.  Články ohledně výroby ochraných pomůcek můžete nalézt v níže přiložených odkazech.</dd>
 
+<dd>Po snížení poptávky ochraných pomůcek jsme se rozhodli, že začneme tisknout různé předměty s logem Pirátů. Pokud byste sami chtěli tyto předměty tisknout na Vaší 3D tiskárně, tak můžte kliknout na následující odkaz, na kterém naleznete zdrojové kódy.</dd>
+
+
+   <h6><a href="https://drive.google.com/drive/folders/1ZVz6FEQ7ZCo0UjMhws9fp3wZsGrDvTZt">Zdrojové kódy - STL a OBJ k tisku</a></h6>
+
+
+   <h6>Tiskové zprávy:</h6> 
+
+   <dd><a href="https://plzensky.pirati.cz/aktuality/pirati-tisknou-ochranne-stity.html">Piráti tisknou ochranné štíty pro zdravotnická zařízení</a></dd>
+   
+  <dd> <a href="https://plzensky.pirati.cz/aktuality/prvni-varka-stitu-miri-do-Ctyrlistku.html">První várka štítů míří do Čtyřlístku</a></dd>
+   
+  <dd> <a href="https://plzensky.pirati.cz/aktuality/piratska-manufaktura-v-cislech.html">Pirátská manufaktura v číslech aneb ohlédnutí za tiskem štítů</a></dd>
+   
+ <dd>  <a href="https://plzensky.pirati.cz/aktuality/jak-pirati-pomohli-prodat-nevestu.html">Jak Piráti pomohli prodat nevěstu</a></dd>
+   
+   </div>
