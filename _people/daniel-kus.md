@@ -25,3 +25,5 @@ Vystudoval gymnázium V Plzni a Právnickou fakultu ZČU v Plzni obor Právo a p
 Založil několik firem v oblasti internetu. V současnosti působí jako jednatel a majitel společnosti zabývající se mezinárodním obchodem a internetovým maloobchodem.Na této pozici získal zkušenosti nejen v oblasti online marketingu, ale i personální, schopnost vést tým a jednání s lidmi.
 
 Zajímá se o politiku na všech úrovních. K jeho zájmům dále patří treky v přírodě, psi, rybaření a umění. 
+
+Více inforamcí naleznete na <a href="https://www.danielkus.cz/">https://www.danielkus.cz/</a>
