@@ -26,4 +26,4 @@ Založil několik firem v oblasti internetu. V současnosti působí jako jednat
 
 Zajímá se o politiku na všech úrovních. K jeho zájmům dále patří treky v přírodě, psi, rybaření a umění. 
 
-Více inforamcí naleznete na <a href="https://www.danielkus.cz/">https://www.danielkus.cz/</a>
+Více inforamcí naleznete na <a href="https://www.danielkus.cz/">www.danielkus.cz/</a>
