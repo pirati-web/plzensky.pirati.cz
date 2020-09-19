@@ -11,8 +11,8 @@ description: zastupitel města Plzně a zastupitel Plzeň 3, 1. místopředseda 
 img: people/daniel_kus_new.jpg
 heroImg: banner-default.jpg
 ordclenove: 2
-email: 
-- daniel.kus@pirati.cz
+mail:	daniel.kus@pirati.cz
+profession: https://www.danielkus.cz/
 profiles:
   facebook: https://www.facebook.com/PiratDanielKus  # pokud nema, staci smazat tuto radku
   web: https://www.danielkus.cz/
