@@ -5,7 +5,7 @@ uid: radnice
 leader:
   uid: rudolf.spotak
   age: 36
-  profession: personalista
+  profession: Personalista
   partyUid: pirati
   description: "absolvoval Gymnážium J.Š.Baara. V současné době jsem zastupitelem města Domažlice věnuje se lidským zdrojům"
 
@@ -27,7 +27,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     partyUid: pirati
   - uid: filip.sequens
     age: 37
-    profession:  Učitel
+    profession:  Učitel, Trenér
     description: Příroda a sport
     partyUid: pirati
   - uid: jiri.hanousek
