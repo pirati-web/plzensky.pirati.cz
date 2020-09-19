@@ -20,3 +20,5 @@ Po ukončení studia jsem si prošla různými hotelovými profesemi a v roce 19
 Stála jsem u zrodu Mariánskolázeňské asociace cestovního ruchu a v roce 2013 jsem byla jedním ze zakládajících členů neziskové organizace Švihák. Aktivně se snažíme o znovuoživení Mariánských Lázní, zkvalitnění veřejného prostoru a rozvoj kultury.
 Šestým rokem jsem předsedkyní představenstva Šviháka a máme za sebou mnoho úspěšných projektů. Před 4 lety se nám podařilo se spolkem Marienbad Film obnovit tradici filmového festivalu v Mariánských Lázních.
 V roce 2016 jsem kandidovala za Piráty v krajských volbách, od roku 2018 jsem zastupitelkou Karlovarského kraje. Jsem členkou krajské komise pro kulturu a památkovou péči. V roce 2018 jsem se stala členkou Pirátské strany a kandidovala do PS.
+
+Více inforamcí naleznete na <a href="https://monsportova.cz/"monsportova.cz//</a>
