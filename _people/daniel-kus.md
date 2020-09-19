@@ -13,10 +13,10 @@ heroImg: banner-default.jpg
 ordclenove: 2
 mail:
 - daniel.kus@pirati.cz
-mob: 
+web: https://www.danielkus.cz/
 profiles:
   github:                 #váš účet na githubu - pokud nemáte, napište před to #
-  facebook: 		  #váš alias na facebooku - pokud nemáte, napište před to #
+  facebook: https://www.facebook.com/PiratDanielKus		  #váš alias na facebooku - pokud nemáte, napište před to #
   
 --- 
 
