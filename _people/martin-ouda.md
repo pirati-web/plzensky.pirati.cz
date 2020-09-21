@@ -1,6 +1,9 @@
 ---
 uid: martin.ouda
 name: Martin Ouda
+titles:
+  before: Ing.
+  after: 
 img: people/martin.ouda.jpg
 heroImg: banner-default.jpg
 ---
