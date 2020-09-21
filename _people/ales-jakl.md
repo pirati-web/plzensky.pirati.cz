@@ -2,7 +2,7 @@
 uid: ales.jakl
 name:     Aleš Jakl  	# běžně používáné jméno
 titles:
-  before: 
+  before: Ing.
   after:
 category:
 - predsedove
