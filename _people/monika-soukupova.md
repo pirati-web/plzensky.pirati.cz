@@ -1,6 +1,9 @@
 ---
 uid: monika.soukupova
 name: Monika Soukupová
+titles:
+  before: Mgr.
+  after: 
 img: people/monika-soukupova.jpg
 heroImg: banner-default.jpg
 ---
