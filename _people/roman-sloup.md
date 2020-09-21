@@ -1,6 +1,6 @@
 ---
 uid: roman.sloup
-name: Roman Slou
+name: Roman Sloup
 img: people/roman.sloup.jpg
 heroImg: banner-default.jpg
 ---
