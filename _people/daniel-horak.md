@@ -5,7 +5,7 @@ titles:
   before: Ing.
   after:
 category:
-img: people/daniel-horak.png
+img: people/daniel.horak.png
 heroImg: banner-default.jpg
 mail:
 
