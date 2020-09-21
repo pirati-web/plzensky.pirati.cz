@@ -1,6 +1,9 @@
 ---
 uid: vladimira.janovcova
 name: Vladimíra Janovcová
+titles:
+  before: Mgr. Bc.
+  after: 
 img: people/vladimira.janovcova.jpeg
 heroImg: banner-default.jpg
 ---
