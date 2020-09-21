@@ -3,7 +3,7 @@ uid: vendula.polanova
 name:    Vendula Polanova  	# běžně používáné jméno
 category:
 - clenove
-#img: people/vendula_polanova.jpg # zakomentuj radek dokud není fotka
+img: people/vendula.polanova.jpg # zakomentuj radek dokud není fotka
 heroImg: banner-default.jpg
 ordclenove: 2
 mail:
