@@ -1,6 +1,9 @@
 ---
 uid: vaclav.boucek
 name: Václav Bouček
+titles:
+  before: Ing.
+  after: 
 img: people/vaclav.boucek.jpg
 heroImg: banner-default.jpg
 ---
