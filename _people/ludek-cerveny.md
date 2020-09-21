@@ -1,6 +1,9 @@
 ---
 uid: ludek.cerveny
 name:     Luděk Červený
+titles:
+  before: Bc.
+  after: 
 img: people/ludek-cerveny.jpg
 heroImg: banner-default.jpg
 ---
