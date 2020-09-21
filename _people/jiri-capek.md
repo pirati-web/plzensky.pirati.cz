@@ -1,6 +1,9 @@
 ---
 uid: jiri.capek
 name: Jiří Čapek
+titles:
+  before: doc. Ing.
+  after: Ph.D.
 img: people/jiri.capek.jpg
 heroImg: banner-default.jpg
 ---
