@@ -122,7 +122,7 @@ tail: # zbytek kandidatky
     uid: martin.ouda
     partyUid: pirati
   - name: Helena Krutinová 
-    url: https://lide.pirati.cz/person/1449/
+    uid: helena.krutinova
     partyUid: pirati 
   - name: Jurij Černopaščenko 
     uid: jurij.cernopascenko
