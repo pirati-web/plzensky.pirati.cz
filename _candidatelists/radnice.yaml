@@ -152,28 +152,28 @@ tail: # zbytek kandidatky
     uid: michal.huml
     partyUid: pirati
   - name: Jakub Frühauf 
-    url: https://lide.pirati.cz/personProfile/1172/
+    uid: jakub.fruhauf
     partyUid: pirati
   - name: Libor Schöpfer
     uid: libor.schropfer
     party: Bez politické příslušnosti
   - name: Jiří Čapek 
-    url: https://lide.pirati.cz/personProfile/1198/
+    uid: jiri.capek
     party: Bez politické příslušnosti 
   - name: Roland Martin
     uid: roland.martin
     partyUid: pirati
   - name: Miroslav Červený
-    url: https://lide.pirati.cz/personProfile/1179/
+    uid: miroslav.cerveny
     party: Bez politické příslušnosti
   - name: Daniel Horák
-    url: https://lide.pirati.cz/personProfile/1169/
+    uid: daniel.horak
     party: Bez politické příslušnosti
   - name: Luděk Červený
-    url: https://lide.pirati.cz/personProfile/1112/
+    uid: ludek.cerveny
     party: Bez politické příslušnosti
   - name: Radovan Poór
-    url: https://lide.pirati.cz/personProfile/1146/
+    uid: radovan.poor
     partyUid: pirati
     
     
