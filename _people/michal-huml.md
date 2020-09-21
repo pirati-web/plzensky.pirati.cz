@@ -1,6 +1,9 @@
 ---
 uid: michal.huml
 name:     Michal Huml  	# běžně používáné jméno
+titles:
+  before: Ing.
+  after: 
 category:
 - clenove
 img: people/michal.huml.jpg # zakomentuj radek dokud není fotka
