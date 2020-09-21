@@ -77,15 +77,16 @@ tail: # zbytek kandidatky
     uid: ales.jakl
     partyUid: pirati
   - name: Petr Planeta
-    url: https://lide.pirati.cz/personProfile/166/
+    uid: petr.planeta
     partyUid: pirati
   - name: Vladimír Vápeník
-    url: https://lide.pirati.cz/personProfile/1220/
+    uid: vladimir.vapenik
     partyUid: pirati
   - name: Josef Janoch 
     uid: josef.janoch
     partyUid: pirati
   - name: Miroslav Vaňáček
+    uid: miroslav.vanacek
     partyUid: pirati
   - name: Tomáš Hraběta
     uid: tomas.hrabeta
