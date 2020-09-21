@@ -1,6 +1,9 @@
 ---
 uid: tomas.hrabeta
 name:     Tomáš Hraběta 	# běžně používáné jméno
+titles:
+  before: Mgr.
+  after: 
 category:
 - clenove
 img: people/tomas.hrabeta.jpg # zakomentuj radek dokud není fotka
