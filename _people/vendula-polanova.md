@@ -1,6 +1,9 @@
 ---
 uid: vendula.polanova
 name:    Vendula Polanova  	# běžně používáné jméno
+titles:
+  before: Mgr.
+  after: 
 category:
 - clenove
 img: people/vendula.polanova.jpg # zakomentuj radek dokud není fotka
