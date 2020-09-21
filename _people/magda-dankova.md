@@ -1,6 +1,6 @@
 ---
 uid: magda.dankova
-name:     Magda Daňková      		# běžně používáné jméno
+name:     Magdaléna Daňková      		# běžně používáné jméno
 titles:
  before: Mgr.
  after: 
