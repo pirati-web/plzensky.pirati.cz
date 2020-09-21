@@ -5,7 +5,7 @@ titles:
   before: 
   after:
 category:
-img: people/miroslav-cerveny.jpg 
+img: people/miroslav.cerveny.jpg
 heroImg: banner-default.jpg
 mail:
 
