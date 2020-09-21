@@ -3,7 +3,7 @@ uid: miroslav.vanacek
 name:     Miroslav Vaňáček  	# běžně používáné jméno
 category:
 - clenove
-#img: people/miroslav_vanacek.jpg # zakomentuj radek dokud není fotka
+img: people/img: people/miroslav.vanacek.jpg# zakomentuj radek dokud není fotka
 heroImg: banner-default.jpg
 ordclenove: 2
 mail:
