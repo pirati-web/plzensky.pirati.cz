@@ -101,48 +101,49 @@ tail: # zbytek kandidatky
     uid: frantisek.hagara
     partyUid: pirati
   - name: Zuzana Černá Macnerová
+    uid: zuzana.cerna
     partyUid: pirati
   - name: Josef Kubát
     uid: josef.kubat
     partyUid: pirati
   - name: Pavel Kašík 
-    url: https://lide.pirati.cz/personProfile/1176/
+    uid: pavel.kasik
     partyUid: pirati
   - name: Václav Bouček 
-    url: https://lide.pirati.cz/personProfile/1202/
+    uid: vaclav.boucek
     partyUid: pirati
   - name: Vladimíra Janovcová 
-    url: https://lide.pirati.cz/personProfile/1209/
+    uid: vladimira.janovcova
     partyUid: pirati
   - name: Monika Soukupová 
-    url: https://lide.pirati.cz/personProfile/1174/
+    uid: monika.soukupova
     partyUid: pirati
   - name: Martin Ouda 
-    url: https://lide.pirati.cz/personProfile/1175/
+    uid: martin.ouda
     partyUid: pirati
   - name: Helena Krutinová 
     url: https://lide.pirati.cz/person/1449/
     partyUid: pirati 
   - name: Jurij Černopaščenko 
-    url: https://lide.pirati.cz/personProfile/1170/
+    uid: jurij.cernopascenko
     partyUid: pirati
   - name: Jiří Panuška 
-    url: https://lide.pirati.cz/personProfile/537/
+    uid: jiri.panuska
     partyUid: pirati
   - name: Pavlína Vacková 
-    url: https://lide.pirati.cz/personProfile/790/
+    uid: pavlina.vackova
     partyUid: pirati
   - name: Vendula Polanová
     uid: vendula.polanova
     partyUid: pirati
   - name: Roman Sloup 
-    url: https://lide.pirati.cz/personProfile/218/
+    uid: roman.sloup
     partyUid: pirati
   - name: Jan Pachl 
-    url: https://lide.pirati.cz/personProfile/684/
+    uid: jan.pachl
     partyUid: pirati
   - name: Milan Štrup
-    url: https://lide.pirati.cz/personProfile/1184/
+    uid: milan.strup
     partyUid: pirati
   - name: Petr Jakubíček
     uid: petr.jakubicek
