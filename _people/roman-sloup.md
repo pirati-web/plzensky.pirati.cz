@@ -1,6 +1,9 @@
 ---
 uid: roman.sloup
 name: Roman Sloup
+titles:
+  before: doc. Mgr. Ing.
+  after: Ph.D.
 img: people/roman.sloup.jpg
 heroImg: banner-default.jpg
 ---
