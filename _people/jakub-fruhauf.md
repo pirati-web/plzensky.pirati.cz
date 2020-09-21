@@ -1,5 +1,5 @@
 ---
-uid: jakub.fruhauf.md
+uid: jakub.fruhauf
 name: Jakub Frühauf
 img: people/jakub.fru.jpg
 heroImg: banner-default.jpg
