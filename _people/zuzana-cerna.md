@@ -1,6 +1,9 @@
 ---
 uid: zuzana.cerna
 name:     Zuzana Černá Macnerová  	# běžně používáné jméno
+titles:
+  before: Bc.
+  after: 
 category:
 - clenove
 img: people/zuzana-cerna.jpg # zakomentuj radek dokud není fotka
