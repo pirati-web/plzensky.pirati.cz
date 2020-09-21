@@ -1,8 +1,7 @@
 ---
 uid: jindriska.sramkova
 name: Jindřiška Šrámková
-img: 
-jindriska.sramkova.jpg
+img: jindriska.sramkova.jpg
 heroImg: banner-default.jpg
 ---
 
