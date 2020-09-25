@@ -30,6 +30,7 @@ V nadcházejících volbách bude jinak hlasovat „zdravá“ populace a ti, kt
 **Nemáte žádná covidová omezení?**
 1. Odvolte ve stanovených dnech, tedy 2. a 3. října (ve 2. kole senátních voleb 9. nebo 10. října) běžnými způsoby v **určené volební místnosti**. 
 2. Odvolte ve stanovených dnech, tedy 2. a 3. října (ve 2. kole senátních voleb 9. nebo 10. října) do **přenosné volební schránky**, ale jenom ze závažných důvodů jako jsou úraz nebo dlouhodobá nemoc. O tuto možnost **musíte požádat** obecní úřad nebo volební komisi.
+
 **I v karanténě a izolaci odvolíte. Na speciálních místech**
 Speciální situace a místa si žádají i speciální hlasovací komise. Tvořit je budou **3 vojáci** a zapisovatel jmenovaný krajským úřadem, kteří hlasy také spočítají.
 Totožnost prokážete **občankou**, na voličský průkaz nejde volit. Pro jistotu si vezměte **potvrzení** od lékaře nebo z hygieny.
