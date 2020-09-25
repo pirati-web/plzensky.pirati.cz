@@ -3,7 +3,7 @@ uid: milan.chaloupka
 name:     Milan Chaloupka  	# běžně používáné jméno
 titles:
   before: JUDr.
-  after: MBA, LL.M 
+  after: MBA, LL.M. 
 category: 
 description: Kandidát do krajského zastupitelstva
 img: people/chaloupka.jpeg
