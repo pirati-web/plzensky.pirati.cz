@@ -17,7 +17,7 @@ profiles:
 
 ## Rudolf Špoták
 
-Rudolf Spotak (34 let) personalista 
+Rudolf Spotak (36 let) personalista 
 
 Téměř celý život bydlí v Domažlicích, ve městě, které má svůj vlastní naturel i specifika. 
 
