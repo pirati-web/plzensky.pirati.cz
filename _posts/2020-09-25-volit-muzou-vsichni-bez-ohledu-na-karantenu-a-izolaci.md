@@ -4,7 +4,7 @@ category: blog
 tags: Plzenskykraj krajskevolby 
 title: Volit můžou všichni bez ohledu na karanténu a izolaci
 author: Milan Chaloupka
-image: people/chaloupka01.jpg
+image: people/mchaloupkam.png
 important: true
 ---
 **Volit můžou všichni bez ohledu na karanténu a izolaci**
