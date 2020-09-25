@@ -33,7 +33,7 @@ V nadcházejících volbách bude jinak hlasovat „zdravá“ populace a ti, kt
 **I v karanténě a izolaci odvolíte. Na speciálních místech**
 Speciální situace a místa si žádají i speciální hlasovací komise. Tvořit je budou **3 vojáci** a zapisovatel jmenovaný krajským úřadem, kteří hlasy také spočítají.
 Totožnost prokážete **občankou**, na voličský průkaz nejde volit. Pro jistotu si vezměte** potvrzení** od lékaře nebo z hygieny.
-1. Odvolte 30. září (ve 2. kole senátních voleb) 7. října od 7 do 15 hodin** z auta** na stanovišti ** (drive-in)** v okrese, kde máte trvalý pobyt. Adresu stanoviště, bude jich celkem 78 jako okresů, najdete na webu vašeho kraje. Stanoviště budou uzpůsobena pro průjezd a jejich vybavení zajistí armáda. Tento způsob je **nejbezpečnější! **
+1. Odvolte 30. září (ve 2. kole senátních voleb 7. října) od 7 do 15 hodin** z auta** na stanovišti ** (drive-in)** v okrese, kde máte trvalý pobyt. Adresu stanoviště, bude jich celkem 78 jako okresů, najdete na webu vašeho kraje. Stanoviště budou uzpůsobena pro průjezd a jejich vybavení zajistí armáda. Tento způsob je **nejbezpečnější! **
 2. Odvolte ve stanovených dnech, tedy 2. a 3. října (ve 2. kole senátních voleb 9. nebo 10. října) do **zvláštní přenosné volební schránky**. Musíte se nejpozději do čtvrtka 1. října do 20 hodin nahlásit na svém krajském ú)řadě na speciální lince. Telefon a termín, kdy se nahlásit, najdete na webu kraje. 
 
 **Do pobytových zařízení za vámi přijdou**
