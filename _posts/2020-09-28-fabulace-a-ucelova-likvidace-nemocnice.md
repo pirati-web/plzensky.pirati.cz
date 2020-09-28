@@ -1,7 +1,7 @@
 ---
 date: 2020-09-28
 category: blog
-tags: Plzenskykraj krajskevolby Susice
+tags: Plzenskykraj krajskevolby Sušice
 title: Fabulace a účelová likvidace nemocnice
 author: Pavel Hais
 image: posts/susice_nemocnice.jpg
