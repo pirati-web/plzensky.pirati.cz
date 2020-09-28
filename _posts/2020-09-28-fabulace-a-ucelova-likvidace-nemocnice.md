@@ -7,7 +7,7 @@ author: Pavel Hais
 image: posts/susice_nemocnice.jpg
 important: true
 ---
-** Představitelé sušické ODS a ANO učinili během posledních 14 dní veškeré úsilí k tomu, aby zlikvidovali akutní provoz v sušické nemocnici. Po odvolání jednatelů Pavla Haise (Piráti) a Václava Rady však zatím s žádnou jinou koncepcí tito představitelé nepřišli, natož aby byla schválena na zastupitelstvu. Konají tak přitom skrz své nastrčené lidi na špinavou práci, aby pro veřejnost vypadali čistí. A nám se v hlavě stále opakuje klíčová otázka - pro koho to dělají?**
+**Představitelé sušické ODS a ANO učinili během posledních 14 dní veškeré úsilí k tomu, aby zlikvidovali akutní provoz v sušické nemocnici. Po odvolání jednatelů Pavla Haise (Piráti) a Václava Rady však zatím s žádnou jinou koncepcí tito představitelé nepřišli, natož aby byla schválena na zastupitelstvu. Konají tak přitom skrz své nastrčené lidi na špinavou práci, aby pro veřejnost vypadali čistí. A nám se v hlavě stále opakuje klíčová otázka - pro koho to dělají?**
 
 Město se poslední léta věnovalo nemocnici minimálně, což se odrazilo na jejím stavu. Finální tečku tomu dal bývalý provozovatel postupně uzavírající akutní péči. Nyní, kdy je nutné nemocnici znovu nastartovat, tak dříve, než se situace stabilizovala, udělala se tomu přítrž. Nikomu není třeba vysvětlovat, že je v tom jasný úmysl. Dále je prokazatelné, že někteří představitelé účelově nemocnici poškozují, zejména poté, co vyšla na povrch pozitivní analýza nemocnice. Její znění se snažili utajit, aby si ji veřejnost nemohla přečíst. 
 
