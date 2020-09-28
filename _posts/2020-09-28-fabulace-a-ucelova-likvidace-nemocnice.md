@@ -13,7 +13,10 @@ Město se poslední léta věnovalo nemocnici minimálně, což se odrazilo na j
 
 Analýza jasně řekla, že nemocnice má perspektivu dostat se v horizontu několika let na vyrovnané hospodaření. To znamená, že se bude hospodářský výsledek pohybovat někde kolem nuly nebo v záporných jednotkách milionů. Bude potřebovat pouze zdroje na investice, které mohou být složeny jak z městských, tak hlavně z krajských a státních peněz. Nedává smysl, aby kraj podporoval své nemocnice částkou 230 milionů korun a Sušické nemocnici, která je v tom samém kraji, dal pouze jednotky milionů na provoz pohotovosti.
 
-I přesto, že analýza ukázala budoucnost nemocnice v pozitivním duchu, hlasovali členové valné hromady (to jest rady města) z řad ODS (Bc. Petr Mottl, Mgr. Jana Švelchová) a ANO (Pavel Javorský, František Jelínek) tak, aby současný směr byl zastaven a obrácen o 180 stupňů. Ani jeden ze zúčastněných se o provoz a fungování nemocnice v posledních měsících aktivně nezajímal. Paradoxní je, že k odvolání jednatelů, kteří postavili nemocnici na nohy, přispěla dodnes do veřejného rejstříku nezapsaná dozorčí rada, kterou valná hromada jmenovala koncem července, a která nemocnici až do 14.9.2020, kdy během hodiny převzala klíče a budovu, vůbec nenavštívila. Třešničkou na dortu už je jen skutečnost, že prvním zájmem nového jednatele zvoleného ihned po odvolání těch stávajících, bylo nastavit si přiměřeně vysokou mzdu, což kontrastuje s bývalými jednateli, kteří svou funkci vykonávali rok a půl zdarma ve prospěch nemocnice a města.
+I přesto, že analýza ukázala budoucnost nemocnice v pozitivním duchu, hlasovali členové valné hromady (to jest rady města) z řad ODS (Bc. Petr Mottl, Mgr. Jana Švelchová) a ANO (Pavel Javorský, František Jelínek) tak, aby současný směr byl zastaven a obrácen o 180 stupňů. Ani jeden ze zúčastněných se o provoz a fungování nemocnice v posledních měsících aktivně nezajímal. 
+
+Paradoxní je, že k odvolání jednatelů, kteří postavili nemocnici na nohy, přispěla dodnes do veřejného rejstříku nezapsaná dozorčí rada. 
+Tato dozorčí rada, který byla valnou hromadou jmenována koncem července, ani jednou nemocnici nenavštívila. Výjimkou bylo  pondělí 14.9.2020, kdy převzala klíče od ředitelny s novým jednatelem. Třešničkou na dortu už je jen skutečnost, že prvním zájmem nového jednatele zvoleného ihned po odvolání těch stávajících, bylo nastavit si přiměřeně vysokou mzdu, což kontrastuje s bývalými jednateli, kteří svou funkci vykonávali rok a půl zdarma ve prospěch nemocnice a města.
 
 Pan starosta říká, že díky dobrému hospodaření města byly rezervy již spotřebovány. Ano, v roce 2019 bylo potřeba  22 milionů korun a v roce 2020 bylo vynaloženo dalších 37,3 milionů. Jenže každé nastartování tak velkého provozu se bez finanční pomoci neobejde. Takže nyní se tyto peníze vyhodí, když se povedlo to nejtěžší -  to znamená znovu otevřít uzavřená oddělení interny, chirurgie, jednotky intenzivní péče a zajistit tak zdravotní péči?
 
@@ -38,3 +41,5 @@ Analýzu Sušické nemocnice si můžete přečíst **[zde](https://plzensky.pir
 
 
 Otevřený dopis vedoucích lékařů ze sušické nemocnice zastupitelům města Sušice si můžete přečíst **[zde](https://plzensky.pirati.cz/download/otevreny_dopis.pdf)**
+
+Petice za setrvání Pavla Haise a Václava Rady ve funkcích jednatelů v sušické nemocnici **[zde](https://www.petice.com/pavel_hais_a_vaclav_rada_zpt_do_vedeni_suicke_nemocnic?fbclid=IwAR1XNZPCNLoa906f1XeCl9PRuRIVXB0XUB9vY4Dtd1qWztVgJDz42gyVTK8)**
