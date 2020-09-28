@@ -34,7 +34,7 @@ Bohužel, pokud se v nejbližších dnech nic nestane, zanikne v Sušické nemoc
 Je otázkou, jak a jestli pacienty ze Sušicka zvládnou okolní nemocnice. Podle toho, co nám říkají, to vypadá negativně. Dojde tak k výraznému zhoršení zdravotní péče v celém regionu. A nemyslíme si, že takový stav je to, co občané chtějí.
 
 
-Analýzu Sušické nemocnice si můžete přečíst **[zde](plzensky.pirati.cz/download/analyza_susice_1.pdf)**
+Analýzu Sušické nemocnice si můžete přečíst **[zde](https://plzensky.pirati.cz/download/analyza_susice_1.pdf)**
 
 
 Otevřený dopis zastupitelům města Sušice si můžete přečíst **[zde](plzensky.pirati.cz/download/Otevřený dopis - Sušická nemocnice s.r.o (1).pdf)**
