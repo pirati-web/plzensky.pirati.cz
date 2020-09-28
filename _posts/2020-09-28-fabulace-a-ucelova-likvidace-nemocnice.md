@@ -37,4 +37,4 @@ Je otázkou, jak a jestli pacienty ze Sušicka zvládnou okolní nemocnice. Podl
 Analýzu Sušické nemocnice si můžete přečíst **[zde](https://plzensky.pirati.cz/download/analyza_susice_1.pdf)**
 
 
-Otevřený dopis zastupitelům města Sušice si můžete přečíst **[zde](plzensky.pirati.cz/download/Otevřený dopis - Sušická nemocnice s.r.o (1).pdf)**
+Otevřený dopis zastupitelům města Sušice si můžete přečíst **[zde](https://plzensky.pirati.cz/download/otevreny_dopis.pdf)**
