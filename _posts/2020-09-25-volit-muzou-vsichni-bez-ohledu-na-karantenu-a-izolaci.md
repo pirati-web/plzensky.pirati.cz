@@ -15,7 +15,7 @@ Možnost volit musí mít všichni **bez výjimky**. A to tak, aby se nezvyšova
 
 Podle volebních zákonů jsou karanténa a izolace opatření, která omezují osobní svobodu z důvodu ochrany veřejného zdraví, protože jsou **překážkou** pro uplatnění práva volit. Zatímco v minulosti se to týkalo pouze desítek případů, nyní počítáme s tisícovkami voličů.
 
-Aby nebyla základní práva a svobody občanů u významného počtu voličů ohrožena, schválila vláda zvláštní a **dočasný zákon** pro uvedené volby. Umožní hlasovat i lidem s nařízenou karanténou nebo izolací tak, aby neohrozili **veřejné zdraví**. Týká se to i voličů v pobytových sociálních a výchovných školských zařízeních a nemocnicích, která uzavřely krajské hygienické stanice.
+Aby nebyla základní práva a svobody občanů u významného počtu voličů ohrožena, schválila sněmovna zvláštní a **dočasný zákon** pro uvedené volby. Umožní hlasovat i lidem s nařízenou karanténou nebo izolací tak, aby neohrozili **veřejné zdraví**. Týká se to i voličů v pobytových sociálních a výchovných školských zařízeních a nemocnicích, která uzavřely krajské hygienické stanice.
 
 **Barevně odlišné obálky a hlasovací lístky**
 Volby do Senátu a krajských zastupitelstev jsou ve stejném termínu. Nejpozději do 29. září dostanete zároveň 2 barevně odlišné **obálky** s hlasovacími lístky. Pokud je ve schránce nenajdete, řeknete si o ně ve volební místnosti, kde se prokážete platným občanským průkazem nebo pasem a obdržíte prázdnou obálku. 
