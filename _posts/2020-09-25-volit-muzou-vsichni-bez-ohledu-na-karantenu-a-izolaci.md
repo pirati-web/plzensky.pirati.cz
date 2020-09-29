@@ -7,9 +7,7 @@ author: Milan Chaloupka
 image: people/mchaloupkam.png
 important: true
 ---
-**Volit můžou všichni bez ohledu na karanténu a izolaci**
-
-Zvláštní doba si žádá zvláštní způsoby hlasování v říjnových volbách do zastupitelstev krajů a do Senátu. Vláda o nich rozhodla už v srpnu, aby nebyli diskriminovaní lidé v karanténě a v izolaci kvůli covid-19. Myslela i na to, že některá zařízení krajské hygienické stanice uzavřely. 
+**Volit můžou všichni bez ohledu na karanténu a izolaci. Zvláštní doba si žádá zvláštní způsoby hlasování v říjnových volbách do zastupitelstev krajů a do Senátu. Vláda o nich rozhodla už v srpnu, aby nebyli diskriminovaní lidé v karanténě a v izolaci kvůli covid-19. Myslela i na to, že některá zařízení krajské hygienické stanice uzavřely.** 
 
 Možnost volit musí mít všichni **bez výjimky**. A to tak, aby se nezvyšovalo riziko nákazy covid-19 a přitom se dramaticky nesnížila volební účast. Co na to zákon?
 
