@@ -2,33 +2,35 @@
 campaignCategoryUid: kraj2020
 campaignGroupUid: volby2020
 uid: zdravotnictvi
-order: 3
+order: 1
 title: Zdravotnictví
-img: program2020/03_zdrav.jpg
-#garant: nikola.indrova
-perex: Zdraví máme jen jedno
+garant: pavel.hais
+perex: Šance změnit zdravotnictví
 ---
 
-![](/assets/img/program2020/03_zdravotnictvi.png)
+**Dostupná péče**
+Podpoříme dostupnou zdravotní péči v kraji. Udržíme potřebnou síť nemocnic s dostatečným technickým vybavením. Zaměříme se na  praktické lékaře i lékaře se specializaci se zřetelem na  mladé doktory,  kteří nemají prostředky na vlastní praxi, a tím udržíme  zdravotní péči v okrajových lokalitách. Chceme zkvalitnění a zjednodušení vzdělávacího procesu středního zdravotnického personálu.
 
-**1.  Vytvoříme funkční a ekonomicky únosný model krajského zdravotnictví**
-    
-Na základě nezávislé odborné studie vytvoříme funkční model, jehož prioritami budou dostupnost a kvalita péče. Nebudeme podceňovat význam lázeňských měst.
+**Záchranná služba**
+Pacient dostane péči vždy, když ji potřebuje. Zajistíme neodkladnou péči pro všechny. Chceme zefektivnit spolupráci mezi Záchrannou službou a nemocnicemi v kraji. Rozšíříme síť první pomoci ve spádových oblastech, aby nedocházelo k přetížení záchranné služby.  Už se nestane, aby pacient s neodkladnou péči nebyl ošetřen
 
-**2.  Zabezpečíme vyrovnané financování chodu krajských nemocnic**
+**Stop rušení a privatizace krajských nemocnic**
+Kraj musí zajistit svým obyvatelům zdravotní péči vytvořením kvalitní sítě poskytovatelů zdravotní péče v příslušných spádových oblastech kraje. Problémem financování nemocnic jsou nerovné úhrady za stejné výkony od zdravotních pojišťoven. Budeme tvrdě chtít narovnat podmínky pro všechny nemocnice v kraji
 
-Prosazujeme férové platby pojišťoven. Zlepšíme ekonomii a transparentnost provozu. Podpoříme návrat lukrativních zdravotnických zákroků do portfolia krajské nemocnice.
-    
-**3.  Budeme řešit nedostatek lékařů**
- 
- Na podkladě podrobného mapování obsazení lékařských, sesterských a technických pozic v nemocnicích vytvoříme nový model spolupráce s vysokými školami. Ta bude podpořena formou stipendií, odborných stáží a startovacích bytů, které budou impulsem pro přestěhování do našeho regionu nebo zabrání odlivu zdravotníků. Podpoříme celoživotní vzdělávání těch, kteří shání uplatnění v perspektivním oboru.
-    
+**Dostatečné rezervy**
+Postaráme se, aby měl kraj opravdu dostatečné rezervy zdravotnických prostředků a ochranných pomůcek a léčiv. Aby se již nikdy neopakovalo nedávné selhání v případě jakékoliv krize. 
 
-**4.   Podpoříme inovace ve zdravotnictví**
-    
-Prosadíme zapojení karlovarské záchranné služby do systému First responder a rozvoj telemedicíny, která pomůže lékařům přejít do doby digitální. Částečně může tento nástroj pomoci s nedostatkem lékařů, ulehčí ordinacím
-    
+**Dostupné léky všude a pro každého**
+Zastavíme lékovou turistiku! Hodně občanů cestuje do větších měst za lepšími cenami léků. Řešením je využití tržní síly soustavy krajských nemocnic (soustavy zdravotních a sociálních zařízení) k tomu, aby byly léky dodány za stejných podmínek se srovnatelnými doplatky pro pacienta až do malých obcí. 
 
-**5.  Prevence skrze lázeňství**
-    
-Vyčleníme krajské finanční prostředky na osvětu a marketing. Díky jednání s ministerstvem zdravotnictví a zdravotními pojišťovnami zajistíme spolufinancování prevence v lázeňských zařízeních.
+**Práva pacientů**
+Žádná stížnosti pacientů nezůstanou v šuplíku nevyřízeny a budou řešeny odborníky v dané oblasti nikoliv politiky
+
+**Kratší čekací doby**
+Odstraníme zbytečně dlouhé čekací doby na operace. Pacienti mají právo na zdravotní péči v co nejkratším čase. Chceme odstranit problémy, které tomu brání např. úhradový limit.
+
+**Telemedicína**
+Dříve tabuizované slovo, které v koronavirové krizi dokázalo své opodstatnění. Je alternativou k chybějící péči v rámci určité specializace a nedostupnosti pro některé pacienty kvůli velké vzdálenosti.
+
+**Robotizace**
+Jsme v 21. století, kraj by měl držet krok s dobou a dát zelenou inovacím a novým trendům ve zdravotnictví. Robotické nástroje pomáhají chirurgům a ulehčují jim práci. Virtuální realita jim zase umožní trénink před náročnou operací. Možností je spousta.

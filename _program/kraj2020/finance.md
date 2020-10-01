@@ -2,34 +2,23 @@
 campaignCategoryUid: kraj2020
 campaignGroupUid: volby2020
 uid: finance
-order: 14
-title: Majetek a investice
-img: program2020/14_maj.jpg
-#garant: nikola.indrova
-perex: Prioritou jsou smysluplné projekty
+order: 9
+title: Finance a investice
+#garant: pavel.hais
+perex: Šance změnit finance a investice
 ---
 
-![](/assets/img/program2020/14_finance.png)
+**Vyrovnaný rozpočet kraje**
+Úvěrům se nebráníme, ale pouze pro přechodná období a s řádným odůvodněním. Zlepšíme informovanost veřejnosti o hospodaření a investicích kraje.
 
+**Co nejlepší péče o krajský majetek**
+Zpracujeme mapu nevyužívaných krajských pozemků a budov. Umožníme jejich alternativní využití včetně krátkodobého. Vyhodnotíme a zveřejníme náklady na údržbu komunikací a veřejných prostor. 
 
-**1.  Podpoříme smysluplné investice do inovací, zdravotnictví a školství**
-    
-Preferujeme investice do zdraví, technologií a znalostí. Chceme přilákat smysluplné inovativní projekty, které posunou náš kraj směrem k moderní ekonomice. Podpoříme místní malé, střední podniky, start-up projekty a podnikatelské inkubátory vytvořením fondu pro jejich financování.
-    
-**2.  Prioritou bude vícezdrojové financování projektů**
-    
-Financování musí být vícezdrojové. Krajské, obecní a privátní s využitím kohezních fondů. Nenecháme si ujít dotační příležitosti v podobě programů jako Res:tart, nebo JTF.
-    
-**3.  Budeme prosazovat otevřený software a e-government**
-    
-Společně s ostatními kraji najdeme alternativu ke stávajícímu zkostnatělému a drahému systému zavedením e-governmentu založeném na otevřeném softwaru, který šetří nejen přímé finance, ale zároveň čas úředníků i občanů.
-    
+**Maximální čerpání fondů z EU**
+Ano, ale podložené rozumným zacházením s dotačními programy. A s dostatečným časem na zapracování a rozhodování  
 
-**4.  Zaměříme se na sociálně odpovědné zadávání veřejných zakázek**
-    
-Jde nám o společenský prospěch a kladný dopad vítězných firem na okolní prostředí, proto nesmí být jediným faktorem ve výběrových řízeních cena. Připojíme se k Evropské alianci pro sociální odpovědnost podniků.
-    
+**Pomoc s dotacemi**
+Kraj bude pro obce ochotným partnerem. Pomůžeme obcím a místním akčním skupinám se získáváním prostředků pro jejich plány. Chceme, aby se kraj příkladně staral o svůj majetek a kulturní prostředí, komunikoval s občany a poskytoval obcím všestrannou pomoc a poradenství. 
 
-**5.  Zlepšíme využití krajského majetku**
-    
-Vytvoříme podrobný seznam veškerého krajského majetku, vytvoříme plán jeho využití s návrhem časového a finančního naplňování.
+**Optimalizace a priority investic**
+Chceme databanku investičních akcí, kde jsou efektivní a účelné záměry podložené finanční návratností a společenským přínosem.  

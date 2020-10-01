@@ -2,31 +2,23 @@
 campaignCategoryUid: kraj2020
 campaignGroupUid: volby2020
 uid: informatika
-order: 8
-title: IT a smart řešení
-img: program2020/08_it.jpg
-#garant: nikola.indrova
-perex: Vybudujeme opravdu chytrý kraj
+order: 7
+title: Informatika a IT
+#garant: pavel.hais
+perex: Šance změnit informatiku a IT
 ---
 
-![](/assets/img/program2020/08_informatika.png)
+**Digitalizace a kybernetická bezpečnost**
+Vytvoříme výbor pro digitalizaci a kybernetickou bezpečnost. Úkolem speciálního výboru bude revize a modernizace informační infrastruktury kraje včetně aktualizace veřejně dostupných informací jako jsou webové portály, úřední desky apod. Preferujeme řešení postavená na otevřených technologiích a svobodném softwaru. Zbavíme se předražených IT zakázek. Zlepšíme komunikaci mezi krajskými subjekty a také mezi krajem a občany formou přehledné elektronické úřední desky.
 
-**1.  Podpoříme vybudování robustní páteřní datové sítě mezi všemi obcemi regionu**
-    
-Propojíme všechny obce a příspěvkové organizace v kraji kvalitní páteřní datovou sítí a zároveň podpoříme privátní vlastníky datových sítí při kompletaci uceleného datového pokrytí území. (stavební přípravy pro propojení při všech stavbách/příběh připojení k internetu, když se nemůžeme pohybovat)
+**Chytrý a otevřený úřad**
+Základem je rychlá výměna informací a jejich sdílení mezi jednotlivými krajskými subjekty a oblastmi. Občan si může kromě standardních informací jednoduše a na jednom místě dohledat vše, co ho zajímá a co potřebuje. Chceme pro kraj kompetentní a vstřícné zaměstnance, kterým nabídneme efektivní vzdělávání v oblasti moderních technologií pro komunikaci s občanem a práci s daty.
  
-**2.  Dokončíme a spustíme funkční elektronizaci úřadu a zřídíme datové sklady**
-    
-Měla by obíhat data, nikoliv lidé. Maximum informací a procesů bude kolovat elektronicky. Vybudujeme datové sklady se všemi informacemi o kraji, které budou k dispozici veřejnosti ve formátu strukturovaných otevřených dat. Vždy budeme ctít právo na osobní styk s úřadem.(prosadili jsme ve sněmovně)
-    
-**3.  Edukujeme všechny skupiny obyvatelstva ve využívání technologií a budeme propagovat výhody jejich využívání**
-    
-Popularizace informačních technologií zábavnou formou. Odstraníme strach z používání technologií.
-    
-**4.  Maximálně budeme podporovat vývoj a aplikaci smart technologií a postupů**
-    
-Upřednostňujeme chytrá řešení, která nám pomohou šetřit čas, peníze a ulehčí život občanů, nebo upozorní na nebezpečí. Mezi taková řešení patří chytré osvětlení, intuitivní systémy dopravy, nebo svoz odpadu. Mezi nejdůležitější chytré systémy patří autonomní doprava.
-    
-**5.  Dokončíme tvorbu digitální technické mapy**
-    
-Dokončení digitální technické mapy bude mít vliv na zjednodušení stavebních řízení, správu majetku obcí i občanů a zjišťování informací o pozemcích a zasíťování.
+**Informační gramotnost**
+Podpoříme projekty a činnosti, které zvýší informační a digitální gramotnost a obecně práci s informacemi.
+
+**Dejte nám vědět**
+Zajímají nás vaše názory! Ke komunikaci a řešení vašich problémů využijeme elektronické úřední desky a mobilní aplikace. Díky vám tak získáme aktuální informace o situaci ve veřejné dopravě, stavu infrastruktury, znečištění lokality apod.
+
+**Zelená moderním technologiím**
+Ve spolupráci s krajskými subjekty pomůžeme s citlivou integrací moderních technologií do fungování organizací, obcí a života občanů jako jsou komunikační nebo výstražné systémy a informační panely. To vše s jasně definovanými pravidly využití a zpracováním dat.

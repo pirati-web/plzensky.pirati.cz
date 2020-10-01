@@ -1,5 +1,5 @@
 ---
-campaignCategoryUid: PlK2020
+campaignCategoryUid: kraj2020
 campaignGroupUid: volby2020
 uid: skolstvi
 order: 3

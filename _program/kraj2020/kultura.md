@@ -2,35 +2,20 @@
 campaignCategoryUid: kraj2020
 campaignGroupUid: volby2020
 uid: kultura
-order: 5
-title: Kultura a památková péče
-img: program2020/05_kul.jpg
-#garant: nikola.indrova
-perex: Důraz klademe na kulturu
+order: 11
+title: Kultura a cestovní ruch
+#garant: pavel.hais
+perex: Šance změnit kulturu a cestovní ruch
 ---
 
-![](/assets/img/program2020/05_kultura.png)
+**Decentralizace turistického ruchu**
+Cestovní ruch má významný podíl na ekonomice kraje, ale přináší i negativní důsledky. Chceme, aby turisté jezdili i na méně známá místa v kraji a památky se nepřelidňovali. Podpoříme proto projekty, které pomohou rozmělnění turismu, ochrání kulturní a přírodní lokality, a budou rozvíjet regionální knihovny, muzea a galerie.
 
-**1.  Vytvoříme nový koncept rozvoje kultury a revidujeme koncept památkové péče**
-    
-Koncept rozvoje kultury musí být tvořen s přihlédnutím k zápisům na seznam UNESCO a chystanému programu rozvoje kreativního kulturního průmyslu. Koncept památkové péče musíme aktualizovat tak, aby umožnil smysluplný rozvoj bez zbytečných komplikací.
-    
+**Cykloturistika**
+Cykloturistika má velký potenciál, spojuje totiž relaxaci a zdravý pohyb. Rádi proto prosazujeme  realizaci nových a modernizaci stávajících cyklostezek včetně dobrého značení, vybavených odpočívadel a informačních tabulí.
 
-**2. Zjednodušíme, zpřístupníme a navýšíme dotační programy**
-    
-Zjednodušíme systém pro získání dotací a rozšíříme okruh možných příjemců a druhů aktivit. Budeme podporovat akce s přidanou hodnotou pro obyvatele kraje.
-    
+**Propagace kraje**
+Zdůrazníme historické, folklorní a přírodní jedinečnosti našeho kraje. Prosadíme aktivní propagaci lokálního charakteru i unikátních regionálních specifik. Podporujeme akce zaměřené na originální a specifické zvyky, kulturu a obyčeje v kraji.
 
-**3.  Restartujeme a najdeme novou náplň paměťových institucí a živé kultury**
-    
-Paměťové instituce by měly pomoci s vytvářením lepšího vztahu obyvatel k místu, kde žijí a rozvoji lokálního patriotismu. Měly by se zaměřit na mapování řemeslného a tradičního dědictví kraje pro potenciální investory v těchto odvětvích.
-    
-
-**4.  Budeme rozvíjet kreativní průmysl**
-    
-Průmyslová odvětví založená na kreativitě, talentu, mající kořeny v umělecké tvorbě (design, film, software, ale i tradiční řemesla) jsou nejrychleji rostoucí obory podnikání s přidanou hodnotou. Kultivace, vzdělávání a podpora kreativity přináší nejen radost z tvorby a hojnost kulturních statků, ale v neposlední řadě i zisk.
-    
-
-**5.  Důležitá je pro nás přeshraniční spolupráce a využití potenciálu UNESCO**
-    
-Plně využijeme potenciál zápisů UNESCO. Zapsané Erzgebirge/Krušnohoří stejně jako nominované Slavné Lázně Evropy UNESCO, jsou obě mezinárodní nominace, díky tomu máme jako první v ČR možnost přenosu dobré praxe ze zahraničí, a to především smysluplného a cíleného cestovního ruchu a inovativního přístupu památkové péče.
+**Podpora místních spolků a obcí**
+Budeme prosazovat  profesionální i amatérské projekty a akce, péči a propagaci památek, akce rozvíjející  cestovní ruch a kulturu, rozvoj mezinárodních a meziregionálních akcí s účastí partnerských měst a organizací.
