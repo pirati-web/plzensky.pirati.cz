@@ -4,7 +4,7 @@
 - groupUid: volby2020  # identifier of the group, to be used in program point
   title: Volby 2020     # title of the campaign group
   campaigns:
-    - title: Šance změnit Karlovarský kraj    # individual campaigns within the group
+    - title: Šance změnit Plzeňský kraj    # individual campaigns within the group
       categoryUid: kraj2020
   subLinks:
     - title: Povolební strategie

@@ -1,12 +1,11 @@
 ---
 layout: elections-2020
-title: Krajské a senátní volby 2020
-heroBgImg: kampan20/zahajenikampan.jpg
+title: Krajské volby 2020
+heroBgImg: volby2020.jpg
 campaignGroupUid: volby2020
 campaignCategoryUid: kraj2020
 candidateListUid: kraj2020
 customizeHeader: true
-hideCandidateSocialProfiles: true
 ---
 
 {% assign candidates = site.candidatelists | where: "uid", page.candidateListUid | first %}
