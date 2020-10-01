@@ -1,10 +1,17 @@
 # Campaigns are grouped, this usually reperesents situation when multiple
 # election campaings are held at the same time (which saves $$$ for the country).
 
-- groupUid: volby-2018  # identifier of the group, to be used in program point
-  title: Volby 2018     # title of the campaign group
+- groupUid: volby2020  # identifier of the group, to be used in program point
+  title: Volby 2020     # title of the campaign group
   campaigns:
-    - title: Program na radnici   # individual campaigns within the group
-      categoryUid: praha2018
-    - title: Senát
-      categoryUid: senat
+    - title: Šance změnit Karlovarský kraj    # individual campaigns within the group
+      categoryUid: kraj2020
+  subLinks:
+    - title: Povolební strategie
+      icon: ico--strategy
+      classes: bg-grey-125 text-black
+      href: /volby-2020/strategie.html
+    - title: Volební Pirátské listy
+      icon: ico--newspaper
+      classes: bg-black text-white
+      href: /download/PiratskeListy_Karlovarskykraj_podzim2020.pdf
