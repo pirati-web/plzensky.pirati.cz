@@ -39,27 +39,6 @@ Pokud dostaneme důvěru občanů, budeme se snažit o pokračování naší pr�
 
  - Není přípustné, aby uvolněný člen zastupitelstva za Piráty zastával další uvolněnou funkci. Toto doporučujeme i všem případným koaličním partnerům.
 
-## Zásady konstruktivní opoziční práce
-
- - Odmítáme koalice s extremistickými stranami a lidmi nekompetentními, s korupční minulostí nebo s jasnými střetem zájmů. V koalici nebudeme se stranami, které svými projevy      popírají nebo ohrožují principy demokratického právního státu, Listinu základních práv a svobod, nesou historické dědictví likvidace demokracie v této zemi, šíří  nesnášenlivost, odpor či diskriminaci vůči skupinám osob - tj. zejména KSČM a SPD.
-   
- - Ke koaliční spolupráci budeme hledat partnery, kteří ctí principy transparentnosti,
-participace občanů, potlačování klientelismu a předcházení konfliktu zájmů. V případě, že
-okolnosti nedovolí sestavit koalici s takovými partnery, budeme pracovat v opozici.
-
-- Našim cílem je dostat maximum bodů z našeho předvolebního programu do programu
-koalice. Výsledný koaliční program bude sice otázkou kompromisu, ale nesmí jít proti
-zásadním postojům Pirátské strany.
-
-- Za člena rady nechceme žádnou osobu obžalovanou z úmyslného trestného činu
-spáchaného v souvislosti s výkonem veřejné funkce, nebo která je v dlouhodobém střetu
-zájmů.
-
-- Není přípustné, aby uvolněný člen zastupitelstva za Piráty zastával další uvolněnou funkci
-či byl jinak v rozporu s Etickým kodexem zastupitele Plzeňského kraje. Toto požadujeme i po
-všech případných koaličních partnerech. Osoby, které toto nesplňují lze zvolit pouze pod
-podmínkou, že se sami zavážou k tomu, že ukončí jinou uvolněnou pozici či napraví věc, která
-je v rozporu s Etickým kodexem zastupitele Plzeňského kraje..
 
 ## Zásady konstruktivní opoziční práce
 
