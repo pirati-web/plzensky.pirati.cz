@@ -6,6 +6,7 @@ campaignGroupUid: volby2020
 campaignCategoryUid: kraj2020
 candidateListUid: kraj2020
 customizeHeader: true
+heroBgImg: kampan20/zahajenikampan.jpg
 ---
 
 {% assign candidates = site.candidatelists | where: "uid", page.candidateListUid | first %}
