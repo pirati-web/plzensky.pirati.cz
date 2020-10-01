@@ -1,6 +1,6 @@
 ---
 layout: elections-2020
-title: Krajské volby 2020
+title: Krajské a senátní volby 2020
 heroBgImg: volby2020.jpg
 campaignGroupUid: volby2020
 campaignCategoryUid: kraj2020
