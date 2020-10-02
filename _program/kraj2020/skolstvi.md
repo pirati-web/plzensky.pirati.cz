@@ -9,7 +9,7 @@ perex: Šance změnit školství
 ---
 
 **Podpoříme výuku cizích jazyků**
-Čeština je krásná, ale v zahraničí nám nikdo nebude rozumět. Podporujeme proto moderní výukové metody s využitím jazykových aplikací, odborné lektory, rodilé mluvčí a výměnné pobyty studentů i učitelů se zahraničními školami a nimi spojené projekty .
+Čeština je krásná, ale v zahraničí nám nikdo nebude rozumět. Podporujeme proto moderní výukové metody s využitím jazykových aplikací, odborné lektory, rodilé mluvčí a výměnné pobyty studentů i učitelů se zahraničními školami a snimi spojené projekty.
 
 **Vytvoříme podmínky pro udržení učitelů v regionech**
 Kvalitní školu dělají kvalifikovaní učitelé, kteří na sobě neustále pracují a jsou otevření moderním způsobům vyučování. Učitele chceme motivovat služebními byty, nadtarifními složkami platu, služebním mobilem nebo proplácením cestovného.
@@ -23,11 +23,11 @@ Podpoříme rozmanitost vzdělávací nabídky se zohledněním potřeb našeho 
 **Podpoříme technické zázemí škol** 
 Zasadíme se o vybavenost škol v oblasti informačních technologií, smysluplné využívání nástrojů digitálního vzdělávání a investice do technického a materiálního vybavení středních škol. 
 
-**Podpora digitální vzdělávání**
+**Podpora digitálního vzdělávání**
 Učitelé musí držet krok s dobou a umět používat digitální a inovativní metody ve výuce. Jsme pro vytvoření otevřené a veřejně přístupné národní digitální knihovny s výukovými materiály, on-line programy a aplikacemi.
 
 **Uvědomujeme si důležitost celoživotního vzdělávání**
 Každý má právo na vzdělání, a to bez ohledu na věk. Podpoříme proto zájmové kroužky a kurzy nebo občanské i profesní vzdělávání. V obcích a malých městech podpoříme školy coby centra celoživotního vzdělávání. 
 
 **Uvolníme ředitelům ruce**
-Ředitel školy by měl být především dobrým pedagogickým lídrem. V provozních a ekonomických agendách by měl mít zajištěnu dostatečnou podporu tak, aby nezabírala celou jeho kapacitu.  
+Ředitel školy by měl být především dobrým pedagogickým lídrem. V provozních a ekonomických agendách by měl mít zajištěnu dostatečnou podporu tak, aby nezabíraly celou jeho kapacitu.  
