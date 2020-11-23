@@ -10,7 +10,7 @@ Děkujeme, že s námi pomáháte. Dosud shromážděné počítače, na které 
 
 Za všechny představujeme jednoho ze studentů, kterému pomohly vaše dary. Je jím dvacetiletý Justin Červeňák, student čtvrtého ročníku oboru veřejnosprávní činnost na SPŠ strojnické a SOŠ profesora Švejcara. Na jaře příštího roku ho tedy bude čekat maturita a to je dneska zkouška, ke které potřebuje dnes počítač snad každý student.
 
-OBRÁZEK (PCpomoc2) – _Justin Červenák_
+OBRÁZEK (PCpomoc2.jpg) – _Justin Červenák_
 
 Situace je navíc ztížená o distanční výuku, se kterou se stále ještě potýkají žáci a studenti všech typů škol. Justin musel doposud všechno absolvovat pomocí svého mobilního telefonu – ráno se připojit k online výuce a odpoledne se učit. Velmi obtížné pak bylo psaní úkolů a školních prací, zejména pokud často přesahovaly jednu stránku.
 
@@ -18,4 +18,4 @@ Rodinné zázemí Justina není jednoduché. Má tři sourozence a nevlastního 
 
 Ještě jednou děkujeme všem, co s námi pomáháte. Elektroniku předáváme žákům a studentům všech věkových kategorií. A máme ještě hodně techniky k předání
 
-OBRÁZEK (PCpomoc3), (PCpomoc4) a (PCpomoc5) – _Vaše dary pomáhají žákům a studentům_
+OBRÁZEK (PCpomoc3.jpg), (PCpomoc4.jpg) a (PCpomoc5.jpg) – _Vaše dary pomáhají žákům a studentům_
