@@ -21,11 +21,11 @@ Já jsem navrhoval za Piráty zrušení programu dronů, protože si město dál
 
 To nezpochybňuji, ale je nutné brát zřetel na to, jaký je to majetek. Zdravotnictví má svá specifika a nejde zde jen tak o nějakou obyčejnou budovu. O tom také na zastupitelstvu ve svém příspěvku mluvil i kolega zastupitel Petr Vileta, který se mnou petici organizoval.
 
-****Je zde pojistka na zachování zdravotnické péče po dobu 15 let.****
+ - **Je zde pojistka na zachování zdravotnické péče po dobu 15 let.**
 
 V původním návrhu bylo deset let, pak došlo k navýšení na 15 let. Hnutí ANO to prezentuje jako svůj úspěch, aby nemuseli přiznat, že si s nimi ODS dělá co chce. Navíc v zahraničí je běžné u takovýchto druhů smluv i pojistky na 50 let.
 
-## 
+ 
 
 Naším nejzásadnějším argumentem ale byla petice a rozhovory s Plzeňáky. S nashromážděnou necelou tisícovkou podpisů pod petici proti prodeji Polikliniky a ze stovek rozhovorů, které jsme u stánku já i moji kolegové vedli, mohu odpovědně prohlásit, že si Plzeňáci prodej nepřáli. Bohužel, ani toto nevzalo vedení města na vědomí. Těsně před hlasováním jsem ještě navrhnul stažení tohoto budu z hlasování, ale ani to neprošlo.
 
