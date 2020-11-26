@@ -18,5 +18,8 @@ Ještě jednou děkujeme všem, co s námi pomáháte. Elektroniku předáváme 
 
 {% asset 'https://a.pirati.cz/plzensky/img/posts/PCpomoc03.jpg' magick:gravity='north' alt='PCpomoc'%}
 
-(PCpomoc4.jpg) a (PCpomoc5.jpg) 
+{% asset 'https://a.pirati.cz/plzensky/img/posts/PCpomoc04.jpg' magick:gravity='north' alt='PCpomoc'%}
+
+{% asset 'https://a.pirati.cz/plzensky/img/posts/PCpomoc05.jpg' magick:gravity='north' alt='PCpomoc'%}
+
 *Vaše dary pomáhají žákům a studentům*
