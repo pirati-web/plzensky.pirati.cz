@@ -16,5 +16,7 @@ Rodinné zázemí také nemá jednoduché. Má tři sourozence a nevlastního br
 
 Ještě jednou děkujeme všem, co s námi pomáháte. Elektroniku předáváme žákům a studentům všech věkových kategorií. A máme ještě hodně techniky k předání
 
-(PCpomoc3.jpg), (PCpomoc4.jpg) a (PCpomoc5.jpg) 
+{% asset 'https://a.pirati.cz/plzensky/img/posts/PCpomoc03.jpg' magick:gravity='north' alt='PCpomoc'%}
+
+(PCpomoc4.jpg) a (PCpomoc5.jpg) 
 *Vaše dary pomáhají žákům a studentům*
