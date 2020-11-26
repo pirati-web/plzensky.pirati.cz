@@ -14,12 +14,14 @@ Situace je navíc ztížená o distanční výuku, se kterou se stále ještě p
 
 Rodinné zázemí také nemá jednoduché. Má tři sourozence a nevlastního bratra (jeho rodiče ho adoptovali v útlém věku necelých tří let; jeho matka byla narkomanka, otec za mřížemi). Bratra zmiňujeme z důvodu, že je také studentem střední školy, učňovského oboru. Takže se o darovanou techniku zcela jistě podělí. Co jsme poznali, jedná se o strašně fajn kluka s rodinou, která na tom sice není finančně nejlépe, ale jsou to slušní a pracovití lidé.
 
-Ještě jednou děkujeme všem, co s námi pomáháte. Elektroniku předáváme žákům a studentům všech věkových kategorií. A máme ještě hodně techniky k předání
+Ještě jednou děkujeme všem, co s námi pomáháte. Elektroniku předáváme žákům a studentům všech věkových kategorií. A máme ještě hodně techniky k předání.
 
 {% asset 'https://a.pirati.cz/plzensky/img/posts/PCpomoc03.jpg' magick:gravity='north' alt='PCpomoc'%}
 
 {% asset 'https://a.pirati.cz/plzensky/img/posts/PCpomoc04.jpg' magick:gravity='north' alt='PCpomoc'%}
 
 {% asset 'https://a.pirati.cz/plzensky/img/posts/PCpomoc05.jpg' magick:gravity='north' alt='PCpomoc'%}
+
+{% asset 'https://a.pirati.cz/plzensky/img/posts/PCpomoc06.jpg' magick:gravity='north' alt='PCpomoc'%}
 
 *Vaše dary pomáhají žákům a studentům*
