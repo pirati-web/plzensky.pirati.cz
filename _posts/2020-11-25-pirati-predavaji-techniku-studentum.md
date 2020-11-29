@@ -1,5 +1,5 @@
 ---
-date: 2020-11-23
+date: 2020-11-25
 category: blog
 tags: Plzenskykraj digitalizace piratipracuji Pandemie
 title: Piráti předávají techniku studentům
