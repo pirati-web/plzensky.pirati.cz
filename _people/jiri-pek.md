@@ -7,6 +7,7 @@ titles:
 category:
 - zastupitele_vejprnice
 - kandidat_kraj
+- zastupitele_kraj
 description: zastupitel kraje a města Vejprnice, předseda finančního výboru na kraji
 img: people/jiri_pek.png # zakomentuj radek dokud není fotka
 heroImg: banner-default.jpg
