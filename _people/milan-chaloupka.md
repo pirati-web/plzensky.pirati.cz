@@ -5,7 +5,7 @@ titles:
   before: JUDr.
   after: MBA, LL.M. 
 category: 
-description: Kandidát do krajského zastupitelstva
+description: zastupitel kraje, předseda výboru pro digitalizaci, IT a Otevřený kraj 
 img: people/chaloupka.jpeg
 heroImg: banner-default.jpg
 ordclenove: 2
