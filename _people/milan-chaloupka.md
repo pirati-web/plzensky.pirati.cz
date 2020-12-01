@@ -5,6 +5,7 @@ titles:
   before: JUDr.
   after: MBA, LL.M. 
 category: 
+- zastupitele_kraj
 description: zastupitel kraje, předseda výboru pro digitalizaci, IT a Otevřený kraj na kraji
 img: people/chaloupka.jpeg
 heroImg: banner-default.jpg
