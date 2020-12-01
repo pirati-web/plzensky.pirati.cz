@@ -6,7 +6,7 @@ titles:
   after:
 category:
 - zastupitele_domazlice
-description: zastupitel města Domažlice
+description: zastupitel města Domažlice, náměstek hejtmanky pro oblast sociálních věcí
 img: people/rudolf_spotak.jpg # zakomentuj radek dokud není fotka
 heroImg: banner-default.jpg
 ordclenove: 2
