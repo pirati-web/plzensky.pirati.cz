@@ -9,7 +9,7 @@ category:                 	    # kategorie: rp, praha, vary, hradec, jmk, senat
 - kandidat_kraj
 img: people/martin-ptacek.jpg   # 165 x 220
 heroImg: banner-default.jpg
-description: zastupitel Plzeň 3, 4. místopředseda a člen místního sdružení Plzeň         	# kratký popis, max 160 znaků
+description: zastupitel kraje a Plzeň 3, 4. místopředseda a člen místního sdružení Plzeň         	# kratký popis, max 160 znaků
 mail:
 - martin.ptacek@pirati.cz
 mob:
