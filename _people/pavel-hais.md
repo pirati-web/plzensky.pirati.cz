@@ -7,6 +7,7 @@ titles:
 category:
 - zastupitele_susice
 - kandidat_kraj
+- zastupitele_kraj
 description: radní města Sušice, náměstek hejtmanky pro oblast IT, digitalizace a Centrální nákup 
 ordKraj: 1
 img: people/pavel_hais.png # zakomentuj radek dokud není fotka
