@@ -7,6 +7,7 @@ titles:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - zastupitele
 - kandidat_kraj
+- zastupitele_kraj
 img: people/jiri-hanousek.jpg
 heroImg: banner-default.jpg
 description: zastupitel kraje a Plzeň 4, předseda výboru pro investice a majetek na kraji, člen místního sdružení Plzeň # kratký popis, max 160 znaků
