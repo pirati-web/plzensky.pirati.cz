@@ -25,8 +25,7 @@ volba: https://forum.pirati.cz/
 Proběhla volba předsednictva místního sdružení. .   -->
 
 ## Akce
-* **Každou 3. středu v měsíci** 
-pořádáme setkání s pracovním názvem **Sdílené středy**, na kterých se mohou potkat místní Piráti, příznivci a kdokoliv, koho zajímá aktuální dění v Kladně. O každém setkání a místě kde se koná informujeme na naší facebookové stránce [PiratiTachovsko - události](https://www.facebook.com/pg//events/).
+Schůze MS Tachovsko se dozvíte zde: https://forum.pirati.cz/viewtopic.php?f=646&t=44560
 
 ## O nás
 MS Pirátů v Tachovsko vzniklo v červnu 2017 a aktivně se podílelo na právě probíhající kampani před volbami do PSP. 
