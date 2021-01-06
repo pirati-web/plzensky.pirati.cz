@@ -20,15 +20,3 @@ Zákon o právu na digitální služby i možnost zapojení bankovní identity p
 Co vlastně by šlo vyřizovat z pohodlí vašeho domova? Mohli byste úřady žádat například o prodlužování parkovacích oprávnění nebo registraci a úhradu v systému parkovacích zón, podávat přihlášky dítěte do školky či školy či např. vyřizovat záležitosti stran obecního nájmu. V přenesené působnosti by úřady umožňovaly podat oznámení o provozování živnosti, požádat o vystavení občanského či řidičského průkazu nebo například rybářského lístku nebo by prováděly též zápis do evidence psů.
 
 Důležité ale ve všech směrech je, aby byla zachována možnost si dojít vše na úřad osobně vyřídit. Pro starší z nás, nebo ty, kteří se s počítačem příliš nekamarádí, je to stále podstatné a potřebné.
-
-    <div class="media-object">
-      <div class="media-object-section">
-        <div class="thumbnail" >
-          <a href="{{ '/lide/magda-dankova/'  }}"><img style="height: 65px;" src= "{{ '/assets/img/posts/magda01.jpg' }}" alt="Magdaléna Daňková"></a>
-        </div>
-      </div>
-      <div class="media-object-section main-section">
-        <h6><a href="{{ '/lide/magda-dankova/'  }}">Magdaléna Daňková</a></h6>
-        <p>magda.dankova@pirati.cz<br>předseda MS Plzeň</p>
-      </div>
-    </div>
