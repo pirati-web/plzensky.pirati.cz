@@ -1,5 +1,5 @@
 ---
-date: 2021-01-012
+date: 2021-01-12
 category: blog
 tags: Plzenskykraj komentar životníprostředí
 title: Názor krajského zastupitele Filipa Sequense k milionovým kompenzacím od Správy úložišť radioaktivních odpadů. Jedná se skutečně o kompenzaci či úplatek?
