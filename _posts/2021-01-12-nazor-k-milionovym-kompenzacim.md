@@ -3,7 +3,7 @@ date: 2021-01-12
 category: blog
 tags: Plzenskykraj komentar životníprostředí
 title: Názor krajského zastupitele Filipa Sequense k milionovým kompenzacím od Správy úložišť radioaktivních odpadů. Jedná se skutečně o kompenzaci či úplatek?
-image: people/filip-sequens.jpg
+image: people/600-900.jpg
 important: true
 ---
 Plzeň, 11. ledna 2021: Ministerstvo průmyslu a obchodu (MPO) [vydalo tiskovou zprávu](https://www.mpo.cz/cz/rozcestnik/pro-media/tiskove-zpravy/obce-z-potencialnich-lokalit-pro-hlubinne-uloziste-radioaktivniho-odpadu-podle-atomoveho-zakona-v-brzke-dobe-obdrzi-1-milion-korun---258746/) o kompenzaci ve výši 1 mil. Kč pro každou obec, na jejímž území probíhal průzkum kvůli vybudování hlubinného úložiště jaderného odpadu.
