@@ -32,7 +32,8 @@ organization:
   mapLink: https://en.mapy.cz/zakladni?x=13.3809683&y=49.7462704&z=17&source=addr&id=9071829
   dataBoxId: b2i4r6j
   transparentAccount: 2100048174/2010
-
+  donateLink: https://dary.pirati.cz/podpor-kraj/plzensky/
+  
 # Nastavení zobrazení tabulky kontaktů.
 # Lze využít:
 # 1) předdefinované typy (organizationEmail, organizationRedmineLink, organizationPhone, organizationTransparentAccount, organizationDataBox, piratiRootWebsite)
@@ -45,11 +46,13 @@ calendar:
   # For nice look of the calendar, make sure you get Google Calendar API key
   # and start the app with the env var `GOOGLE_CALENDAR_APIKEY=[myapikey] bundle exec jekyll serve`.
   # For deployment, contact website administrator to set you env variable.
-  title: Celostátní kalendář
+  #title: Celostátní kalendář
   #id: nk73m1m89vhf5g2vojp6tnqe58@group.calendar.google.com
   #page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=nk73m1m89vhf5g2vojp6tnqe58%40group.calendar.google.com&ctz=Europe%2FPrague&amp;color=%232952A3
-  id: kddvdvu3adcjef2kro4j6mm838%40group.calendar.google.com
-  calendar: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=kddvdvu3adcjef2kro4j6mm838%40group.calendar.google.com&amp;color=%23ed9654&amp;ctz=Europe%2FPrague
+
+  title: Krajský kalendář
+  id: fstbrgjct7a7cvkidpp08bit48@group.calendar.google.com
+  https://calendar.google.com/calendar/u/0/embed?src=fstbrgjct7a7cvkidpp08bit48@group.calendar.google.com&ctz=Europe/Prague
 
 facebook:
   loadSDK: true
