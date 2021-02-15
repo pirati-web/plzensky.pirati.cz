@@ -3,7 +3,7 @@ date: 2021-02-15
 category: blog
 tags: Plzenskykraj LGBT
 title: Piráti z Plzně křičí „Mikulov podporuje porušování lidských práv, změňme to!“
-image: posts/Foto_Jiri Pek_1.jpg
+image: posts/Foto_Jiri_Pek_1.jpg
 important: true
 ---
 
