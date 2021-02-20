@@ -52,7 +52,7 @@ calendar:
 
   title: Krajský kalendář
   id: fstbrgjct7a7cvkidpp08bit48@group.calendar.google.com
-  page: https://calendar.google.com/calendar/u/0/embed?src=fstbrgjct7a7cvkidpp08bit48@group.calendar.google.com&ctz=Europe/Prague
+  page: https://calendar.google.com/calendar/embed?showTitle=0&showNav=0&showDate=0&showPrint=0&showTabs=0&showCalendars=0&showTz=0&mode=AGENDA&height=500&wkst=2&hl=cs&bgcolor=%23FFFFFF&src=fstbrgjct7a7cvkidpp08bit48%40group.calendar.google.com&ctz=Europe%2FPrague&color=%232952A3
 
 facebook:
   loadSDK: true
