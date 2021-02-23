@@ -15,6 +15,7 @@ ordclenove: 2
 mail:
 - jiri.pek@pirati.cz
 profiles:
+calendar: pekvejprnice@gmail.com
 ---
 
 ## Mgr. Bc. Jiří Pek (* 1986, Plzeň)
