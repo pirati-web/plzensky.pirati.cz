@@ -28,4 +28,4 @@ Vystudoval politologii a veřejnou správu na ZČU.
 
 Více informací o Jiřím Pekovi najdete na stránkách www.pirativejprnice.cz](www.pirativejprnice.cz) a na www.plzensky.pirati.cz](www.plzensky.pirati.cz)
 
-<iframe src="https://calendar.google.com/calendar/embed?src=pekvejprnice%40gmail.com&ctz=Europe%2FPrague" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Europe%2FPrague&amp;src=cGVrdmVqcHJuaWNlQGdtYWlsLmNvbQ&amp;src=MXJqYTJmYnBpZzU5ZXF0ZTVtNGhtZDkybTRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=aWo4Z2xtbXF2bG9mNzJzc2ZwOHRxcjRpMXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;src=ZnN0YnJnamN0N2E3Y3ZraWRwcDA4Yml0NDhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23E4C441&amp;color=%23C0CA33&amp;color=%23F4511E&amp;color=%23009688" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
