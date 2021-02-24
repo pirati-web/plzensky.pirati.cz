@@ -26,6 +26,6 @@ Před zvolením do kraje pracoval v mezinárodní korporaci Panasonic na pozici 
 
 Vystudoval politologii a veřejnou správu na ZČU.
 
-Více informací o Jiřím Pekovi najdete na stránkách [www.pirativejprnice.cz](www.pirativejprnice.cz) a na [www.plzensky.pirati.cz](www.plzensky.pirati.cz)
+Více informací o Jiřím Pekovi najdete na stránkách www.pirativejprnice.cz](www.pirativejprnice.cz) a na www.plzensky.pirati.cz](www.plzensky.pirati.cz)
 
 <iframe src="https://calendar.google.com/calendar/embed?src=pekvejprnice%40gmail.com&ctz=Europe%2FPrague" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
