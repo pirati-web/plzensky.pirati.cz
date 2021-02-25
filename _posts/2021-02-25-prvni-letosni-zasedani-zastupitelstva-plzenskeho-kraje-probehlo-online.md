@@ -7,7 +7,7 @@ image: posts/LJ_Digitalizace_small.jpg
 important: true
 ---
 
-Z důvodu ochrany zdraví proběhlo první letošní zasedání Zastupitelstva Plzeňského kraje z velké části distančně, tedy bez nutnosti fyzické přítomnosti většiny zastupitelů v jednacím sále. To bylo možné díky využití moderních informačních technologií
+Z důvodu ochrany zdraví proběhlo první letošní zasedání Zastupitelstva Plzeňského kraje z velké části distančně, tedy bez nutnosti fyzické přítomnosti většiny zastupitelů v jednacím sále. To bylo možné díky využití moderních informačních technologií.
 
 Krajští zastupitelé mohli poprvé využít také elektronický hlasovací systém pomocí speciálních tlačítek, namísto ukazování nadepsaných papírů pro, proti a zdržel se.  *„Těší mě, že virtuální jednání zastupitelstva a premiéra on-line hlasování proběhly bez problémů, digitalizace na krajské úrovni je zase o krok dále,“* hodnotí Pavel Hais, náměstek hejtmanky pro oblast IT a digitalizaci a Centrální nákup. 
 
