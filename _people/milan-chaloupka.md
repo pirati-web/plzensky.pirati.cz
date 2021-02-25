@@ -6,7 +6,7 @@ titles:
   after: MBA, LL.M. 
 category: 
 - zastupitele_kraj
-description: zastupitel kraje, předseda výboru pro digitalizaci, IT a Otevřený kraj na kraji
+description: zastupitel kraje, předseda výboru pro digitalizaci, IT a Otevřený kraj na kraji, 2. místopředseda krajského sdružení Plzeňský kraj
 img: people/chaloupka.jpeg
 heroImg: banner-default.jpg
 ordclenove: 2
