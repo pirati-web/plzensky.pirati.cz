@@ -6,7 +6,7 @@ titles:
   after:
 category:
 - zastupitele_domazlice
-description: zastupitel města Domažlice
+description: zastupitel města Domažlice, 4. místopředseda krajského sdružení Plzeňský kraj, předseda Místního sdružení Domažlice
 img: people/viktor_krutina.jpg # zakomentuj radek dokud není fotka
 heroImg: banner-default.jpg
 ordclenove: 2
