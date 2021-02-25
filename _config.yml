@@ -6,22 +6,22 @@
 #
 
 title: Piráti - Plzeňský kraj # To co je napsané na tabu ve kterém je stránka.
-email: pavel.sramek@pirati.cz, miroslav.masek@pirati.cz, martin.ptacek@pirati.cz
+email: miroslav.masek@pirati.cz,
 description: >-
   Zde potří popis webu například stránka místního sdružení. Zobrází se například ve feed/rss nebo ve výsledcích googlu.
 # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
-keywords: piráti, česká pirátská strana, svoboda, demokracie, název města, zkratka města, místní združení,
+keywords: piráti, česká pirátská strana, svoboda, demokracie, název města, zkratka města, místní združení, plzenskykraj,
 url: "https://plzensky.pirati.cz" 
 
 administrator:
-  email: jan.suchanek@gmail.com, miroslav.masek@pirati.cz, martin.ptacek@pirati.cz, pavel.sramek@pirati.cz, marek.krejpsky@pirati.cz # mail(y), kam pujdou chybove vystupy; vice e-mailu oddelujte carkou
+  email: jan.suchanek@gmail.com, miroslav.masek@pirati.cz, marek.krejpsky@pirati.cz # mail(y), kam pujdou chybove vystupy; vice e-mailu oddelujte carkou
 
 mediaStorage: plzensky
 
 organization:
   name: Piráti - Plzeňský kraj
   shortName: Piráti Plzeňsko
-  email: plzensko@pirati.cz
+  email: ksplzenskykraj@pirati.cz 
   phone: +420 778 111 465
   address: 
      U Zvonu 4/9
