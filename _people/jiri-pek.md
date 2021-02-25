@@ -17,7 +17,7 @@ mail:
 profiles:
 ---
 
-## Mgr. Bc. Jiří Pek (* 1986, Plzeň)
+## Mgr. Jiří Pek (* 1986, Plzeň)
 
 
 Od roku 2020 je uvolněným zastupitelem na pozici předsedy Finančního výboru Zastupitelstva  Plzeňského kraje. Zároveň je opozičním zastupitelem ve Vejprnicích, kde se snaží o to, aby byla obec pro lidi, nikoliv lidi pro obec, respektive její vedení. Předmětem jeho zájmu je oblast transparence a otevřenost státních a samosprávných celků. Dále pomáhá se správou krajského sdružení Pirátů a pořádá ročně několik akcí od přednášek, až po projekt Ukliďme Česko. 
