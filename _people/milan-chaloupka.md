@@ -46,3 +46,5 @@ svých 3D tiskárnách vytiskli stovky ochranných štítů, zajistili tisíce r
 distribuci do nemocnic, ambulancí a sociálních zařízení.
 
 Protože umím hospodařit s časem, zůstává mi ho dost i na mé zájmy – rodinu, golf, box, běh a knihy.
+
+<iframe src="https://calendar.google.com/calendar/embed?src=milan.chaloupkapk%40gmail.com&ctz=Europe%2FPrague" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
