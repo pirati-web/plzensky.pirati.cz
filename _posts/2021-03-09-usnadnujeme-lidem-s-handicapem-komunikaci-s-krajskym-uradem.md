@@ -18,6 +18,6 @@ Zvláště v této složité době je vylepšení krajského webu žádoucí pro
 
 Budeme rádi, když nám o nové funkci pomůžete informovat ty, kteří ji využijí. 
 
-Díky!!
+Díky!
 
 Milan Chaloupka
