@@ -1,12 +1,12 @@
 ---
-uid: libor.janice
+uid: libor.janicek
 name: Libor Janíček
 titles:
   before: Mgr.
   after:
 category:
 - kontaktni_osoba
-description: krajský koordinátor, asistent poslance Lukáše Bartoně
+description: Mediálí spojka - Plzeňský kraj
 img: people/libor_janicek.jpg
 heroImg: banner-default.jpg
 mail:
