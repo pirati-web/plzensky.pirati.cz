@@ -10,10 +10,9 @@ leader:
   description: "absolvoval Gymnážium J.Š.Baara. V současné době jsem zastupitelem města Domažlice věnuje se lidským zdrojům"
 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
-  - uid: pavel.hais
+  - uid: daniel.kus
     age: 37
-    profession: Radní v Sušici
-    description: IT
+    profession: Zastupitel v Plzni
     partyUid: pirati
   - uid: martin.ptacek
     age: 35
