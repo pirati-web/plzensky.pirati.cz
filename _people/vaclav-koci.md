@@ -1,6 +1,6 @@
 ---
 uid: vaclav.koci
-name:Václav Kočí
+name: Václav Kočí
 img: people/vaclav_koci.PNG
 heroImg: banner-default.jpg
 ---
