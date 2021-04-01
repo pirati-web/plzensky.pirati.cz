@@ -1,5 +1,5 @@
 ---
-layout: contacts
+layout: page
 keywords: připoj se, naloď se, nováček, vstup do strany, Piráti, jak se přidat
 ---
 
