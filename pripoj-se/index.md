@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 keywords: připoj se, naloď se, nováček, vstup do strany, Piráti, jak se přidat
 ---
 
