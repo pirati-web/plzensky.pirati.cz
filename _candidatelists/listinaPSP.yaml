@@ -37,8 +37,47 @@ tail: # zbytek kandidatky
   - name: Pavel Šrámek
     uid: pavel.sramek
     partyUid: pirati
-
-    
-    
+  - name: Jan Bostl
+    uid: jan.bostl
+    partyUid:
+  - name: Pavel Bosák
+    uid: pavel.bosak
+    partyUid: pirati
+  - name: Pavel Čížek
+    uid: pavel.cizek
+    partyUid:   
+  - name: Jana Tomšíková
+    uid: jana.tomsikova
+    partyUid: pirati    
+  - name: Libor Picka
+    uid: libor.picka
+    partyUid: 
+  - name: Olga Sejrkova
+    uid: olga.sejrkova
+    partyUid: pirati
+  - name: Jan Vavřička
+    uid: jan.vavricka
+    partyUid:
+  - name: Pavel Hais
+    uid: pavel.hais
+    partyUid: pirati
+  - name: Martina Němečková
+    uid: martina.nemeckova
+    partyUid:
+  - name: Jindřiška Šrámková
+    uid: jindriska.sramkova
+    partyUid: pirati
+  - name: Václav Bernard
+    uid: vaclav.bernard
+    partyUid:
+  - name: Marek Habruň
+    uid: marek.habrun
+    partyUid: pirati
+  - name: Václav Kočí
+    uid: vaclav.koci
+    partyUid:
+  - name: Radek Krejčí
+    uid: radek.krejci
+    partyUid: pirati
     
 ---
