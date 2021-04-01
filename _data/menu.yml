@@ -23,8 +23,8 @@ main:
     name: Piráti v kraji
     match: pirativkraji
   - link: /volby-2020/
-   name: Krajské volby
-  match: volby-2020
+    name: Krajské volby
+    match: volby-2020
   - link: /kontakt/
     name: Kontakt
     match: kontakt
