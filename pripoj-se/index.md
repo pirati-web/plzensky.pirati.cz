@@ -3,7 +3,7 @@ layout: page
 keywords: připoj se, naloď se, nováček, vstup do strany, Piráti, jak se přidat
 ---
 
-##Vítáme tě u Pirátů!
+## Vítáme tě u Pirátů!
 
 ## Informace pro registrované příznivce a zájemce o členství
 
