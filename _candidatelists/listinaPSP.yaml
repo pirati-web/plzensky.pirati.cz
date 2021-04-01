@@ -1,0 +1,34 @@
+---
+title: Kandidátka PSP 2021
+uid: psp2021
+# number: 13 # číslo kandidátky odkomentujte až bude známé
+leader:
+  uid: Josef.Bernard
+  age: 36
+  profession: Personalista
+  partyUid: STAN
+  description: "absolvoval Gymnážium J.Š.Baara. V současné době jsem zastupitelem města Domažlice věnuje se lidským zdrojům"
+
+head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
+  - uid: daniel.kus
+    age: 37
+    profession: Zastupitel v Plzni
+    partyUid: pirati
+  - uid: martin.ptacek
+    age: 35
+    profession: Zastupitel na centrálním Plzeňském obvodě UMO 3
+    description: IT
+    partyUid: pirati
+
+    
+tail: # zbytek kandidatky
+      # jedinná povinná položka je name zbytek můžete vynechat
+      # věk se uvádí k poslednímu dni voleb
+  - name: Michal Ertl
+    uid: michal.ertl
+    partyUid: pirati
+
+    
+    
+    
+---
