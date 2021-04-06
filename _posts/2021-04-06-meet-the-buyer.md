@@ -19,3 +19,18 @@ Video se natáčelo tento týden v prostorách krajského úřadu a velký dík 
 Chcete se stát dodavatelem Plzeňského kraje, vyplňte ve dvou minutách krátký dotazník **[zde](https://www.cnpk.cz/meet-the-buyer)**.
 
 Těšíme se na spolupráci!
+
+
+A zde je několik fotografií z natáčení:
+
+![](/assets/plzensky/img/posts/meet_the_buyer/mtb_1.JPG)
+
+![](/assets/plzensky/img/posts/meet_the_buyer/mtb_2.JPG)
+
+![](/assets/plzensky/img/posts/meet_the_buyer/mtb_3.JPG)
+
+![](/assets/plzensky/img/posts/meet_the_buyer/mtb_4.JPG)
+
+![](/assets/plzensky/img/posts/meet_the_buyer/mtb_5.JPG)
+
+![](/assets/plzensky/img/posts/meet_the_buyer/mtb_6.JPG)
