@@ -23,7 +23,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
   - uid: jiri.rezek
     age: 39
     profession: Vysokoškolský učitel a vědec 
-    description: "Zde bude popis"
+    description: "Otec dvou dětí. Vědecký pracovník v oboru nanostrukturních materiálů a popularizátor vědy. Reakreační hráč fotbalu a pokeru."
     partyUid: pirati
   - uid: michaela.opltova
     age: 36
