@@ -1,6 +1,6 @@
 ---
 uid: lukas.barton
-name:     Lukáš bartoň  	# běžně používáné jméno
+name:     Lukáš Bartoň  	# běžně používáné jméno
 titles:
   before: Ing.
   after: Ph.D.
