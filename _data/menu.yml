@@ -46,8 +46,8 @@ bottom:
     links:
       - link: /lide/
         name: Lidé
-      - link: https://evropapotrebuje.cz/
-        name: Volby
+#      - link: https://evropapotrebuje.cz/
+#        name: Volby
       - link: /aktuality/
         name: Aktuality
   - class: small-12 medium-4
