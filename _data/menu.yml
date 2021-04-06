@@ -22,6 +22,9 @@ main:
   - link: /pirativkraji/
     name: Piráti v kraji
     match: pirativkraji
+  - link: /pripoj-se/
+    name: Připoj se
+    match: pirativkraji
 #  - link: /volby-2020/
 #    name: Krajské volby
 #    match: volby-2020
