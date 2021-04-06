@@ -24,7 +24,7 @@ Těšíme se na spolupráci!
 
 A zde je několik fotografií z natáčení:
 
-![](/posts/mtb_1.jpeg)
+{% asset 'https://a.pirati.cz/plzensky/img/posts/mtb_1.jpeg' magick:gravity='north' alt='PCpomoc'%}
 
 ![](/posts/mtb_2.jpeg)
 
