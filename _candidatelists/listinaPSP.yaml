@@ -17,8 +17,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     description: Zakladatel a provozovatel 2 úspěšných internetových startupů. Vystudoval právnickou fakultu. Rybář,milovník psů, pěších tůr a plzeňského piva.
   - uid: lukas.barton
     age: 40
-    profession: Vědec, poslanec se specializací na oblast školství. Místopředseda výboru Vědec, Poslanec ze specializací na oblast školství, místopředseda Výboru pro vědu, vzdělání, kulturu,
-mládež a tělovýchovu 
+    profession: Vědec, poslanec se specializací na oblast školství. Místopředseda Výboru pro vědu, vzdělání, kulturu, mládež a tělovýchovu 
     description: Vedoucí laboratoře Provozní pevnosti na fakultě strojní. Zahrádkář, který se ve volném čase rýpe v zemi. 
     partyUid: pirati
   - uid: jiri.rezek
