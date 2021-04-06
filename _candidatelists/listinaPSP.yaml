@@ -7,7 +7,7 @@ leader:
   age: 55
   profession: zastupitel, náměstek hejtmanky pro oblast životního prostředí, zemědělství, evropských záležitostí a regionálního rozvoje
   partyUid: STAN
-  description: "Zde bude popis"
+  description: 
 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
   - uid: daniel.kus
@@ -26,9 +26,9 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
     description: "Otec dvou dětí. Vědecký pracovník v oboru nanostrukturních materiálů a popularizátor vědy. Reakreační hráč fotbalu a pokeru."
     partyUid: pirati
   - uid: michaela.opltova
-    age: 36
+    age: 35
     profession: Starostka obce Kozolupy 
-    description: "Zde bude popis"
+    description: 
     partyUid: STAN
 
     
