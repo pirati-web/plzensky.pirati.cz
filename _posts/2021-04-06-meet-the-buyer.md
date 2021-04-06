@@ -21,16 +21,17 @@ Chcete se stát dodavatelem Plzeňského kraje, vyplňte ve dvou minutách krát
 Těšíme se na spolupráci!
 
 
+
 A zde je několik fotografií z natáčení:
 
-![](/assets/plzensky/img/posts/meet_the_buyer/mtb_1.jpeg)
+![](/posts/meet_the_buyer/mtb_1.jpeg)
 
-![](/assets/plzensky/img/posts/meet_the_buyer/mtb_2.jpeg)
+![](/posts/meet_the_buyer/mtb_2.jpeg)
 
-![](/assets/plzensky/img/posts/meet_the_buyer/mtb_3.jpeg)
+![](/posts/meet_the_buyer/mtb_3.jpeg)
 
-![](/assets/plzensky/img/posts/meet_the_buyer/mtb_4.jpeg)
+![](/posts/meet_the_buyer/mtb_4.jpeg)
 
-![](/assets/plzensky/img/posts/meet_the_buyer/mtb_5.jpeg)
+![](/posts/meet_the_buyer/mtb_5.jpeg)
 
-![](/assets/plzensky/img/posts/meet_the_buyer/mtb_6.jpeg)
+![](/posts/meet_the_buyer/mtb_6.jpeg)
