@@ -11,7 +11,7 @@ leader:
 
 head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jmeno.md
   - uid: daniel.kus
-    age: 46
+    age: 47
     profession: internetový podnikatel,právník a zastupitel města Plzně
     partyUid: pirati
     description: Zakladatel a provozovatel 2 úspěšných internetových startupů. Vystudoval právnickou fakultu. Rybář,milovník psů, pěších tůr a plzeňského piva.
