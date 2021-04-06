@@ -4,7 +4,7 @@ category: blog
 tags: Plzenskykraj Digitalizace Verejnezakazky Centralninakup
 title: Meet the Buyer – Představení plánu investičních akcí v Plzeňském kraji pro rok 2021
 author: Milan Chaloupka
-image: posts/Statusy_Pirati_meet the buyer.jpg
+image: posts/meet_the_buyer.jpg
 important: true
 ---
 
