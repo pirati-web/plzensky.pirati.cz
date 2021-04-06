@@ -24,14 +24,14 @@ Těšíme se na spolupráci!
 
 A zde je několik fotografií z natáčení:
 
-![](/posts/meet_the_buyer/mtb_1.jpeg)
+![](/posts/mtb_1.jpeg)
 
-![](/posts/meet_the_buyer/mtb_2.jpeg)
+![](/posts/mtb_2.jpeg)
 
-![](/posts/meet_the_buyer/mtb_3.jpeg)
+![](/posts/mtb_3.jpeg)
 
-![](/posts/meet_the_buyer/mtb_4.jpeg)
+![](/posts/mtb_4.jpeg)
 
-![](/posts/meet_the_buyer/mtb_5.jpeg)
+![](/posts/mtb_5.jpeg)
 
-![](/posts/meet_the_buyer/mtb_6.jpeg)
+![](/posts/mtb_6.jpeg)
