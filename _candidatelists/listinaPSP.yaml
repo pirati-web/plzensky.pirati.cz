@@ -18,7 +18,7 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
   - uid: lukas.barton
     age: 40
     profession: Vědec, poslanec se specializací na oblast školství. Místopředseda Výboru pro vědu, vzdělání, kulturu, mládež a tělovýchovu 
-    description: Vedoucí laboratoře Provozní pevnosti na fakultě strojní. Zahrádkář, který se ve volném čase rýpe v zemi. 
+    description: Vedoucí laboratoře Provozní pevnosti na Fakultě strojní. Zahrádkář, který se ve volném čase rád rýpe v zemi. 
     partyUid: pirati
   - uid: jiri.rezek
     age: 38
