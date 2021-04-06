@@ -16,6 +16,9 @@ main:
   - link: /aktuality/
     name: Aktuality
     match: aktuality
+  - link: /volby-2021/
+    name: Volby 2021
+    match: volby-2021
   - link: /lide/
     name: Zastupitelé
     match: lide
@@ -25,9 +28,6 @@ main:
   - link: /pripoj-se/
     name: Připoj se
     match: pirativkraji
-#  - link: /volby-2020/
-#    name: Krajské volby
-#    match: volby-2020
   - link: /kontakt/
     name: Kontakt
     match: kontakt
