@@ -26,12 +26,12 @@ A zde je několik fotografií z natáčení:
 
 {% asset 'https://a.pirati.cz/plzensky/img/posts/mtb_1.jpeg' magick:gravity='north' alt='PCpomoc'%}
 
-![](/posts/mtb_2.jpeg)
+{% asset 'https://a.pirati.cz/plzensky/img/posts/mtb_2.jpeg' magick:gravity='north' alt='PCpomoc'%}
 
-![](/posts/mtb_3.jpeg)
+{% asset 'https://a.pirati.cz/plzensky/img/posts/mtb_3.jpeg' magick:gravity='north' alt='PCpomoc'%}
 
-![](/posts/mtb_4.jpeg)
+{% asset 'https://a.pirati.cz/plzensky/img/posts/mtb_4.jpeg' magick:gravity='north' alt='PCpomoc'%}
 
-![](/posts/mtb_5.jpeg)
+{% asset 'https://a.pirati.cz/plzensky/img/posts/mtb_5.jpeg' magick:gravity='north' alt='PCpomoc'%}
 
-![](/posts/mtb_6.jpeg)
+{% asset 'https://a.pirati.cz/plzensky/img/posts/mtb_6.jpeg' magick:gravity='north' alt='PCpomoc'%}
