@@ -52,7 +52,7 @@ calendar:
 
   title: Krajský kalendář
   id: fstbrgjct7a7cvkidpp08bit48@group.calendar.google.com
-  page: https://calendar.google.com/calendar/embed?showTitle=0&showNav=0&showDate=0&showPrint=0&showTabs=0&showCalendars=0&showTz=0&mode=AGENDA&height=500&wkst=2&hl=cs&bgcolor=%23FFFFFF&src=fstbrgjct7a7cvkidpp08bit48%40group.calendar.google.com&ctz=Europe%2FPrague&color=%232952A3
+  page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=fstbrgjct7a7cvkidpp08bit48%40group.calendar.google.com&ctz=Europe%2FPrague&amp;color=%232952A3
 
 facebook:
   loadSDK: true
