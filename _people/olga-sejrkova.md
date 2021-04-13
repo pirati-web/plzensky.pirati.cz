@@ -9,7 +9,7 @@ description: členka místního sdružení Plzeň
 img: people/olga.sejrkova.jpg # zakomentuj radek dokud není fotka
 heroImg: banner-default.jpg
 mail:
-- olga.sejrkoval@pirati.cz
+- olga.sejrkova@pirati.cz
 profiles:
   facebook: https://www.facebook.com/ola.ole.9 
 ---
