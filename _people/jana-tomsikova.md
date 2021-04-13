@@ -7,7 +7,7 @@ titles:
 category:                 		# kategorie: rp, praha, vary, hradec, jmk, senat
 - zastupitele
 
-img: people/jana-tomsikova.jpg           # 165 x 220
+img: people/tomsikova1.jpg           # 165 x 220
 heroImg: banner-default.jpg
 description: zastupitelka Plzeň 4, členka místního sdružení Plzeň # kratký popis, max 160 znaků
 ordplzen: 11
