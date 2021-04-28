@@ -31,6 +31,9 @@ Po narození dvou synů se již jako manželé v r. 2008 rozhodli vrátit zpět 
 <p>
 V lednu 2017 však utichly můzy a Pavel zasvětil svůj veřejný život boji proti kontroverznímu záměru výstavby obřích průmyslových hal v Liticích. Stal se jedním z vůdců odporu, v jehož rámci se více než 900 občanů zůčastnilo podpisových akcí, proběhly veřejné schůze, dokonce i demonstrace na Nám. Republiky v Plzni. Investorovi se zatím nedaří výstavbu hal prosadit. V důsledku této kauzy měl Pavel možnost nahlédnout do těch nejtemnější koutů plzeňské politiky.
   
+
+V r. 2018 se v pozici lídra pirátské kandidátky účastnil komunálních voleb. Nyní pracuje jako neuvolněný předseda opozičního zastupitelského klubu.
+  
 Dlouhodobě poukazuje na klientelizmus, četné střety zájmů a častou nekompetentnost městských představitelů. S pevnou vírou ve svobodu a demokracii chce bojovat za transparentní Plzeň s morálně bezúhonným vedením a udržitelnou vizí pro budoucnost.
 </p>
 
