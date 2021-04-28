@@ -29,11 +29,13 @@ Po narození dvou synů se již jako manželé v r. 2008 rozhodli vrátit zpět 
 </p>
 
 <p>
-V lednu 2017 však utichly můzy a Pavel zasvětil svůj veřejný život boji proti kontroverznímu záměru výstavby obřích průmyslových hal v Liticích. Stal se jedním z vůdců odporu, v jehož rámci se více než 900 občanů zůčastnilo podpisových akcí, proběhly veřejné schůze, dokonce i demonstrace na Nám. Republiky v Plzni. Investorovi se zatím nedaří výstavbu hal prosadit. V důsledku této kauzy měl Pavel možnost nahlédnout do těch nejtemnější koutů plzeňské politiky. Dlouhodobě poukazuje na klientelizmus, četné střety zájmů a častou nekompetentnost městských představitelů. S pevnou vírou ve svobodu a demokracii chce bojovat za transparentní Plzeň s morálně bezúhonným vedením a udržitelnou vizí pro budoucnost.
+V lednu 2017 však utichly můzy a Pavel zasvětil svůj veřejný život boji proti kontroverznímu záměru výstavby obřích průmyslových hal v Liticích. Stal se jedním z vůdců odporu, v jehož rámci se více než 900 občanů zůčastnilo podpisových akcí, proběhly veřejné schůze, dokonce i demonstrace na Nám. Republiky v Plzni. Investorovi se zatím nedaří výstavbu hal prosadit. V důsledku této kauzy měl Pavel možnost nahlédnout do těch nejtemnější koutů plzeňské politiky.
+  
+Dlouhodobě poukazuje na klientelizmus, četné střety zájmů a častou nekompetentnost městských představitelů. S pevnou vírou ve svobodu a demokracii chce bojovat za transparentní Plzeň s morálně bezúhonným vedením a udržitelnou vizí pro budoucnost.
 </p>
 
 <p>
-Články:
+Ještě nějaké informace o mých kauzách z médií:
 </p>
 
 <p>
@@ -50,18 +52,17 @@ V lednu 2017 však utichly můzy a Pavel zasvětil svůj veřejný život boji p
 </p>
 
 <p>
-Dokonce i Parlamentní Listy mají svůj úhel: <a href="https://www.parlamentnilisty.cz/arena/monitor/-Humus-ostuda-Mohou-tady-ohrozovat-deti-Vyrizuji-si-ucty-po-nocich-Drsna-vzpoura-v-male-obci-proti-vystavbe-haly-a-cizincum-481156" class="urlextern" title="https://www.parlamentnilisty.cz/arena/monitor/-Humus-ostuda-Mohou-tady-ohrozovat-deti-Vyrizuji-si-ucty-po-nocich-Drsna-vzpoura-v-male-obci-proti-vystavbe-haly-a-cizincum-481156" rel="nofollow">https://www.parlamentnilisty.cz/arena/monitor/-Humus-ostuda-Mohou-tady-ohrozovat-deti-Vyrizuji-si-ucty-po-nocich-Drsna-vzpoura-v-male-obci-proti-vystavbe-haly-a-cizincum-481156</a>
-</p>
-
-<p>
-V tištěném idnes vyšel i rozhovor se mnou, bohužel má mjen sken: <a href="https://www.facebook.com/photo.php?fbid=10211691937470378&amp;set=gm.353174041743653&amp;type=3&amp;theater&amp;ifg=1" class="urlextern" title="https://www.facebook.com/photo.php?fbid=10211691937470378&amp;set=gm.353174041743653&amp;type=3&amp;theater&amp;ifg=1" rel="nofollow">https://www.facebook.com/photo.php?fbid=10211691937470378&amp;set=gm.353174041743653&amp;type=3&amp;theater&amp;ifg=1</a>
+Pár článků z tištěného idnes:
+<a href="https://www.facebook.com/photo.php?fbid=10211691937470378&amp;set=gm.353174041743653&amp;type=3&amp;theater&amp;ifg=1" class="urlextern" title="https://www.facebook.com/photo.php?fbid=10211691937470378&amp;set=gm.353174041743653&amp;type=3&amp;theater&amp;ifg=1" rel="nofollow">https://www.facebook.com/photo.php?fbid=10211691937470378&amp;set=gm.353174041743653&amp;type=3&amp;theater&amp;ifg=1</a>
 </p>
 
 <p>
 Proběhlo i pár vystoupení v TV včetně živého vstupu na ČT24
 <a href="http://www.ceskatelevize.cz/porady/10118379000-udalosti-v-regionech-praha/218411000140129-udalosti-v-regionech/video/596766" class="urlextern" title="http://www.ceskatelevize.cz/porady/10118379000-udalosti-v-regionech-praha/218411000140129-udalosti-v-regionech/video/596766" rel="nofollow">http://www.ceskatelevize.cz/porady/10118379000-udalosti-v-regionech-praha/218411000140129-udalosti-v-regionech/video/596766</a>
 <a href="http://www.ceskatelevize.cz/ivysilani/1178166846-zpravy/217411015001209" class="urlextern" title="http://www.ceskatelevize.cz/ivysilani/1178166846-zpravy/217411015001209" rel="nofollow">http://www.ceskatelevize.cz/ivysilani/1178166846-zpravy/217411015001209</a>
-<a href="http://www.ceskatelevize.cz/ivysilani/10101491767-studio-ct24/217411035000013" class="urlextern" title="http://www.ceskatelevize.cz/ivysilani/10101491767-studio-ct24/217411035000013" rel="nofollow">http://www.ceskatelevize.cz/ivysilani/10101491767-studio-ct24/217411035000013</a>
+<a href="http://www.ceskatelevize.cz/ivysilani/10101491767-studio-ct24/217411035000013" class="urlextern" title="http://www.ceskatelevize.cz/ivysilani/10101491767-studio-ct24/217411035000013" rel="nofollow">http://www.ceskatelevize.cz/ivysilani/10101491767-studio-ct24/217411035000013</a> - tady jsem se poprvé potkal s Rudou Špotákem na kameře. To jsme se ještě neznali a netušili, že se sejdeme v pirátské straně.
+http://www.ceskatelevize.cz/porady/10118379000-udalosti-v-regionech-praha/218411000140129-udalosti-v-regionech/video/596766
+čas 11:50 - http://www.ceskatelevize.cz/ivysilani/1178166846-zpravy/217411015001209
 </p>
 
 <p>
