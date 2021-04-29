@@ -20,11 +20,13 @@ profiles:
 
 Mgr. Daniel Kůs (* 26. září 1974) je členem Pirátské strany od března 2018. Pochází z Plzně a zde i celý život žije.
 
-Vystudoval gymnázium V Plzni a Právnickou fakultu ZČU v Plzni obor Právo a právní věda, kde získal titul Mgr.
+Vystudoval gymnázium v Plzni a Právnickou fakultu ZČU v Plzni obor Právo a právní věda, kde získal titul Mgr.
 
-Založil 2 úspěšné internetové startupy.V současnosti působí jako jednatel a majitel jednoho z nich.
+Založil 2 úspěšné internetové startupy. Stále je jednatelem a majitelem jednoho z nich.
 
-V současnosti působí jako zastupitel města Plzně a centrálního plzeňského obvodu Plzeň 3.
+V současnosti působí jako zastupitel města Plzně a centrálního plzeňského obvodu Plzeň 3 za Piráty.
+
+Vzhledem k své praxi by se rád věnoval na přípravě zákonů potřebných pro digitalizaci veřejné správy. A také pomoci s restartem krizí zasažených podnikatelských odvětví a celé ekonomiky.
 
 Zajímá se o politiku na všech úrovních. Rád rybaří, miluje psy, pěší tůry a umění.
 
