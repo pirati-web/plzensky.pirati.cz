@@ -5,4 +5,4 @@ img: people/pavel_cizek.PNG
 heroImg: banner-default.jpg
 ---
 
-kandidát
+náměstek hejtmanky pro oblast dopravy, místostarosta Spáleného Poříčí
