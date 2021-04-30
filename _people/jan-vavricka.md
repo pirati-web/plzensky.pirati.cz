@@ -5,4 +5,4 @@ img: people/jan_vavricka.PNG
 heroImg: banner-default.jpg
 ---
 
-kandidát
+starosta Pačejova - Vesnice roku Plzeňského kraje
