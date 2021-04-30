@@ -5,4 +5,4 @@ img: people/vaclav_bernard.PNG
 heroImg: banner-default.jpg
 ---
 
-kandidát
+starosta Všerub
