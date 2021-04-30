@@ -19,4 +19,16 @@ profiles:
 ordplzen: 9
 
 ---
-**Bc. Radek Krejčí** (29) je rodák z Plzně. Po absolvování Církevního gymnázia odešel do Brna, kde vystudoval psychologii na Masarykově univerzitě. Dorozumí se anglicky a francouzsky. V současné době pracuje jako Správce pohledávek pro zahraniční klientelu. O volných chvílích se věnuje sportu a zajímá se o dění ve veřejném životě. O volných týdnech odjíždí k oceánu, kde surfuje.
+**Radek Krejčí** (* 18. června 1992) je od roku 2016 členem Pirátské strany a rodilým Plzeňákem. Po absolvování Církevního gymnázia odešel do Brna, kde vystudoval obor Psychologie na Masarykově univerzitě. V současnosti pracuje jako koordinátor  vývojového týmu v IT.
+
+V roce 2019 se stal zastupitelem města Plzně. Dále aktivně vystupuje jako člen Bytové komise Rady města Plzně, Komise pro rozvoj obvodu a investiční činnost ÚMO Plzeň 2 a Výboru pro investice a majetek Plzeňského kraje. V politice se nejvíce zasazuje o:
+
+
+·        Koncepční plánování
+
+·        Řešení krize a dostupnosti bydlení
+
+·        Efektivní dopravní řešení
+
+
+Ve volném čase se aktivně věnuje sportu a cestování. Dorozumí se anglicky a francouzsky. Procestoval kus Evropy, kam s oblibou podniká dobrodružné cesty, a považuje mnoho jejích koutů za báječné místo k životu.
