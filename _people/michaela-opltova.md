@@ -1,8 +1,8 @@
 ---
 uid: michaela.opltova				# jak jste na fóru
 name: Michaela Opltova  			# běžně používáné jméno
-titles:
- before: 
+titles: 
+ before: Ing.
  after: 
 category:                 			# kategorie: plzen, pms, pos - každá na svůj řádek 
 
