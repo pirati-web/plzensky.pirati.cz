@@ -5,4 +5,4 @@ img: people/vaclav_koci.PNG
 heroImg: banner-default.jpg
 ---
 
-kandidát
+starosta Rokycan
