@@ -5,4 +5,4 @@ img: people/martina_nemeckova.PNG
 heroImg: banner-default.jpg
 ---
 
-kandidátka
+starostka Plané
