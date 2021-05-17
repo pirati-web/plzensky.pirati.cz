@@ -4,7 +4,7 @@ category: blog
 tags: Plzenskykraj PiratiaStarostove Volby2021 Kampan
 title: Piráti a Starostové startují předvolební kampaň s heslem: Vraťme naší zemi budoucnost!
 author: Piráti a Starostové
-image: posts/Titulek TZ_PirSta.jpg.jpg
+image: posts/Titulek_TZ_PirSta.jpg
 important: true
 ---
 
