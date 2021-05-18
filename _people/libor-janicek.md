@@ -15,5 +15,5 @@ mob:
  - 604 761 460
 ---
 
-Jsem moderátor, DJ, produkční, event manager a věnuji se také marketingu a komunikaci. Nejradši jsem tátou svého syna Liborka, se kterým objevujeme svět. V pracovním životě jsem moderátor, DJ, produkční, event manager a věnuji se také
+Nejradši jsem tátou svého syna Liborka, se kterým objevujeme svět. V pracovním životě jsem moderátor, DJ, produkční, event manager a věnuji se také
 marketingu a komunikaci. V mém životě platí, že cesta je cíl, proto miluji cestování a turistiku.
