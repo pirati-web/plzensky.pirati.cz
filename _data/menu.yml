@@ -8,8 +8,8 @@ top:
   - link: "Pirátské listy"
     url:  "http://www.piratskelisty.cz"
     icon: "ico--newspaper"
-  - link: "3D tisk"
-    url:  "https://plzensky.pirati.cz/3Dtisk/"
+  - link: "koaliční noviny"
+    url:  "http://plzensky.pirati.cz/download/plzenska_mutace_PaS%20noviny_Jaro%202021.pdf"
     icon: "ico--home"
         
 main:
