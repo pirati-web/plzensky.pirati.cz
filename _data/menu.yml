@@ -5,12 +5,12 @@ top:
   - link: "piratskyobchod.cz"
     url:  "https://piratskyobchod.cz"
     icon: "ico--cart"
-  - link: "Pirátské listy"
+  - link: "Pirátské listy-web"
     url:  "http://www.piratskelisty.cz"
-    icon: "ico--newspaper"
+    icon: "ico--home"
   - link: "koaliční noviny"
     url:  "http://plzensky.pirati.cz/download/plzenska_mutace_PaS%20noviny_Jaro%202021.pdf"
-    icon: "ico--home"
+    icon: "ico--newspaper"
         
 main:
   - link: /aktuality/
