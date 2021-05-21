@@ -9,7 +9,7 @@ top:
     url:  "http://www.piratskelisty.cz"
     icon: "ico--home"
   - link: "koaliční noviny"
-    url:  "http://plzensky.pirati.cz/download/plzenska_mutace_PaS%20noviny_Jaro%202021.pdf"
+    url:  "https://praha.pirati.cz/piratske-listy/plzenska/"
     icon: "ico--newspaper"
         
 main:
