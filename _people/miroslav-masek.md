@@ -11,9 +11,9 @@ img: people/miroslav_masek.jpg
 heroImg: banner-default.jpg
 mail:
 - miroslav.masek@pirati.cz
-
-
-
+mob:
+ - 778 111 465
+ 
 ---
 
 Mgr. Miroslav Mašek (16. prosince 1993), Krajský koordinátor – Plzeňský kraj. Miroslav pochází z města Frýdek-Místek a od roku 2014 žije v Plzni.
