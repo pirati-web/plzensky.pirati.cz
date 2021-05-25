@@ -8,7 +8,7 @@ image: posts/PirStar_Seniori_fin.jpg
 important: true
 ---
 
-**V Během posledních covidových vln došlo k ještě větší izolaci lidí a u seniorů to platilo dvojnásob. Z televize i rádia se na nás valily samé špatné zprávy, uzavřeli nás v obcích a představy o tom, že v brzké době budeme volně cestovat byly skoro zakázané. Někdo propadal depresím, ale plzeňští Piráti se rozhodli aktivně zapojit do celorepublikového projektu Senioři na palubě.**
+**Během posledních covidových vln došlo k ještě větší izolaci lidí a u seniorů to platilo dvojnásob. Z televize i rádia se na nás valily samé špatné zprávy, uzavřeli nás v obcích a představy o tom, že v brzké době budeme volně cestovat byly skoro zakázané. Někdo propadal depresím, ale plzeňští Piráti se rozhodli aktivně zapojit do celorepublikového projektu Senioři na palubě.**
 
 Odstartoval tak projekt, který cestovatelům a zajímavým lidem nejen z Pirátské posádky dal prostor sdílet s ostatními své dřívější zážitky skrze online přednášku a umožnil všem, kteří se chtěli vydat na daleké cesty nebo za poznáním, připojit se a alespoň virtuálně zažít dobrodružství z pohodlí svých domovů. Celkem jsme během letošního jara zvládli uspořádat 9 přednášek a před sebou máme poslední z jarní části, ve které se 2. června vypravíme s ošetřovatelkou Monikou Novákovou za plzeňskými šimpanzi. Bude to dárek pro naše nejmladší k Mezinárodnímu dni dětí.
 
