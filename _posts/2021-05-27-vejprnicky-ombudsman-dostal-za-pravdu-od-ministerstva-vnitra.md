@@ -38,9 +38,9 @@ Pirát Jiří Pek bude jako opoziční zastupitel a Vejprnický ombudsman i pře
 
 [Vejprnice jako nejuzavřenější obec na západ od Prahy](https://oz.otevrenaspolecnost.cz/)
 
-[Reportáž České televize o institutu Vejprnického ombudsmana](https://www.ceskatelevize.cz/ ivysilani/10118379000-udalosti-v-regionech-praha/219411000140613-udalosti-v-regionech/ obsah/702467-vejprnice-maji-vlastniho-ombudsmana)
+[Reportáž České televize o institutu Vejprnického ombudsmana](https://www.ceskatelevize.cz/ivysilani/10118379000-udalosti-v-regionech-praha/219411000140613-udalosti-v-regionech/obsah/702467-vejprnice-maji-vlastniho-ombudsmana)
 
-[Odkaz na protokol o kontrole od Ministerstva vnitra ČR](https://www.pirativejprnice.cz/wp%20content/uploads/2021/03/priloha_881452522_1_Priloha-178341-6.2020-protokol-o-kontrole.pdf)
+[Odkaz na protokol o kontrole od Ministerstva vnitra ČR](https://www.pirativejprnice.cz/wp-content/uploads/2021/03/priloha_881452522_1_Priloha-178341-6.2020-protokol-o-kontrole.pdf)
 
 [Doslovné znění žaloby na Jiřího Peka](https://www.pirativejprnice.cz/zaloba-karpiska-vuci%20pekovi/)
 
