@@ -4,7 +4,7 @@ category: blog
 tags: PiratiVejprnice Ombudsman JiriPek
 title: Vejprnický ombudsman v boji za informovanost občanů v obci dostal za pravdu i od Vnitra!
 author: Piráti Vejprnice
-image: posts/PirStan_FB status_1_Pek.jpg
+image: posts/PirStan_FB_status_1_Pek.jpg
 important: true
 ---
 
