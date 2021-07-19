@@ -1,7 +1,7 @@
 ---
 date: 2021-07-19
 category: blog
-tags: Plzenskykraj Pirati Robotizace KrajskyUrad MilanChaloupka Pavel Hais
+tags: Plzenskykraj Pirati Robotizace KrajskyUrad MilanChaloupka PavelHais
 title: Piráti na Krajském úřadu připravují robotickou automatizaci procesů!
 author: Milan Chaloupka a Pavel Hais
 image: posts/PirStan_Robotizace.jpg
