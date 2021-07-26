@@ -4,7 +4,7 @@ category: blog
 tags: Plzenskykraj PiratiStarostove KrajskyUrad KandidatniListina 
 title: Kandidátní listina Pirátů a Starostů do Sněmovny podána!
 author: Piráti z Plzeňského kraje
-image: posts/PirStar_Kandidatka.jpg
+image: posts/PirStan_Kandidatka_2.jpg
 important: true
 ---
 
