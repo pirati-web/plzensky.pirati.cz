@@ -8,7 +8,7 @@ image: posts/PirSta_Kaja_Predstaveni.jpg
 important: true
 ---
 
-**Po parlamentních volbách nás opustí ostřílený mazák Miroslav Mašek a na postu krajského koordinátora ho nahradí energická Karolína Šteflíčková. Ta se po boku Míry už nyní učí zvládnout nelehkou agendu, takzvaného “koksíka”. **
+**Po parlamentních volbách nás opustí ostřílený mazák Miroslav Mašek a na postu krajského koordinátora ho nahradí energická Karolína Šteflíčková. Ta se po boku Míry už nyní učí zvládnout nelehkou agendu, takzvaného “koksíka”.**
 
 Pojďme se s “Kájou” blíže seznámit. Pochází z jihočeského Jindřichova Hradce, ale posledních pět let žije v Plzni. Úspěšně studovala na ZČU v Plzni na Katedře politologie a mezinárodních vztahů obor Mezinárodní vztahy. V rámci studia se zaměřila na bezpečnostní tematiku, Rusko a postsovětský prostor.
 
