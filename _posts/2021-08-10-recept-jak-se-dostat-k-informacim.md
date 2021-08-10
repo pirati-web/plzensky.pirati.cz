@@ -18,4 +18,4 @@ Podle něj je nejčastějším zdůvodněním neposkytování informací ze stra
 
 A tak se nabízí otázka, jak to, že to někde jde a jinde ne? *“Všechny obce by měly při zveřejňování materiálů postupovat podobně jako třeba radnice v Písku - kompletní podklady pro jednání rady mít v elektronické podobě ke stažení na internetových stránkách,”* uvádí příklad dobré praxe Pek.
 
-Možná, že i vy žijete v obci, která informace neposkytuje a chcete to změnit. Proto Jiří Pek vypracoval žádost, na základě které můžete požadovat informace a podkladové materiály připravené k zasedání rady obce. Stáhněte si ji [zde](plzensky.pirati.cz/download/zadost_o_pristup_k_usneseni_z_rady_obce.pdf) a předložte ji vedení obce a nenechte se odbýt.
+Možná, že i vy žijete v obci, která informace neposkytuje a chcete to změnit. Proto Jiří Pek vypracoval žádost, na základě které můžete požadovat informace a podkladové materiály připravené k zasedání rady obce. Stáhněte si ji [zde](https://plzensky.pirati.cz/download/zadost_o_pristup_k_usneseni_z_rady_obce.pdf) a předložte ji vedení obce a nenechte se odbýt.
