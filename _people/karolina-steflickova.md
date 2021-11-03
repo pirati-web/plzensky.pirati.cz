@@ -10,7 +10,7 @@ description: krajská koordinátorka
 img: people/karolina_steflickova.jpg
 heroImg: banner-default.jpg
 mail:
-- miroslav.masek@pirati.cz
+- karolina.steflickova@pirati.cz
 mob:
  - 704 975 334
  
