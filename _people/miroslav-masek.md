@@ -5,7 +5,6 @@ titles:
   before: Mgr.
   after:
 category:
-- kontaktni_osoba
 description: krajský koordinátor, asistent poslance Lukáše Bartoně
 img: people/miroslav_masek.jpg
 heroImg: banner-default.jpg
