@@ -5,7 +5,6 @@ titles:
   before: Mgr.
   after:
 category:
-- kontaktni_osoba
 description: Mediální spojka - Plzeňský kraj
 img: people/libor_janicek.jpg
 heroImg: banner-default.jpg
