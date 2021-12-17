@@ -2,12 +2,12 @@
 layout: default
 ---
 
-{% include main/header.html href="https://nalodeni.pirati.cz/" cta="Přidat se k nám" title="Piráti Plzeňský kraj" %}
+{% include homepage/banner.html href="http://nalodeni.pirati.cz" cta="Přidej se k Pirátům" title="Piráti Plzeňský kraj" img="plzenksy_kraj.png" %}
 
-<div class="container container--default lg:pb-24">
-  {% include homepage/countdown.html deadline="2022-10-08 08:00:00" %}
+<div class="container container--default lg:pb-24 pt-10">
   {% include homepage/news.html %}
   {% include homepage/calendar.html %}
   {% include homepage/social.html %}
+  {% include homepage/countdown.html deadline="2022-10-08 08:00:00" %}
 </div>
 
