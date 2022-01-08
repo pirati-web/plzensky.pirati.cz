@@ -1,5 +1,5 @@
 ---
-date: 2022-0108
+date: 2022-01-08
 category: blog
 tags: Plzenskykraj Uspechy2021 Digitalizace Inovace Transparentnost 
 tittle: Co se podařilo v roce 2021? 
