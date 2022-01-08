@@ -4,7 +4,7 @@ category: blog
 tags: Plzenskykraj Uspechy2021 Digitalizace Inovace Transparentnost 
 title: Co se podařilo v roce 2021? 
 author: Milan Chaloupka a Pavel Hais 
-image: posts/PIR_FCB_IG_PF_2022.jpg
+image: posts/IMG_5835.jpg
 important: true 
 ---
 
