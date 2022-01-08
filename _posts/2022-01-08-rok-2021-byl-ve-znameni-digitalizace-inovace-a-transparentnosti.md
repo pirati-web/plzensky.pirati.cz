@@ -9,6 +9,7 @@ important: true
 ---
 
 **Rok 2021 byl ve znamení digitalizace, inovace a transparentnosti.**
+
 **Činnosti během pandemie COVID-19**
 Minulý rok jsme měli plné ruce práce. Ve velmi krátkém čase se nám podařilo upravit sál
 zastupitelstva, aby mohlo dojít k navýšení počtu fyzických hlasovacích jednotek. Byl rozšířen
