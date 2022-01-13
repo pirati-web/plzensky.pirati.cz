@@ -8,8 +8,7 @@ image: posts/PIRWEB-CLANEK-IMG.jpg
 important: true 
 ---
 
-**Rok ve znamení digitalizace, inovace a transparentnosti. Naše práce pro
-občany nám dává smysl**
+
 
 **Činnosti během pandemie COVID-19**
 
