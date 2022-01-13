@@ -2,8 +2,7 @@
 date: 2022-01-13
 category: blog
 tags: Plzenskykraj Uspechy2021 Digitalizace Inovace Transparentnost 
-title: Rok ve znamení digitalizace, inovace a transparentnosti. Naše práce pro
-občany nám dává smysl
+title: Rok ve znamení digitalizace, inovace a transparentnosti. Naše práce pro občany nám dává smysl
 author: Milan Chaloupka a Pavel Hais 
 image: posts/PIRWEB-CLANEK-IMG.jpg
 important: true 
