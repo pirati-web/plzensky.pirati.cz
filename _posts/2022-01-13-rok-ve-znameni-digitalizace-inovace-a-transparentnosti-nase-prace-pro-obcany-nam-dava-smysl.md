@@ -18,12 +18,12 @@ audiovizuální systém a zároveň nasazen informační systém pro online jedn
 *„Virtuální hlasovací jednotky.“* Veškeré hlasování probíhalo pouhým kliknutím myši, pokud
 byl někdo ze zastupitelů připojen online.
 
-Veškerá jednání v rámci úřadu, hejtmanů ČR, krizového štábu, seminářů, porad, ale i
+Jednání v rámci úřadu, hejtmanů ČR, krizového štábu, seminářů, porad, ale i
 komunikace s medii kladla důraz na bezkontaktní komunikaci. Byly vytvořeny nové
 videokonference se speciálním zprovozněním obrazu i zvuku s možností nahráváním
 záznamu a jeho následném uložením do dokumentového uložiště kraje.
 
-Krajské hygienické stanici a krajským nemocnicím byla poskytnuta veškerá výpočetní
+Krajské hygienické stanici a krajským nemocnicím byla poskytnuta výpočetní
 technika, pro call centra jsme zařídili telekomunikační zařízení. Pro zaměstnance, kteří
 trasovali pro krajské hygienické stanice, byla vytvořena nová síť, aby vše fungovalo hladce a
 bezproblémově.
