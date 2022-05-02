@@ -18,4 +18,4 @@ Každý budeme vykonávat pouze jednu uvolněnou funkci, za kterou je poskytová
 
 Jak zní celý etický kodex? Odkaz ne etický kodex **[zde](https://www.plzensky-kraj.cz/eticky-kodex-clena-zastupitelstva-plzenskeho-kraje)**
 
-Kdo etický kodex podepsal? **[zde] (https://plzensky.pirati.cz/download/kdo_podepsal_eticky_kodex.pdf)**
+Kdo etický kodex podepsal? **[zde](https://plzensky.pirati.cz/download/kdo_podepsal_eticky_kodex.pdf)**
