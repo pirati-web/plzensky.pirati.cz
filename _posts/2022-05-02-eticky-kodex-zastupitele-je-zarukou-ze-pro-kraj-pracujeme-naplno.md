@@ -1,5 +1,5 @@
 ---
-date: 2022-02-05
+date: 2022-05-02
 category: blog
 tags: Plzenskykraj Etickykodexzastupitele Krajskyurad
 title: Etický kodex zastupitele je zárukou, že pro kraj pracujeme naplno
