@@ -7,7 +7,7 @@ titles:
 category:
 - zastupitele_domazlice
 - zastupitele_kraj
-description: zastupitel města Domažlice, náměstek hejtmanky pro oblast sociálních věcí
+description: zastupitel města Domažlice, hejtman Plzeňského kraje 
 img: people/rudolf_spotak.jpg # zakomentuj radek dokud není fotka
 heroImg: banner-default.jpg
 ordclenove: 2
