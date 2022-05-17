@@ -10,7 +10,7 @@ img: people/olga.sejrkova.jpg # zakomentuj radek dokud není fotka
 heroImg: banner-default.jpg
 mail:
 - olga.sejrkova@pirati.cz
-profiles:
+profiles: 2. místopředsedkyně a členka MS Plzeň 
   facebook: https://www.facebook.com/ola.ole.9 
 ---
 
