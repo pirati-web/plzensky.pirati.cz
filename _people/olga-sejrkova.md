@@ -5,12 +5,12 @@ titles:
   before: Mgr. 
 category:
 - clenove
-description: členka místního sdružení Plzeň
+description: 1. místopředsedkyně a členka místního sdružení Plzeň
 img: people/olga.sejrkova.jpg # zakomentuj radek dokud není fotka
 heroImg: banner-default.jpg
 mail:
 - olga.sejrkova@pirati.cz
-profiles: 2. místopředsedkyně a členka MS Plzeň 
+profiles:  
   facebook: https://www.facebook.com/ola.ole.9 
 ---
 
