@@ -9,7 +9,7 @@ category:                 			# kategorie: plzen, pms, pos - každá na svůj ř�
 
 img: people/frantisek-hagara.jpg   # 165 x 220
 heroImg: banner-default.jpg
-description: zastupitel Plzeň 1, člen místního sdružení Plzeň   # kratký popis, max 160 znaků
+description: zastupitel Plzeň 1, 3. místopředseda MS Plzeň  # kratký popis, max 160 znaků
 mail:
 - frantisek.hagara@pirati.cz
 mob: 
