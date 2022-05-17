@@ -7,7 +7,7 @@ titles:
 category:                 			# kategorie: plzen, pms, pos - každá na svůj řádek
 - zastupitele
 
-description: zastupitel města Plzně a zastupitel Plzeň 3, 1. místopředseda a člen místního sdružení Plzeň
+description: zastupitel města Plzně a zastupitel Plzeň 3, člen místního sdružení Plzeň
 img: people/dan-final-foto-ctverec.jpg
 heroImg: banner-default.jpg
 ordclenove: 2
